@@ -71,32 +71,33 @@ engine = Twitter(language="en")
 # With cached=False, a live request is sent to Twitter,
 # so we get the latest results for the query instead of those in the local cache.
 for tweet in engine.search("visualization", count=100, cached=False):
-    print tweet.text
-    print tweet.author
-    print tweet.date
-    print hashtags(tweet.text)
 
     # Create a unique ID based on the tweet content and author.
     id = str(hash(tweet.author + tweet.text))
 
     author = tweet.author
+    
+    # save the date string as a datetime object   
     dt = datetime.datetime.strptime(tweet.date, "%a, %d %b %Y %H:%M:%S +0000")
+    
+    # write the values to stings
     date = dt.strftime("%m/%d/%Y")
     time = dt.strftime("%H:%M:%S")
+    
+    # parse the hashes string
     hashes = hashtags(tweet.text)
     if len(hashes) > 0:
     	hashes = concat_strings(hashes)
     else:
-    	hashes = None
+    	hashes = ""
 
     # Only add the tweet to the table if it doesn't already contain this ID.
     if len(table) == 0 or id not in index:
         
         table.append([id, author, date, time, tweet.text, hashes])
+
         # table.append([id, tweet.text])
         index[id] = True
 
 table.save("twitter_output.csv")
 
-print "Total results:", len(table)
-print

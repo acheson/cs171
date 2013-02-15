@@ -1,0 +1,751 @@
+Movie Title,Time,Genre,Directors,Writers,Actors,Rating,Number of Ratings
+The Shawshank Redemption,"
+                142 min
+",Crime; Drama,Frank Darabont,Stephen King; Frank Darabont,Tim Robbins; Morgan Freeman; Bob Gunton,9.3,"916,394"
+The Godfather,"
+                175 min
+",Crime; Drama,Francis Ford Coppola,Mario Puzo; Francis Ford Coppola,Marlon Brando; Al Pacino; James Caan,9.2,"659,043"
+The Godfather: Part II,"
+                200 min
+",Crime; Drama,Francis Ford Coppola,Francis Ford Coppola; Mario Puzo,Al Pacino; Robert De Niro; Robert Duvall,9.1,"424,229"
+Pulp Fiction,"
+                154 min
+",Crime; Thriller,Quentin Tarantino,Quentin Tarantino; Roger Avary,John Travolta; Uma Thurman; Samuel L. Jackson,9.0,"713,833"
+"The Good, the Bad and the Ugly","
+                161 min
+",Adventure; Western,Sergio Leone,Luciano Vincenzoni; Sergio Leone,Clint Eastwood; Eli Wallach; Lee Van Cleef,9.0,"279,920"
+12 Angry Men,"
+                96 min
+",Drama,Sidney Lumet,Reginald Rose,Henry Fonda; Lee J. Cobb; Martin Balsam,8.9,"225,459"
+The Dark Knight,"
+                152 min
+",Action; Crime; Drama,Christopher Nolan,Jonathan Nolan; Christopher Nolan,Christian Bale; Heath Ledger; Aaron Eckhart,9.0,"895,440"
+Schindler's List,"
+                195 min
+",Biography; Drama; History,Steven Spielberg,Thomas Keneally; Steven Zaillian,Liam Neeson; Ralph Fiennes; Ben Kingsley,8.9,"471,428"
+The Lord of the Rings: The Return of the King,"
+                201 min
+",Action; Adventure; Fantasy,Peter Jackson,J.R.R. Tolkien; Fran Walsh,Elijah Wood; Viggo Mortensen; Ian McKellen,8.9,"656,051"
+Fight Club,"
+                139 min
+",Drama,David Fincher,Chuck Palahniuk; Jim Uhls,Brad Pitt; Edward Norton; Helena Bonham Carter,8.9,"698,721"
+Star Wars: Episode V - The Empire Strikes Back,"
+                124 min
+",Action; Adventure; Sci-Fi,Irvin Kershner,Leigh Brackett; Lawrence Kasdan,Mark Hamill; Harrison Ford; Carrie Fisher,8.8,"453,009"
+The Lord of the Rings: The Fellowship of the Ring,"
+                178 min
+",Action; Adventure; Drama,Peter Jackson,J.R.R. Tolkien; Fran Walsh,Elijah Wood; Ian McKellen; Orlando Bloom,8.8,"681,337"
+One Flew Over the Cuckoo's Nest,"
+                133 min
+",Drama,Milos Forman,Lawrence Hauben; Bo Goldman,Jack Nicholson; Louise Fletcher; Michael Berryman,8.8,"382,886"
+Inception,"
+                148 min
+",Action; Adventure; Mystery,Christopher Nolan,Christopher Nolan,Leonardo DiCaprio; Joseph Gordon-Levitt; Ellen Page,8.8,"710,918"
+Goodfellas,"
+                146 min
+",Biography; Crime; Drama,Martin Scorsese,Nicholas Pileggi; Nicholas Pileggi,Robert De Niro; Ray Liotta; Joe Pesci,8.8,"401,258"
+Star Wars,"
+                121 min
+",Action; Adventure; Fantasy,George Lucas,George Lucas,Mark Hamill; Harrison Ford; Carrie Fisher,8.8,"508,049"
+Seven Samurai,"
+                141 min
+",Action; Adventure; Drama,Akira Kurosawa,Akira Kurosawa; Shinobu Hashimoto,Toshir Mifune; Takashi Shimura; Keiko Tsushima,8.8,"144,248"
+Forrest Gump,"
+                142 min
+",Drama; Romance,Robert Zemeckis,Winston Groom; Eric Roth,Tom Hanks; Robin Wright; Gary Sinise,8.7,"598,711"
+The Matrix,"
+                136 min
+",Action; Adventure; Sci-Fi,Andy Wachowski; Lana Wachowski,Andy Wachowski; Lana Wachowski,Keanu Reeves; Laurence Fishburne; Carrie-Anne Moss,8.7,"664,408"
+The Lord of the Rings: The Two Towers,"
+                179 min
+",Action; Adventure; Drama,Peter Jackson,J.R.R. Tolkien; Fran Walsh,Elijah Wood; Ian McKellen; Viggo Mortensen,8.7,"588,890"
+City of God,"
+                130 min
+",Crime; Drama,Fernando Meirelles; Ktia Lund,Paulo Lins; Brulio Mantovani,Alexandre Rodrigues; Matheus Nachtergaele; Leandro Firmino,8.7,"300,479"
+Se7en,"
+                127 min
+",Crime; Mystery; Thriller,David Fincher,Andrew Kevin Walker,Morgan Freeman; Brad Pitt; Kevin Spacey,8.7,"533,206"
+Once Upon a Time in the West,"
+                175 min
+",Adventure; Western,Sergio Leone,Sergio Leone; Sergio Donati,Henry Fonda; Charles Bronson; Claudia Cardinale,8.7,"127,045"
+The Silence of the Lambs,"
+                118 min
+",Crime; Drama; Thriller,Jonathan Demme,Thomas Harris; Ted Tally,Jodie Foster; Anthony Hopkins; Lawrence A. Bonney,8.7,"446,876"
+Casablanca,"
+                102 min
+",Drama; Romance; War,Michael Curtiz,Julius J. Epstein; Philip G. Epstein,Humphrey Bogart; Ingrid Bergman; Paul Henreid,8.7,"247,753"
+The Usual Suspects,"
+                106 min
+",Crime; Drama; Mystery,Bryan Singer,Christopher McQuarrie,Kevin Spacey; Gabriel Byrne; Chazz Palminteri,8.7,"422,448"
+Raiders of the Lost Ark,"
+                115 min
+",Action; Adventure,Steven Spielberg,Lawrence Kasdan; George Lucas,Harrison Ford; Karen Allen; Paul Freeman,8.7,"387,069"
+Rear Window,"
+                112 min
+",Mystery; Thriller,Alfred Hitchcock,John Michael Hayes; Cornell Woolrich,James Stewart; Grace Kelly; Wendell Corey,8.7,"186,301"
+Psycho,"
+                109 min
+",Horror; Mystery; Thriller,Alfred Hitchcock,Joseph Stefano; Robert Bloch,Anthony Perkins; Janet Leigh; Vera Miles,8.6,"233,677"
+It's a Wonderful Life,"
+                130 min
+",Drama; Family; Fantasy,Frank Capra,Frances Goodrich; Albert Hackett,James Stewart; Donna Reed; Lionel Barrymore,8.7,"160,562"
+Lon: The Professional,"
+                110 min
+",Crime; Drama; Thriller,Luc Besson,Luc Besson,Jean Reno; Gary Oldman; Natalie Portman,8.6,"390,070"
+Sunset Blvd.,"
+                110 min
+",Drama; Film-Noir,Billy Wilder,Charles Brackett; Billy Wilder,William Holden; Gloria Swanson; Erich von Stroheim,8.6,"84,319"
+Memento,"
+                113 min
+",Mystery; Thriller,Christopher Nolan,Christopher Nolan; Jonathan Nolan,Guy Pearce; Carrie-Anne Moss; Joe Pantoliano,8.6,"483,821"
+American History X,"
+                119 min
+",Crime; Drama,Tony Kaye,David McKenna,Edward Norton; Edward Furlong; Beverly D'Angelo,8.6,"422,347"
+Apocalypse Now,"
+                153 min
+",Drama; War,Francis Ford Coppola,John Milius; Francis Ford Coppola,Martin Sheen; Marlon Brando; Robert Duvall,8.6,"270,981"
+Terminator 2: Judgment Day,"
+                137 min
+",Action; Sci-Fi; Thriller,James Cameron,James Cameron; William Wisher Jr.,Arnold Schwarzenegger; Linda Hamilton; Edward Furlong,8.6,"416,878"
+Saving Private Ryan,"
+                169 min
+",Action; Drama; War,Steven Spielberg,Robert Rodat,Tom Hanks; Matt Damon; Tom Sizemore,8.6,"470,481"
+Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb,"
+                95 min
+",Comedy; War,Stanley Kubrick,Stanley Kubrick; Terry Southern,Peter Sellers; George C. Scott; Sterling Hayden,8.6,"223,371"
+Django Unchained,"
+                165 min
+",Adventure; Drama; Western,Quentin Tarantino,Quentin Tarantino,Jamie Foxx; Christoph Waltz; Leonardo DiCaprio,8.6,"199,536"
+Alien,"
+                117 min
+",Horror; Sci-Fi,Ridley Scott,Dan O'Bannon; Ronald Shusett,Sigourney Weaver; Tom Skerritt; John Hurt,8.5,"312,821"
+City Lights,"
+                87 min
+",Comedy; Drama; Romance,Charles Chaplin,Charles Chaplin,Charles Chaplin; Virginia Cherrill; Florence Lee,8.6,"53,428"
+North by Northwest,"
+                136 min
+",Action; Adventure; Crime,Alfred Hitchcock,Ernest Lehman,Cary Grant; Eva Marie Saint; James Mason,8.5,"136,858"
+Spirited Away,"
+                125 min
+",Animation; Adventure; Family,Hayao Miyazaki,Hayao Miyazaki,Daveigh Chase; Suzanne Pleshette; Miyu Irino,8.6,"204,953"
+The Dark Knight Rises,"
+                165 min
+",Action; Crime; Thriller,Christopher Nolan,Jonathan Nolan; Christopher Nolan,Christian Bale; Tom Hardy; Anne Hathaway,8.6,"543,131"
+Modern Times,"
+                87 min
+",Comedy; Drama,Charles Chaplin,Charles Chaplin,Charles Chaplin; Paulette Goddard; Henry Bergman,8.6,"67,496"
+Citizen Kane,"
+                119 min
+",Drama; Mystery,Orson Welles,Herman J. Mankiewicz; Orson Welles,Orson Welles; Joseph Cotten; Dorothy Comingore,8.5,"194,727"
+The Shining,"
+                146 min
+",Horror; Mystery,Stanley Kubrick,Stephen King; Stanley Kubrick,Jack Nicholson; Shelley Duvall; Danny Lloyd,8.5,"324,651"
+Back to the Future,"
+                116 min
+",Adventure; Comedy; Sci-Fi,Robert Zemeckis,Robert Zemeckis; Bob Gale,Michael J. Fox; Christopher Lloyd; Lea Thompson,8.5,"368,346"
+The Pianist,"
+                150 min
+",Biography; Drama; War,Roman Polanski,Ronald Harwood; Wladyslaw Szpilman,Adrien Brody; Thomas Kretschmann; Frank Finlay,8.5,"252,383"
+The Departed,"
+                151 min
+",Crime; Thriller,Martin Scorsese,William Monahan; Alan Mak,Leonardo DiCaprio; Matt Damon; Jack Nicholson,8.5,"466,145"
+Vertigo,"
+                128 min
+",Mystery; Romance; Thriller,Alfred Hitchcock,Alec Coppel; Samuel A. Taylor,James Stewart; Kim Novak; Barbara Bel Geddes,8.5,"142,138"
+M,"
+                99 min
+",Crime; Drama; Film-Noir,Fritz Lang,Thea von Harbou; Fritz Lang,Peter Lorre; Ellen Widmann; Inge Landgut,8.5,"61,012"
+La vita bella,"
+                116 min
+",Comedy; Drama; Romance,Roberto Benigni; Rod Dean,Vincenzo Cerami; Roberto Benigni,Roberto Benigni; Nicoletta Braschi; Giorgio Cantarini,8.5,"200,249"
+American Beauty,"
+                122 min
+",Drama,Sam Mendes,Alan Ball,Kevin Spacey; Annette Bening; Thora Birch,8.5,"484,029"
+Taxi Driver,"
+                113 min
+",Crime; Drama,Martin Scorsese,Paul Schrader,Robert De Niro; Jodie Foster; Cybill Shepherd,8.5,"278,480"
+Paths of Glory,"
+                88 min
+",Drama; War,Stanley Kubrick,Stanley Kubrick; Calder Willingham,Kirk Douglas; Ralph Meeker; Adolphe Menjou,8.5,"69,237"
+Double Indemnity,"
+                107 min
+",Crime; Drama; Film-Noir,Billy Wilder,Billy Wilder; Raymond Chandler,Fred MacMurray; Barbara Stanwyck; Edward G. Robinson,8.5,"58,093"
+Aliens,"
+                137 min
+",Action; Adventure; Sci-Fi,James Cameron,James Cameron; David Giler,Sigourney Weaver; Michael Biehn; Carrie Henn,8.5,"283,826"
+Toy Story 3,"
+                103 min
+",Animation; Adventure; Comedy,Lee Unkrich,John Lasseter; Andrew Stanton,Tom Hanks; Tim Allen; Joan Cusack,8.5,"269,622"
+WALLE,"
+                98 min
+",Animation; Adventure; Family,Andrew Stanton,Andrew Stanton; Pete Docter,Ben Burtt; Elissa Knight; Jeff Garlin,8.5,"366,275"
+The Lives of Others,"
+                137 min
+",Drama; Thriller,Florian Henckel von Donnersmarck,Florian Henckel von Donnersmarck,Ulrich Mhe; Martina Gedeck; Sebastian Koch,8.5,"143,512"
+The Intouchables,"
+                112 min
+",Biography; Comedy; Drama,Olivier Nakache; Eric Toledano,Olivier Nakache; Eric Toledano,Franois Cluzet; Omar Sy; Anne Le Ny,8.6,"147,561"
+Gladiator,"
+                155 min
+",Action; Adventure; Drama,Ridley Scott,David Franzoni; David Franzoni,Russell Crowe; Joaquin Phoenix; Connie Nielsen,8.5,"515,095"
+A Clockwork Orange,"
+                136 min
+",Crime; Drama; Sci-Fi,Stanley Kubrick,Stanley Kubrick; Anthony Burgess,Malcolm McDowell; Patrick Magee; Michael Bates,8.5,"311,802"
+The Green Mile,"
+                189 min
+",Crime; Drama; Fantasy,Frank Darabont,Stephen King; Frank Darabont,Tom Hanks; Michael Clarke Duncan; David Morse,8.5,"379,748"
+Amlie,"
+                122 min
+",Comedy; Romance,Jean-Pierre Jeunet,Guillaume Laurant; Jean-Pierre Jeunet,Audrey Tautou; Mathieu Kassovitz; Rufus,8.5,"307,268"
+The Great Dictator,"
+                125 min
+",Comedy; Drama; War,Charles Chaplin,Charles Chaplin,Charles Chaplin; Paulette Goddard; Jack Oakie,8.5,"66,504"
+The Prestige,"
+                130 min
+",Drama; Mystery; Thriller,Christopher Nolan,Jonathan Nolan; Christopher Nolan,Christian Bale; Hugh Jackman; Scarlett Johansson,8.5,"420,663"
+Lawrence of Arabia,"
+                216 min
+",Adventure; Biography; Drama,David Lean,T.E. Lawrence; Robert Bolt,Peter O'Toole; Alec Guinness; Anthony Quinn,8.5,"115,928"
+To Kill a Mockingbird,"
+                129 min
+",Crime; Drama; Mystery,Robert Mulligan,Harper Lee; Horton Foote,Gregory Peck; John Megna; Frank Overton,8.5,"126,291"
+Reservoir Dogs,"
+                99 min
+",Crime; Thriller,Quentin Tarantino,Quentin Tarantino; Roger Avary,Harvey Keitel; Tim Roth; Michael Madsen,8.4,"360,088"
+Das Boot,"
+                149 min
+",Action; Adventure; Drama,Wolfgang Petersen,Lothar G. Buchheim; Wolfgang Petersen,Jrgen Prochnow; Herbert Grnemeyer; Klaus Wennemann,8.4,"104,561"
+The Third Man,"
+                93 min
+",Film-Noir; Mystery; Thriller,Carol Reed,Graham Greene; Graham Greene,Orson Welles; Joseph Cotten; Alida Valli,8.4,"72,440"
+Requiem for a Dream,"
+                102 min
+",Drama,Darren Aronofsky,Hubert Selby Jr.; Hubert Selby Jr.,Ellen Burstyn; Jared Leto; Jennifer Connelly,8.4,"328,851"
+The Treasure of the Sierra Madre,"
+                126 min
+",Action; Adventure; Drama,John Huston,John Huston; B. Traven,Humphrey Bogart; Walter Huston; Tim Holt,8.4,"49,011"
+Eternal Sunshine of the Spotless Mind,"
+                108 min
+",Drama; Romance; Sci-Fi,Michel Gondry,Charlie Kaufman; Michel Gondry,Jim Carrey; Kate Winslet; Tom Wilkinson,8.4,"379,952"
+Cinema Paradiso,"
+                155 min
+",Drama,Giuseppe Tornatore,Giuseppe Tornatore; Giuseppe Tornatore,Philippe Noiret; Enzo Cannavale; Antonella Attili,8.4,"79,282"
+Once Upon a Time in America,"
+                229 min
+",Crime; Drama,Sergio Leone,Harry Grey; Leonardo Benvenuti,Robert De Niro; James Woods; Elizabeth McGovern,8.4,"126,253"
+The Lion King,"
+                89 min
+",Animation; Adventure; Drama,Roger Allers; Rob Minkoff,Irene Mecchi; Jonathan Roberts,Matthew Broderick; Jeremy Irons; James Earl Jones,8.4,"304,099"
+Star Wars: Episode VI - Return of the Jedi,"
+                134 min
+",Action; Adventure; Fantasy,Richard Marquand,Lawrence Kasdan; George Lucas,Mark Hamill; Harrison Ford; Carrie Fisher,8.4,"353,688"
+Chinatown,"
+                130 min
+",Crime; Drama; Mystery,Roman Polanski,Robert Towne,Jack Nicholson; Faye Dunaway; John Huston,8.4,"128,289"
+L.A. Confidential,"
+                138 min
+",Crime; Drama; Mystery,Curtis Hanson,James Ellroy; Brian Helgeland,Kevin Spacey; Russell Crowe; Guy Pearce,8.4,"258,829"
+Full Metal Jacket,"
+                116 min
+",Drama; War,Stanley Kubrick,Gustav Hasford; Stanley Kubrick,Matthew Modine; R. Lee Ermey; Vincent D'Onofrio,8.4,"264,934"
+Braveheart,"
+                177 min
+",Action; Biography; Drama,Mel Gibson,Randall Wallace,Mel Gibson; Sophie Marceau; Patrick McGoohan,8.4,"416,763"
+Monty Python and the Holy Grail,"
+                91 min
+",Adventure; Comedy; Fantasy,Terry Gilliam; Terry Jones,Graham Chapman; John Cleese,Graham Chapman; John Cleese; Eric Idle,8.4,"235,456"
+Oldeuboi,"
+                120 min
+",Drama; Mystery; Thriller,Chan-wook Park,Garon Tsuchiya; Nobuaki Minegishi,Min-sik Choi; Ji-tae Yu; Hye-jeong Kang,8.4,"184,227"
+Singin' in the Rain,"
+                103 min
+",Comedy; Musical; Romance,Stanley Donen; Gene Kelly,Adolph Green; Betty Comden,Gene Kelly; Donald O'Connor; Debbie Reynolds,8.4,"87,164"
+Some Like It Hot,"
+                120 min
+",Comedy,Billy Wilder,Billy Wilder; I.A.L. Diamond,Marilyn Monroe; Tony Curtis; Jack Lemmon,8.4,"105,647"
+Amadeus,"
+                160 min
+",Biography; Drama; Music,Milos Forman,Peter Shaffer; Peter Shaffer,F. Murray Abraham; Tom Hulce; Elizabeth Berridge,8.4,"159,259"
+Metropolis,"
+                153 min
+",Drama; Sci-Fi,Fritz Lang,Thea von Harbou; Thea von Harbou,Brigitte Helm; Alfred Abel; Gustav Frhlich,8.4,"65,442"
+Bicycle Thieves,"
+                93 min
+",Crime; Drama,Vittorio De Sica,Luigi Bartolini; Cesare Zavattini,Lamberto Maggiorani; Enzo Staiola; Lianella Carell,8.4,"49,044"
+Rashomon,"
+                88 min
+",Crime; Drama,Akira Kurosawa,Rynosuke Akutagawa; Akira Kurosawa,Toshir Mifune; Machiko Ky; Masayuki Mori,8.4,"60,886"
+Princess Mononoke,"
+                134 min
+",Animation; Adventure; Fantasy,Hayao Miyazaki,Hayao Miyazaki,Yji Matsuda; Yuriko Ishida; Yko Tanaka,8.4,"116,288"
+2001: A Space Odyssey,"
+                141 min
+",Adventure; Mystery; Sci-Fi,Stanley Kubrick,Stanley Kubrick; Arthur C. Clarke,Keir Dullea; Gary Lockwood; William Sylvester,8.4,"241,838"
+Unforgiven,"
+                131 min
+",Western,Clint Eastwood,David Webb Peoples,Clint Eastwood; Gene Hackman; Morgan Freeman,8.3,"166,019"
+All About Eve,"
+                138 min
+",Drama,Joseph L. Mankiewicz,Joseph L. Mankiewicz,Bette Davis; Anne Baxter; George Sanders,8.4,"50,919"
+The Apartment,"
+                125 min
+",Comedy; Drama; Romance,Billy Wilder,Billy Wilder; I.A.L. Diamond,Jack Lemmon; Shirley MacLaine; Fred MacMurray,8.4,"61,292"
+The Sting,"
+                129 min
+",Comedy; Crime; Drama,George Roy Hill,David S. Ward,Paul Newman; Robert Redford; Robert Shaw,8.4,"103,025"
+Indiana Jones and the Last Crusade,"
+                127 min
+",Action; Adventure; Comedy,Steven Spielberg,Jeffrey Boam; George Lucas,Harrison Ford; Sean Connery; Alison Doody,8.3,"292,395"
+Raging Bull,"
+                129 min
+",Biography; Drama; Sport,Martin Scorsese,Jake LaMotta; Joseph Carter,Robert De Niro; Cathy Moriarty; Joe Pesci,8.3,"141,623"
+The Bridge on the River Kwai,"
+                161 min
+",Adventure; Drama; History,David Lean,Pierre Boulle,William Holden; Alec Guinness; Jack Hawkins,8.3,"90,506"
+Witness for the Prosecution,"
+                116 min
+",Drama; Mystery,Billy Wilder,Agatha Christie; Billy Wilder,Tyrone Power; Marlene Dietrich; Charles Laughton,8.4,"30,840"
+Die Hard,"
+                131 min
+",Action; Thriller,John McTiernan,Roderick Thorp; Jeb Stuart,Bruce Willis; Alan Rickman; Bonnie Bedelia,8.3,"339,653"
+Grave of the Fireflies,"
+                89 min
+",Animation; Drama; War,Isao Takahata,Akiyuki Nosaka; Isao Takahata,Tsutomu Tatsumi; Ayano Shiraishi; Akemi Yamaguchi,8.4,"63,697"
+Batman Begins,"
+                140 min
+",Action; Adventure; Crime,Christopher Nolan,Bob Kane; David S. Goyer,Christian Bale; Michael Caine; Ken Watanabe,8.3,"522,921"
+Jodaeiye Nader az Simin,"
+                123 min
+",Drama,Asghar Farhadi,Asghar Farhadi,Payman Maadi; Leila Hatami; Sareh Bayat,8.5,"76,151"
+El laberinto del fauno,"
+                118 min
+",Drama; Fantasy; War,Guillermo del Toro,Guillermo del Toro,Ivana Baquero; Ariadna Gil; Sergi Lpez,8.3,"271,774"
+Downfall,"
+                156 min
+",Biography; Drama; History,Oliver Hirschbiegel,Bernd Eichinger; Joachim Fest,Bruno Ganz; Alexandra Maria Lara; Ulrich Matthes,8.3,"145,837"
+Yojimbo,"
+                110 min
+",Action; Adventure,Akira Kurosawa,Akira Kurosawa; Akira Kurosawa,Toshir Mifune; Eijir Tno; Tatsuya Nakadai,8.4,"44,223"
+For a Few Dollars More,"
+                132 min
+",Western,Sergio Leone,Sergio Leone; Fulvio Morsella,Clint Eastwood; Lee Van Cleef; Gian Maria Volont,8.3,"81,751"
+Snatch.,"
+                102 min
+",Crime; Thriller,Guy Ritchie,Guy Ritchie,Jason Statham; Brad Pitt; Benicio Del Toro,8.3,"335,295"
+The Great Escape,"
+                172 min
+",Adventure; Drama; History,John Sturges,Paul Brickhill; James Clavell,Steve McQueen; James Garner; Richard Attenborough,8.3,"97,081"
+Inglourious Basterds,"
+                153 min
+",Adventure; Drama; War,Quentin Tarantino,Quentin Tarantino,Brad Pitt; Diane Kruger; Eli Roth,8.3,"420,583"
+Mr. Smith Goes to Washington,"
+                129 min
+",Drama,Frank Capra,Sidney Buchman; Lewis R. Foster,James Stewart; Jean Arthur; Claude Rains,8.3,"48,643"
+Up,"
+                96 min
+",Animation; Adventure; Comedy,Pete Docter; Bob Peterson,Pete Docter; Bob Peterson,Edward Asner; Jordan Nagai; John Ratzenberger,8.3,"308,012"
+On the Waterfront,"
+                108 min
+",Crime; Drama,Elia Kazan,Budd Schulberg; Budd Schulberg,Marlon Brando; Karl Malden; Lee J. Cobb,8.3,"60,893"
+The Elephant Man,"
+                124 min
+",Biography; Drama,David Lynch,Christopher De Vore; Eric Bergren,Anthony Hopkins; John Hurt; Anne Bancroft,8.3,"96,968"
+Toy Story,"
+                81 min
+",Animation; Adventure; Comedy,John Lasseter,John Lasseter; Pete Docter,Tom Hanks; Tim Allen; Don Rickles,8.3,"310,890"
+The Seventh Seal,"
+                96 min
+",Drama; Fantasy,Ingmar Bergman,Ingmar Bergman; Ingmar Bergman,Max von Sydow; Gunnar Bjrnstrand; Bengt Ekerot,8.3,"64,768"
+Heat,"
+                170 min
+",Action; Crime; Drama,Michael Mann,Michael Mann,Al Pacino; Robert De Niro; Val Kilmer,8.3,"254,907"
+The General,"
+                107 min
+",Action; Adventure; Comedy,Clyde Bruckman; Buster Keaton,Buster Keaton; Clyde Bruckman,Buster Keaton; Marion Mack; Glen Cavender,8.3,"30,544"
+The Maltese Falcon,"
+                100 min
+",Crime; Drama; Film-Noir,John Huston,John Huston; Dashiell Hammett,Humphrey Bogart; Mary Astor; Gladys George,8.3,"72,498"
+Blade Runner,"
+                117 min
+",Drama; Sci-Fi; Thriller,Ridley Scott,Hampton Fancher; David Webb Peoples,Harrison Ford; Rutger Hauer; Sean Young,8.3,"288,611"
+Rebecca,"
+                130 min
+",Drama; Mystery,Alfred Hitchcock,Daphne Du Maurier; Robert E. Sherwood,Laurence Olivier; Joan Fontaine; George Sanders,8.3,"53,571"
+Gran Torino,"
+                116 min
+",Drama,Clint Eastwood,Nick Schenk; Dave Johannson,Clint Eastwood; Bee Vang; Christopher Carley,8.3,"305,369"
+Wild Strawberries,"
+                91 min
+",Drama,Ingmar Bergman,Ingmar Bergman,Victor Sjstrm; Bibi Andersson; Ingrid Thulin,8.3,"36,108"
+Scarface,"
+                170 min
+",Crime; Drama; Thriller,Brian De Palma,Oliver Stone,Al Pacino; Michelle Pfeiffer; Steven Bauer,8.3,"293,773"
+The Kid,"
+                68 min
+",Comedy; Drama; Family,Charles Chaplin,Charles Chaplin,Charles Chaplin; Edna Purviance; Jackie Coogan,8.3,"29,352"
+Fargo,"
+                98 min
+",Crime; Drama,Joel Coen,Ethan Coen; Joel Coen,William H. Macy; Frances McDormand; Steve Buscemi,8.2,"251,900"
+The Big Lebowski,"
+                117 min
+",Comedy; Crime,Joel Coen,Ethan Coen; Joel Coen,Jeff Bridges; John Goodman; Julianne Moore,8.2,"300,952"
+Touch of Evil,"
+                95 min
+",Crime; Film-Noir; Thriller,Orson Welles,Orson Welles; Whit Masterson,Charlton Heston; Orson Welles; Janet Leigh,8.3,"46,916"
+Ran,"
+                162 min
+",Action; Drama; War,Akira Kurosawa,Akira Kurosawa; Hideo Oguni,Tatsuya Nakadai; Akira Terao; Jinpachi Nezu,8.3,"49,274"
+The Deer Hunter,"
+                182 min
+",Drama; War,Michael Cimino,Michael Cimino; Deric Washburn,Robert De Niro; Christopher Walken; John Cazale,8.2,"142,476"
+Cool Hand Luke,"
+                126 min
+",Crime; Drama,Stuart Rosenberg,Donn Pearce; Frank Pierson,Paul Newman; George Kennedy; Strother Martin,8.2,"74,247"
+The Gold Rush,"
+                95 min
+",Adventure; Comedy; Family,Charles Chaplin,Charles Chaplin,Charles Chaplin; Mack Swain; Tom Murray,8.2,"35,927"
+The Avengers,"
+                143 min
+",Action,Joss Whedon,Zak Penn; Joss Whedon,Robert Downey Jr.; Chris Evans; Scarlett Johansson,8.3,"456,304"
+Sin City,"
+                124 min
+",Crime; Drama; Thriller,Frank Miller; Robert Rodriguez,Frank Miller,Mickey Rourke; Clive Owen; Bruce Willis,8.2,"407,794"
+Strangers on a Train,"
+                101 min
+",Crime; Film-Noir; Mystery,Alfred Hitchcock,Raymond Chandler; Czenzi Ormonde,Farley Granger; Robert Walker; Ruth Roman,8.2,"55,627"
+It Happened One Night,"
+                105 min
+",Comedy; Romance,Frank Capra,Robert Riskin; Samuel Hopkins Adams,Clark Gable; Claudette Colbert; Walter Connolly,8.2,"38,044"
+"Lock, Stock and Two Smoking Barrels","
+                107 min
+",Crime; Thriller,Guy Ritchie,Guy Ritchie,Jason Flemyng; Dexter Fletcher; Nick Moran,8.2,"238,641"
+No Country for Old Men,"
+                122 min
+",Crime; Drama; Thriller,Ethan Coen; Joel Coen,Joel Coen; Ethan Coen,Tommy Lee Jones; Javier Bardem; Josh Brolin,8.2,"345,543"
+Jaws,"
+                124 min
+",Adventure; Horror; Thriller,Steven Spielberg,Peter Benchley; Carl Gottlieb,Roy Scheider; Robert Shaw; Richard Dreyfuss,8.2,"230,971"
+The Sixth Sense,"
+                107 min
+",Drama; Mystery; Thriller,M. Night Shyamalan,M. Night Shyamalan,Bruce Willis; Haley Joel Osment; Toni Collette,8.2,"412,663"
+Platoon,"
+                120 min
+",Action; Drama; War,Oliver Stone,Oliver Stone,Charlie Sheen; Tom Berenger; Willem Dafoe,8.2,"177,550"
+The Thing,"
+                109 min
+",Horror; Mystery; Sci-Fi,John Carpenter,Bill Lancaster; John W. Campbell Jr.,Kurt Russell; Wilford Brimley; Keith David,8.2,"152,365"
+Casino,"
+                178 min
+",Biography; Crime; Drama,Martin Scorsese,Nicholas Pileggi; Nicholas Pileggi,Robert De Niro; Sharon Stone; Joe Pesci,8.2,"187,987"
+Hotel Rwanda,"
+                121 min
+",Biography; Drama; History,Terry George,Keir Pearson; Terry George,Don Cheadle; Sophie Okonedo; Joaquin Phoenix,8.2,"157,499"
+High Noon,"
+                85 min
+",Drama; Western,Fred Zinnemann,Carl Foreman; John W. Cunningham,Gary Cooper; Grace Kelly; Thomas Mitchell,8.2,"50,253"
+Butch Cassidy and the Sundance Kid,"
+                110 min
+",Adventure; Biography; Crime,George Roy Hill,William Goldman,Paul Newman; Robert Redford; Katharine Ross,8.2,"90,285"
+Trainspotting,"
+                94 min
+",Crime; Drama,Danny Boyle,Irvine Welsh; John Hodge,Ewan McGregor; Ewen Bremner; Jonny Lee Miller,8.2,"266,156"
+The Wizard of Oz,"
+                101 min
+",Adventure; Family; Fantasy,Victor Fleming,Noel Langley; Florence Ryerson,Judy Garland; Frank Morgan; Ray Bolger,8.2,"165,349"
+Kill Bill: Vol. 1,"
+                111 min
+",Action; Crime; Thriller,Quentin Tarantino,Quentin Tarantino; Quentin Tarantino,Uma Thurman; David Carradine; Daryl Hannah,8.2,"409,168"
+Warrior,"
+                140 min
+",Drama; Sport,Gavin O'Connor,Gavin O'Connor; Anthony Tambakis,Tom Hardy; Nick Nolte; Joel Edgerton,8.2,"152,943"
+The Hobbit: An Unexpected Journey,"
+                169 min
+",Adventure; Fantasy,Peter Jackson,Fran Walsh; Philippa Boyens,Martin Freeman; Ian McKellen; Richard Armitage,8.3,"223,524"
+Good Will Hunting,"
+                126 min
+",Drama,Gus Van Sant,Matt Damon; Ben Affleck,Robin Williams; Matt Damon; Ben Affleck,8.2,"301,573"
+Annie Hall,"
+                93 min
+",Comedy; Drama; Romance,Woody Allen,Woody Allen; Marshall Brickman,Woody Allen; Diane Keaton; Tony Roberts,8.2,"109,867"
+The Secret in Their Eyes,"
+                129 min
+",Drama; Mystery; Thriller,Juan Jos Campanella,Eduardo Sacheri; Juan Jos Campanella,Ricardo Darn; Soledad Villamil; Pablo Rago,8.2,"61,416"
+Gone with the Wind,"
+                238 min
+",Drama; Romance; War,Victor Fleming,Margaret Mitchell; Sidney Howard,Clark Gable; Vivien Leigh; Thomas Mitchell,8.2,"130,192"
+Notorious,"
+                101 min
+",Drama; Romance; Thriller,Alfred Hitchcock,Ben Hecht,Cary Grant; Ingrid Bergman; Claude Rains,8.2,"46,304"
+The Grapes of Wrath,"
+                129 min
+",Drama,John Ford,Nunnally Johnson; John Steinbeck,Henry Fonda; Jane Darwell; John Carradine,8.2,"36,809"
+Into the Wild,"
+                148 min
+",Adventure; Biography; Drama,Sean Penn,Sean Penn; Jon Krakauer,Emile Hirsch; Vince Vaughn; Catherine Keener,8.2,"219,035"
+The King's Speech,"
+                118 min
+",Biography; Drama; History,Tom Hooper,David Seidler,Colin Firth; Geoffrey Rush; Helena Bonham Carter,8.2,"237,231"
+Life of Brian,"
+                94 min
+",Comedy,Terry Jones,Graham Chapman; John Cleese,Graham Chapman; John Cleese; Michael Palin,8.2,"159,980"
+V for Vendetta,"
+                132 min
+",Action; Fantasy; Thriller,James McTeigue,Andy Wachowski; Lana Wachowski,Hugo Weaving; Natalie Portman; Rupert Graves,8.2,"434,337"
+Finding Nemo,"
+                100 min
+",Animation; Adventure; Comedy,Andrew Stanton; Lee Unkrich,Andrew Stanton; Andrew Stanton,Albert Brooks; Ellen DeGeneres; Alexander Gould,8.1,"341,829"
+My Neighbor Totoro,"
+                86 min
+",Animation; Family; Fantasy,Hayao Miyazaki,Hayao Miyazaki,Hitoshi Takagi; Noriko Hidaka; Toshiyuki Amagasa,8.2,"71,676"
+How to Train Your Dragon,"
+                98 min
+",Animation; Adventure; Comedy,Dean DeBlois; Chris Sanders,William Davies; Dean DeBlois,Jay Baruchel; Gerard Butler; Christopher Mintz-Plasse,8.2,"199,279"
+Dial M for Murder,"
+                105 min
+",Crime; Mystery; Thriller,Alfred Hitchcock,Frederick Knott; Frederick Knott,Ray Milland; Grace Kelly; Robert Cummings,8.2,"55,586"
+Network,"
+                121 min
+",Drama,Sidney Lumet,Paddy Chayefsky,Faye Dunaway; William Holden; Peter Finch,8.2,"60,482"
+The Big Sleep,"
+                114 min
+",Crime; Film-Noir; Mystery,Howard Hawks,William Faulkner; Leigh Brackett,Humphrey Bogart; Lauren Bacall; John Ridgely,8.2,"41,816"
+Ben-Hur,"
+                212 min
+",Action; Adventure; Drama,William Wyler,Lew Wallace; Karl Tunberg,Charlton Heston; Jack Hawkins; Stephen Boyd,8.1,"93,163"
+The Terminator,"
+                107 min
+",Action; Sci-Fi,James Cameron,James Cameron; Gale Anne Hurd,Arnold Schwarzenegger; Linda Hamilton; Michael Biehn,8.1,"326,616"
+There Will Be Blood,"
+                158 min
+",Drama,Paul Thomas Anderson,Paul Thomas Anderson; Upton Sinclair,Daniel Day-Lewis; Paul Dano; Ciarn Hinds,8.1,"218,985"
+The Night of the Hunter,"
+                93 min
+",Drama; Film-Noir; Thriller,Charles Laughton,Davis Grubb; James Agee,Robert Mitchum; Shelley Winters; Lillian Gish,8.2,"39,258"
+Million Dollar Baby,"
+                132 min
+",Drama; Sport,Clint Eastwood,Paul Haggis; F.X. Toole,Hilary Swank; Clint Eastwood; Morgan Freeman,8.1,"260,931"
+Stand by Me,"
+                89 min
+",Adventure; Drama,Rob Reiner,Stephen King; Raynold Gideon,Wil Wheaton; River Phoenix; Corey Feldman,8.1,"156,075"
+Donnie Darko,"
+                113 min
+",Drama; Mystery; Sci-Fi,Richard Kelly,Richard Kelly,Jake Gyllenhaal; Jena Malone; Mary McDonnell,8.1,"350,902"
+Groundhog Day,"
+                101 min
+",Comedy; Drama; Fantasy,Harold Ramis,Danny Rubin; Harold Ramis,Bill Murray; Andie MacDowell; Chris Elliott,8.1,"245,095"
+Black Swan,"
+                108 min
+",Drama; Mystery; Thriller,Darren Aronofsky,Mark Heyman; Andres Heinz,Natalie Portman; Mila Kunis; Vincent Cassel,8.1,"314,496"
+Dog Day Afternoon,"
+                125 min
+",Crime; Drama,Sidney Lumet,P.F. Kluge; Thomas Moore,Al Pacino; John Cazale; Penelope Allen,8.1,"108,999"
+Twelve Monkeys,"
+                129 min
+",Mystery; Sci-Fi; Thriller,Terry Gilliam,Chris Marker; David Webb Peoples,Bruce Willis; Madeleine Stowe; Brad Pitt,8.1,"276,350"
+Amores Perros,"
+                154 min
+",Crime; Drama; Thriller,Alejandro Gonzlez Irritu,Guillermo Arriaga,Emilio Echevarra; Gael Garca Bernal; Goya Toledo,8.1,"105,943"
+The Bourne Ultimatum,"
+                115 min
+",Action; Crime; Thriller,Paul Greengrass,Tony Gilroy; Scott Z. Burns,Matt Damon; dgar Ramrez; Joan Allen,8.1,"279,779"
+Mary and Max,"
+                92 min
+",Animation; Comedy; Drama,Adam Elliot,Adam Elliot,Toni Collette; Philip Seymour Hoffman; Eric Bana,8.2,"55,139"
+The 400 Blows,"
+                99 min
+",Crime; Drama,Franois Truffaut,Franois Truffaut; Marcel Moussy,Jean-Pierre Laud; Albert Rmy; Claire Maurier,8.1,"39,804"
+Life of Pi,"
+                127 min
+",Adventure; Drama,Ang Lee,David Magee; Yann Martel,Suraj Sharma; Irrfan Khan; Adil Hussain,8.2,"102,537"
+Persona,"
+                83 min
+",Drama,Ingmar Bergman,Ingmar Bergman,Bibi Andersson; Liv Ullmann; Margaretha Krook,8.2,"30,910"
+Gandhi,"
+                191 min
+",Biography; Drama; History,Richard Attenborough,John Briley,Ben Kingsley; John Gielgud; Candice Bergen,8.1,"93,350"
+The Graduate,"
+                106 min
+",Comedy; Drama; Romance,Mike Nichols,Calder Willingham; Buck Henry,Dustin Hoffman; Anne Bancroft; Katharine Ross,8.1,"130,234"
+Howl's Moving Castle,"
+                119 min
+",Animation; Action; Adventure,Hayao Miyazaki,Hayao Miyazaki; Diana Wynne Jones,Chieko Baish; Takuya Kimura; Tatsuya Gashin,8.1,"101,017"
+The Killing,"
+                85 min
+",Crime; Film-Noir; Thriller,Stanley Kubrick,Stanley Kubrick; Jim Thompson,Sterling Hayden; Coleen Gray; Vince Edwards,8.1,"39,014"
+The Princess Bride,"
+                98 min
+",Adventure; Comedy; Family,Rob Reiner,William Goldman; William Goldman,Cary Elwes; Mandy Patinkin; Robin Wright,8.1,"183,036"
+8,"
+                138 min
+",Drama; Fantasy,Federico Fellini,Federico Fellini; Ennio Flaiano,Marcello Mastroianni; Anouk Aime; Claudia Cardinale,8.1,"47,866"
+A Beautiful Mind,"
+                135 min
+",Biography; Drama,Ron Howard,Akiva Goldsman; Sylvia Nasar,Russell Crowe; Ed Harris; Jennifer Connelly,8.1,"286,426"
+Slumdog Millionaire,"
+                120 min
+",Drama; Romance; Thriller,Danny Boyle; Loveleen Tandan,Simon Beaufoy; Vikas Swarup,Dev Patel; Freida Pinto; Saurabh Shukla,8.1,"363,218"
+The Hustler,"
+                134 min
+",Drama; Sport,Robert Rossen,Sidney Carroll; Robert Rossen,Paul Newman; Jackie Gleason; Piper Laurie,8.1,"38,333"
+Who's Afraid of Virginia Woolf?,"
+                131 min
+",Drama,Mike Nichols,Ernest Lehman,Elizabeth Taylor; Richard Burton; George Segal,8.1,"32,994"
+The Artist,"
+                100 min
+",Comedy; Drama; Romance,Michel Hazanavicius,Michel Hazanavicius,Jean Dujardin; Brnice Bejo; John Goodman,8.1,"107,731"
+La strada,"
+                108 min
+",Drama,Federico Fellini,Federico Fellini; Tullio Pinelli,Anthony Quinn; Giulietta Masina; Richard Basehart,8.1,"28,225"
+The Manchurian Candidate,"
+                126 min
+",Drama; Mystery; Romance,John Frankenheimer,Richard Condon; George Axelrod,Frank Sinatra; Laurence Harvey; Janet Leigh,8.1,"48,248"
+Rocky,"
+                119 min
+",Drama; Sport,John G. Avildsen,Sylvester Stallone,Sylvester Stallone; Talia Shire; Burt Young,8.1,"188,420"
+Anatomy of a Murder,"
+                160 min
+",Crime; Drama; Mystery,Otto Preminger,Wendell Mayes; John D. Voelker,James Stewart; Lee Remick; Ben Gazzara,8.1,"27,419"
+The Wild Bunch,"
+                145 min
+",Western,Sam Peckinpah,Walon Green; Sam Peckinpah,William Holden; Ernest Borgnine; Robert Ryan,8.1,"45,460"
+The Exorcist,"
+                122 min
+",Horror; Thriller,William Friedkin,William Peter Blatty; William Peter Blatty,Ellen Burstyn; Max von Sydow; Linda Blair,8.0,"185,198"
+Stalag 17,"
+                120 min
+",Comedy; Drama; Thriller,Billy Wilder,Billy Wilder; Edwin Blum,William Holden; Don Taylor; Otto Preminger,8.1,"29,574"
+Sleuth,"
+                138 min
+",Mystery; Thriller,Joseph L. Mankiewicz,Anthony Shaffer; Anthony Shaffer,Laurence Olivier; Michael Caine; Alec Cawthorne,8.1,"26,362"
+Rope,"
+                80 min
+",Crime; Drama; Mystery,Alfred Hitchcock,Hume Cronyn; Patrick Hamilton,James Stewart; John Dall; Farley Granger,8.1,"56,005"
+The Man Who Shot Liberty Valance,"
+                123 min
+",Drama; Romance; Western,John Ford,James Warner Bellah; Willis Goldbeck,James Stewart; John Wayne; Vera Miles,8.1,"34,658"
+Barry Lyndon,"
+                184 min
+",Adventure; Drama; Romance,Stanley Kubrick,Stanley Kubrick; William Makepeace Thackeray,Ryan O'Neal; Marisa Berenson; Patrick Magee,8.1,"61,037"
+Infernal Affairs,"
+                101 min
+",Crime; Mystery; Thriller,Wai-keung Lau; Alan Mak,Alan Mak; Felix Chong,Andy Lau; Tony Leung Chiu Wai; Anthony Wong Chau-Sang,8.1,"55,925"
+Memories of Murder,"
+                132 min
+",Crime; Drama; Mystery,Joon-ho Bong,Joon-ho Bong; Kwang-rim Kim,Kang-ho Song; Sang-kyung Kim; Roe-ha Kim,8.1,"26,089"
+District 9,"
+                112 min
+",Action; Sci-Fi; Thriller,Neill Blomkamp,Neill Blomkamp; Terri Tatchell,Sharlto Copley; David James; Jason Cope,8.0,"324,603"
+Stalker,"
+                163 min
+",Adventure; Drama; Fantasy,Andrey Tarkovskiy,Arkadiy Strugatskiy; Boris Strugatskiy,Alisa Freyndlikh; Aleksandr Kaydanovskiy; Anatoliy Solonitsyn,8.1,"37,570"
+The Truman Show,"
+                103 min
+",Comedy; Drama; Sci-Fi,Peter Weir,Andrew Niccol,Jim Carrey; Ed Harris; Laura Linney,8.0,"333,143"
+Pirates of the Caribbean: The Curse of the Black Pearl,"
+                143 min
+",Action; Adventure; Fantasy,Gore Verbinski,Ted Elliott; Terry Rossio,Johnny Depp; Geoffrey Rush; Orlando Bloom,8.1,"445,772"
+Roman Holiday,"
+                118 min
+",Comedy; Drama; Romance,William Wyler,Ian McLellan Hunter; John Dighton,Gregory Peck; Audrey Hepburn; Eddie Albert,8.1,"54,203"
+In the Name of the Father,"
+                133 min
+",Biography; Drama; Thriller,Jim Sheridan,Gerry Conlon; Terry George,Daniel Day-Lewis; Pete Postlethwaite; Alison Crosbie,8.1,"52,408"
+The Perks of Being a Wallflower,"
+                102 min
+",Drama; Romance,Stephen Chbosky,Stephen Chbosky; Stephen Chbosky,Logan Lerman; Emma Watson; Ezra Miller,8.2,"63,954"
+The Diving Bell and the Butterfly,"
+                112 min
+",Biography; Drama,Julian Schnabel,Ronald Harwood; Jean-Dominique Bauby,Mathieu Amalric; Emmanuelle Seigner; Marie-Jose Croze,8.1,"59,712"
+Yip Man,"
+                106 min
+",Action; Biography; Drama,Wilson Yip,Edmond Wong; Chan Tai-Li,Donnie Yen; Simon Yam; Siu-Wong Fan,8.1,"67,680"
+"Monsters, Inc.","
+                92 min
+",Animation; Adventure; Comedy,Pete Docter; David Silverman,Pete Docter; Jill Culton,Billy Crystal; John Goodman; Mary Gibbs,8.0,"268,780"
+Ratatouille,"
+                111 min
+",Animation; Comedy; Family,Brad Bird; Jan Pinkava,Brad Bird; Jan Pinkava,Brad Garrett; Lou Romano; Patton Oswalt,8.0,"266,524"
+Per un pugno di dollari,"
+                99 min
+",Western,Sergio Leone,A. Bonzzoni; Vctor Andrs Catena,Clint Eastwood; Gian Maria Volont; Marianne Koch,8.0,"69,038"
+Harry Potter and the Deathly Hallows: Part 2,"
+                130 min
+",Adventure; Drama; Fantasy,David Yates,Steve Kloves; J.K. Rowling,Daniel Radcliffe; Emma Watson; Rupert Grint,8.1,"248,212"
+A Streetcar Named Desire,"
+                122 min
+",Drama,Elia Kazan,Tennessee Williams; Oscar Saul,Vivien Leigh; Marlon Brando; Kim Hunter,8.0,"53,298"
+Star Trek,"
+                127 min
+",Action; Adventure; Sci-Fi,J.J. Abrams,Roberto Orci; Alex Kurtzman,Chris Pine; Zachary Quinto; Simon Pegg,8.0,"283,835"
+Beauty and the Beast,"
+                84 min
+",Animation; Family; Fantasy,Gary Trousdale; Kirk Wise,Linda Woolverton; Roger Allers,Paige O'Hara; Robby Benson; Richard White,8.0,"158,484"
+Rosemary's Baby,"
+                136 min
+",Drama; Horror,Roman Polanski,Ira Levin; Roman Polanski,Mia Farrow; John Cassavetes; Ruth Gordon,8.0,"89,575"
+La Haine,"
+                98 min
+",Drama,Mathieu Kassovitz,Mathieu Kassovitz,Vincent Cassel; Hubert Kound; Sad Taghmaoui,8.1,"53,199"
+Harvey,"
+                104 min
+",Comedy; Drama,Henry Koster,Mary Chase; Mary Chase,James Stewart; Josephine Hull; Peggy Dow,8.1,"32,976"
+Taare Zameen Par,"
+                165 min
+",Drama,Aamir Khan,Amole Gupte; Amole Gupte,Darsheel Safary; Aamir Khan; Tanay Chheda,8.4,"26,400"
+All Quiet on the Western Front,"
+                136 min
+",Drama; War,Lewis Milestone,Erich Maria Remarque; Maxwell Anderson,Lew Ayres; Louis Wolheim; John Wray,8.1,"33,639"
+Nausica of the Valley of the Wind,"
+                117 min
+",Animation; Action; Adventure,Hayao Miyazaki,Hayao Miyazaki; Hayao Miyazaki,Sumi Shimamoto; Mahito Tsujimura; Hisako Kyda,8.1,"44,398"
+Incendies,"
+                139 min
+",Drama; Mystery; War,Denis Villeneuve,Valrie Beaugrand-Champagne; Wajdi Mouawad,Lubna Azabal; Mlissa Dsormeaux-Poulin; Maxim Gaudette,8.1,"27,341"
+Rain Man,"
+                133 min
+",Drama,Barry Levinson,Barry Morrow; Ronald Bass,Dustin Hoffman; Tom Cruise; Valeria Golino,8.0,"226,346"
+Shutter Island,"
+                138 min
+",Mystery; Thriller,Martin Scorsese,Laeta Kalogridis; Dennis Lehane,Leonardo DiCaprio; Emily Mortimer; Mark Ruffalo,8.0,"357,726"
+The Wrestler,"
+                109 min
+",Drama; Romance; Sport,Darren Aronofsky,Robert D. Siegel,Mickey Rourke; Marisa Tomei; Evan Rachel Wood,8.0,"183,114"
+Mystic River,"
+                138 min
+",Crime; Drama; Mystery,Clint Eastwood,Brian Helgeland; Dennis Lehane,Sean Penn; Tim Robbins; Kevin Bacon,8.0,"219,864"
+3 Idiots,"
+                170 min
+",Comedy; Drama; Romance,Rajkumar Hirani,Rajkumar Hirani; Abhijit Joshi,Aamir Khan; Madhavan; Mona Singh,8.3,"59,344"
+Nosferatu,"
+                81 min
+",Horror,F.W. Murnau,Henrik Galeen,Max Schreck; Greta Schrder; Ruth Landshoff,8.0,"46,674"
+Manhattan,"
+                96 min
+",Comedy; Drama; Romance,Woody Allen,Woody Allen; Marshall Brickman,Woody Allen; Diane Keaton; Mariel Hemingway,8.0,"66,840"
+"Spring, Summer, Fall, Winter... and Spring","
+                103 min
+",Drama,Ki-duk Kim,Ki-duk Kim,Ki-duk Kim; Yeong-su Oh; Jong-ho Kim,8.1,"35,849"
+Jurassic Park,"
+                127 min
+",Adventure; Family; Sci-Fi,Steven Spielberg,Michael Crichton; Michael Crichton,Sam Neill; Laura Dern; Jeff Goldblum,8.0,"281,399"
+Papillon,"
+                151 min
+",Biography; Crime; Drama,Franklin J. Schaffner,Dalton Trumbo; Lorenzo Semple Jr.,Steve McQueen; Dustin Hoffman; Victor Jory,8.0,"51,502"
+Big Fish,"
+                125 min
+",Adventure; Drama; Fantasy,Tim Burton,Daniel Wallace; John August,Ewan McGregor; Albert Finney; Billy Crudup,8.0,"247,032"
+Arsenic and Old Lace,"
+                118 min
+",Comedy; Crime; Romance,Frank Capra,Julius J. Epstein; Philip G. Epstein,Cary Grant; Priscilla Lane; Raymond Massey,8.0,"40,673"
+The Untouchables,"
+                119 min
+",Crime; Drama; History,Brian De Palma,Oscar Fraley; Eliot Ness,Kevin Costner; Sean Connery; Robert De Niro,8.0,"142,299"
+Castle in the Sky,"
+                124 min
+",Animation; Action; Adventure,Hayao Miyazaki,Hayao Miyazaki,Barbara Goodson; James Van Der Beek; Lara Cody,8.0,"46,028"
+The Help,"
+                146 min
+",Drama,Tate Taylor,Tate Taylor; Kathryn Stockett,Emma Stone; Viola Davis; Octavia Spencer,8.0,"140,025"
+Battleship Potemkin,"
+                66 min
+",Drama; History,Sergei M. Eisenstein,Nina Agadzhanova,Aleksandr Antonov; Vladimir Barsky; Grigori Aleksandrov,8.0,"26,467"
