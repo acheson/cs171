@@ -1,0 +1,744 @@
+Year,ID Type,Primary Concentration,Secondary Concentration,Language,Secondary Languages,Programming Experience,Coding Frequency,Programming Comfort,Design Comfort,Computer Types,Operating Systems 1,Operating Systems 2,Operating Systems 3,Operating Systems 4,Gender,Age,State,Country,Combined Address
+2009,,Computer Science,Biology,C++,C++,Over 3 years,Less than Once per Month,3,,"Desktop, Laptop",Mac OS,,,,Male,Over 65,,China,
+2009,,Information Technology,Software engineering,SQL,Java,Less than 6 months,Weekly,2,,"Desktop, Laptop",Windows XP, Windows Vista,,,Male,25 to 44,VA,USA,
+2009,,Information Management Systems,,Python,I've used most of these,Over 3 years,Two or more times per Month,4,,"Desktop, Laptop",Mostly Mac.  Also Free/OpenBSD, linux, XP,,Male,25 to 44,NH,USA,
+2009,,Computer Science,,PHP,C,Less than 6 months,Weekly,2,,Laptop,Mac OS,,,,Female,18 to 24,CT,USA,
+2009,,Human Evolutionary Biology,,C,PHP,6 months to 1 year,Weekly,4,,"Desktop, Laptop",Windows XP, Mac OS,,,Male,18 to 24,CT,USA,
+2009,,Computer Science,Economics,C,"C, C++, JavaScript, HTML/CSS, PHP, SQL",1 to 3 years,Two or more times per Month,4,,"Desktop, Laptop",Windows XP, Windows Vista,,,Male,18 to 24,OH,USA,
+2009,,Economics,Computer Science,PHP,C,Over 3 years,Two or more times per Month,5,,Laptop,Windows Vista, Linux / Unix,,,Male,18 to 24,TX,USA,
+2009,,Electrical Engineering & Computer Science,,C++,PHP,1 to 3 years,Weekly,4,,"Desktop, Laptop",Windows XP, Windows Vista, Linux,,Male,18 to 24,CA,USA,
+2009,,Computer Science,,Java,JavaScript,Over 3 years,Weekly,5,,"Desktop, Laptop",Windows XP, Mac OS,,,Male,25 to 44,MA,USA,
+2009,,Computer Science,,C,HTML / CSS,6 months to 1 year,Weekly,3,,Laptop,Mac OS,,,,Female,18 to 24,KT,USA,
+2009,,Software Engineering,,C#,"C, C++, Java, JavaScript, HTML / CSS, Python, Ruby, SQL",Over 3 years,Daily,4,,"Desktop, Laptop",Windows XP, Linux / Unix,,,Male,25 to 44,MA,USA,
+2009,,Computer Science,Mandarin Chinese (language citation),Python,"C, C++, Java, HTML / CSS, LISP, Python, SQL",Over 3 years,Weekly,5,,Laptop,Mac OS,,,,Male,18 to 24,NY,USA,
+2009,,Information Management Systems,,Ruby,"C, C++, C#, Java, JavaScript, HTML / CSS, Perl, PHP, Ruby, SQL",Over 3 years,Daily,5,,Laptop,Mac OS,,,,Male,18 to 24,ON,Canada,
+2009,,Applied Mathematics,Computer Science,Ruby,"C, JavaScript, HTML / CSS, Ruby, SQL, VB / VBScript",Over 3 years,Weekly,4,,"Desktop, Laptop",Mac OS, Linux, Windows 7 beta,,Male,18 to 24,,Slovakia,
+2009,,Molecular and Cellular Biology,Computer Science,PHP,"C, HTML / CSS, PHP, SQL",Over 3 years,Weekly,5,,Laptop,Windows XP,,,,Male,18 to 24,MA,USA,
+2009,,Economics,Computer Science,C,"C, C++, C#, Java, HTML / CSS, PHP, SQL",1 to 3 years,Less than Once per Month,4,,Laptop,Windows XP,,,,Male,18 to 24,IN,USA,
+2009,,Computer Science,,C,"Java, HTML / CSS, PHP, SQL",1 to 3 years,Weekly,3,,Desktop,Windows Vista,,,,Male,18 to 24,NJ,USA,
+2009,,Psychology,Computer Science,PHP,"C, HTML / CSS, PHP, SQL",Less than 6 months,Less than Once per Month,3,,Desktop,Windows XP, Mac OS,,,Male,18 to 24,CA,USA,
+2009,,Computer Science,,C#,"HTML / CSS, Python, Ruby, SQL, Objective-C",1 to 3 years,Daily,4,,"Desktop, Laptop",Windows XP, Mac OS, Linux,,Male,25 to 44,MA,USA,
+2009,,Applied Physics,,C++,"BASIC, C, C++, Java, HTML / CSS, Python, VB / VBScript",1 to 3 years,Once per Month,4,,Laptop,Mac OS,,,,Male,18 to 24,NM,USA,
+2009,,Computer Science,,Ruby,"C, C++, Java, JavaScript, HTML / CSS, LISP, Perl, PHP, Ruby, SQL",Over 3 years,Two or more times per Month,5,,Laptop,Windows XP, Mac OS,,,Male,18 to 24,CT,USA,
+2009,,Economics,Computer Science,C,"C++, HTML / CSS",6 months to 1 year,Less than Once per Month,2,,"Desktop, Laptop",Windows XP,,,,Male,18 to 24,VA,USA,
+2009,,History and Science,Government,C,"C, C++, HTML / CSS, PHP, SQL",1 to 3 years,Less than Once per Month,3,,Laptop,Windows Vista,,,,Female,18 to 24,KS,USA,
+2009,,Computer Science,,C,"BASIC, C, C#, Java, HTML / CSS, LISP, PHP, Ruby, SQL, Haskell",Over 3 years,Daily,5,,"Desktop, Laptop",Windows XP, Mac OS,,,Female,25 to 44,MA,USA,
+2009,,Digital Arts & Sciences,,Java,"C, C++, HTML / CSS",1 to 3 years,Less than Once per Month,3,,"Desktop, Laptop",Windows XP, Windows Vista, Mac OS,,Female,25 to 44,MA,USA,
+2009,,Information Management Systems,,C++,"C, C++, C#, HTML / CSS, VB / VBScript",Over 3 years,Daily,5,,"Desktop, Laptop",Windows XP, Windows Vista, Linux,,Male,25 to 44,MA,USA,
+2009,,Economics,Mathematics,BASIC,,Less than 6 months,Less than Once per Month,2,,Laptop,Windows Vista,,,,Male,18 to 24,,Slovakia,
+2009,,Computer Science,Mathematics,C,"PHP, Python, SQL",Over 3 years,Weekly,4,,Laptop,Windows Vista, Linux / Unix,,,Male,18 to 24,,Romania,
+2009,,Economics,,C,"BASIC, C++, C#, HTML / CSS",6 months to 1 year,Less than Once per Month,3,,Laptop,Windows XP,,,,Female,18 to 24,IL,USA,
+2009,,Information Technology,Software engineer,SQL,"C++, Java",Less than 6 months,Weekly,2,,"Desktop, Laptop",Windows XP, Windows Vista,,,Male,25 to 44,VA,USA,
+2009,,Information Management Systems,,VB / VBScript,"C, C++, HTML / CSS, SQL, VB / VBScript",Over 3 years,Once per Month,4,,"Desktop, Laptop",Windows XP, Windows Vista,,,Male,,MD,USA,
+2009,,Information Management Systems,,Java,"Java, JavaScript, HTML / CSS, SQL, Web 2.0, J2EE",Over 3 years,Daily,5,,Laptop,Windows XP,,,,Male,25 to 44,IL,USA,
+2009,,N/A,,Ruby,"C, Java, JavaScript, HTML / CSS, PHP, Ruby, matlab, actionscript 3.0",Over 3 years,Weekly,4,,Laptop,Mac OS,,,,Female,45 to 64,,France,
+2009,,Information Management Systems,,HTML / CSS,"BASIC, C++, JavaScript, HTML / CSS, SQL, Pascal",Over 3 years,Less than Once per Month,4,,Laptop,Windows XP,,,,Male,25 to 44,VA,USA,
+2009,,Economics,,C,"C++, HTML / CSS, LISP",1 to 3 years,Two or more times per Month,3,,"Desktop, Laptop",Windows XP,,,,Male,18 to 24,NY,USA,
+2009,,Neurobiology,,PHP,"C, HTML / CSS, SQL",1 to 3 years,Once per Month,3,,Laptop,Windows Vista,,,,Male,18 to 24,NJ,USA,
+2009,,N/A,,Java,"C#, Java, JavaScript, Python",Over 3 years,Daily,5,,"Desktop, Laptop",Windows XP, Windows Vista, Linux,,Male,25 to 44,MA,USA,
+2009,,Information Technology,,C,"C, C++, Java, LISP, Perl, Python, SQL",Over 3 years,Daily,5,,"Desktop, Laptop",Windows XP, Mac OS,,,Male,25 to 44,BC,Canada,
+2009,,N/A,,Java,"BASIC, C++, Java, JavaScript, HTML / CSS, LISP",Over 3 years,Daily,5,,"Desktop, Laptop",Mac OS,,,,Male,25 to 44,MA,USA,
+2009,,Applied Sciences,,PHP,"Java, JavaScript, HTML / CSS, Perl, PHP",Over 3 years,Weekly,4,,"Desktop, Laptop",Windows Vista, Mac OS, Windows 7 Beta,,Female,25 to 44,CT,USA,
+2009,,Software Engineering,,Java,"BASIC, Perl",1 to 3 years,Two or more times per Month,3,,"Desktop, Laptop",Mac OS,,,,Male,,,Italy,
+2009,DCE,Information Management Systems,,HTML / CSS,JavaScript,1 to 3 years,Weekly,3,,"Desktop, Laptop",Windows XP, Mac OS,,,Male,25 to 44,NY,USA,
+2009,,Computer Science,,Java,"BASIC, C, Java, JavaScript, HTML / CSS, LISP, Perl, PHP, SQL, VB / VBScript",Over 3 years,Daily,5,,Laptop,Windows XP, Mac OS,,,Male,25 to 44,MA,USA,
+2009,,Digital Arts & Sciences,,BASIC,None.,Less than 6 months,Less than Once per Month,1,,Laptop,Mac OS,,,,Female,25 to 44,WA,USA,
+2009,,Computer Science,Economics,Java,"C, Java, JavaScript, HTML / CSS, PHP, SQL",Over 3 years,Weekly,3,,"Desktop, Laptop",Windows Vista, Mac OS, Windows 7,,Male,18 to 24,,South Africa,
+2009,,Information Technology,ISM,Java,"C++, Java, JavaScript, HTML / CSS, Perl, Ruby, SQL",Over 3 years,Weekly,4,,Laptop,Windows Vista,,,,Female,,RI,USA,
+2009,,Philosophy,Computer Science,C,"Java, JavaScript, HTML / CSS, PHP",Less than 6 months,Weekly,3,,Laptop,Windows XP,,,,Male,18 to 24,PA,USA,
+2009,,Applied Mathematics,,C,"C, C++, Java, HTML / CSS, PHP",1 to 3 years,Once per Month,4,,Laptop,Mac OS,,,,Female,18 to 24,FL,USA,
+2009,,Computer Science,,PHP,"C, C++, HTML / CSS, Perl, PHP, Python, SQL",Over 3 years,Weekly,5,,Laptop,Windows XP, Linux / Unix,,,Female,18 to 24,,Brazil,
+2009,,Computer Science,Visual and Environmental Studies,C++,"C, Java, HTML / CSS, LISP, PHP, SQL",1 to 3 years,Daily,5,,Laptop,Windows Vista,,,,Female,18 to 24,CA,USA,
+2009,,Digital Media,,HTML / CSS,"C, C++, HTML / CSS, PHP",1 to 3 years,Weekly,4,,Laptop,Mac OS,,,,Male,25 to 44,MA,USA,
+2009,,Applied Physics,,HTML / CSS,"JavaScript, IDL, Fortran, Matlab, and Mathematica",1 to 3 years,Once per Month,3,,Laptop,Mac OS,,,,Female,18 to 24,MA,USA,
+2009,,Economics,Computer Science,C,"C#, PHP, Python, SQL",1 to 3 years,Two or more times per Month,4,,Laptop,Windows Vista,,,,Male,18 to 24,OR,USA,
+2009,,Economics,Computer Science,C,"JavaScript, HTML / CSS, PHP",Less than 6 months,Weekly,2,,Laptop,Mac OS,,,,Female,18 to 24,VA,USA,
+2009,,Mathematics,Computer Science,BASIC,,Less than 6 months,Daily,3,,Laptop,Windows Vista,,,,Male,18 to 24,,Zimbabwe,
+2009,,Information Technology,N/A,Java,"C, C#, Java, JavaScript, HTML / CSS",Over 3 years,Weekly,4,,Desktop,Windows XP,,,,Male,,WA,USA,
+2009,,Computer Science,Physics,C,"JavaScript, PHP",Less than 6 months,Weekly,5,,"Desktop, Laptop",Windows XP, Mac OS,,,Male,18 to 24,VA,USA,
+2009,,Information Technology Management,N/A,HTML / CSS,"BASIC, HTML / CSS, VB / VBScript",6 months to 1 year,Less than Once per Month,3,,"Desktop, Laptop",Windows XP,,,,Male,25 to 44,VA,USA,
+2009,,Computer Science,East Asian Studies,C,"C, C++, Java, JavaScript, HTML / CSS, PHP, SQL",1 to 3 years,Two or more times per Month,4,,Laptop,Windows Vista,,,,Male,18 to 24,,Japan,
+2009,,Literature,Economics,JavaScript,"C++, HTML / CSS",Over 3 years,Less than Once per Month,3,,"Desktop, Laptop",Windows XP, Mac OS,,,Male,18 to 24,,Japan,
+2009,,Mathematics,Computer Science,C++,C,1 to 3 years,Once per Month,3,,Laptop,Windows XP,,,,Female,18 to 24,NY,USA,
+2009,,Information Technology,,Java,"BASIC, C, C++, C#, Java, JavaScript, HTML / CSS, Perl, PHP, SQL, VB / VBScript",Over 3 years,Daily,5,,Laptop,Mac OS,,,,Male,25 to 44,CA,USA,
+2009,,Computer Science,VES (though more likely nothing),C,Java,1 to 3 years,Two or more times per Month,4,,"Desktop, Laptop",Windows Vista, Mac OS,,,Male,18 to 24,,Israel,
+2009,,Information Management Systems,Considering DMAS concentration at Extension,HTML / CSS,"HTML / CSS, Perl, PHP, SQL",Less than 6 months,Less than Once per Month,2,,"Desktop, Laptop",Windows XP, Windows Vista, Mac OS, Windows 2000! (only sometimes),Female,25 to 44,IL,USA,
+2009,,Undecided,,Python,"JavaScript, HTML / CSS, Perl, PHP, SQL",6 months to 1 year,Weekly,3,,"Desktop, Laptop",Windows XP, Mac OS, Linux / Unix, OpenBSD,Male,25 to 44,MA,USA,
+2009,,Computer Science,,C#,"C++, Java, JavaScript, Ruby, SQL",Over 3 years,Daily,5,,Laptop,Windows XP,,,,Male,25 to 44,NY,USA,
+2009,,Applied Mathematics - Economics,Computer Science,C,"C, C++, Python, SQL",1 to 3 years,Weekly,2,,Laptop,Mac OS,,,,Female,18 to 24,IL,USA,
+2009,,Computer Science,,C,"C++, Java, JavaScript, HTML / CSS, PHP, Lua",Over 3 years,Weekly,5,,"Desktop, Laptop",Windows XP, Mac OS,,,Male,18 to 24,CO,USA,
+2009,,Information Technology,,Java,"C++, Java, JavaScript, HTML / CSS, PHP, SQL, VB / VBScript",Over 3 years,Daily,5,,"Desktop, Laptop",Windows XP, Windows Vista,,,Male,25 to 44,MA,USA,
+2009,,Mathematics,N/A,Java,"Java, VB / VBScript",1 to 3 years,Less than Once per Month,3,,Laptop,Windows XP,,,,Male,18 to 24,MA,USA,
+2009,,Information Management Systems,,PHP,"JavaScript, HTML / CSS, SQL",Over 3 years,Daily,4,,"Desktop, Laptop",Mac OS,,,,Male,18 to 24,CA,USA,
+2009,,Statistics,Computer Science,VB / VBScript,"C, C++, Java, JavaScript, HTML / CSS, PHP, SQL, VB / VBScript, Scheme",1 to 3 years,Two or more times per Month,4,,Laptop,Mac OS,,,,Male,18 to 24,PA,USA,
+2009,,Biotechnology,Informatics,HTML / CSS,"BASIC, MATLAB, FORTRAN",Less than 6 months,Less than Once per Month,2,,"Desktop, Laptop",Windows Vista,,,,Male,25 to 44,CA,USA,
+2009,,Chemistry,Computer Science,C,"JavaScript, HTML / CSS, PHP, Actionscript",6 months to 1 year,Weekly,3,,Laptop,Windows XP, Linux / Unix,,,Male,18 to 24,MA,USA,
+2009,,Molecular and Cellular Biology,,C,"JavaScript, HTML / CSS, PHP, Python, SQL",Less than 6 months,Two or more times per Month,3,,Laptop,Windows Vista, Linux / Unix,,,Male,18 to 24,NC,USA,
+2009,,Economics,Computer Science,C,"C, JavaScript, HTML / CSS, SQL",6 months to 1 year,Weekly,4,,"Desktop, Laptop",Mac OS,,,,Male,18 to 24,NJ,USA,
+2009,DCE,N/A,,Java,"JavaScript, HTML / CSS, LISP, Perl, PHP, Python, Ruby, SQL",Over 3 years,Daily,5,,"Desktop, Laptop",Windows XP, Mac OS,,,Male,45 to 64,MA,USA,
+2009,,Digital Arts & Sciences,,C,"C, Java, JavaScript, HTML / CSS, PHP, SQL, VB / VBScript, Flash ActionScript",1 to 3 years,Two or more times per Month,3,,"Desktop, Laptop",Windows XP,,,,Female,25 to 44,MA,USA,
+2009,,Information Management Systems,Software Engineering,SQL,"Java, HTML / CSS, SQL",Less than 6 months,Two or more times per Month,2,,"Desktop, Laptop",Windows Vista,,,,,,GA,USA,
+2009,,Economics,Computer Science,C,"C++, Java, HTML / CSS",1 to 3 years,Two or more times per Month,4,,Laptop,Mac OS,,,,Male,18 to 24,SC,USA,
+2009,,Visualization,Visualization with data mining techniques.,Java,"C, C++, Java, JavaScript, HTML / CSS, Ruby, VB / VBScript",1 to 3 years,Daily,5,,"Desktop, Laptop",Windows XP, Windows Vista, Mac OS, Linux,Male,25 to 44,MA,USA,
+2009,,Software Engineering,Information Management,Java,"BASIC, HTML / CSS, Perl",Over 3 years,Once per Month,5,,"Desktop, Laptop",Windows XP, Linux / Unix,,,Male,25 to 44,,Italy,
+2009,,Computer Science,,HTML / CSS,"Limited C++, HTML, SQL",Less than 6 months,Less than Once per Month,1,,"Desktop, Laptop",Windows XP, Windows Vista, Linux,,Male,25 to 44,MA,USA,
+2009,,Software Engineering,,Java,"Java, JavaScript, HTML / CSS, PHP, SQL",1 to 3 years,Daily,5,,Laptop,Windows XP,,,,Male,25 to 44,MA,USA,
+2009,,Applied Mathematics - Economics,Computer Science,C,"C, C++, C#",1 to 3 years,Less than Once per Month,3,,Laptop,Mac OS,,,,Male,18 to 24,TX,USA,
+2009,,N/A,,C,"C, C++, Java, JavaScript, HTML / CSS, Perl, VB / VBScript, LabView",Over 3 years,Daily,5,,"Desktop, Laptop",Windows XP, Mac OS, Linux,,Male,25 to 44,MA,USA,
+2009,,Applied Mathematics - Computer Science,Music,C,"C, C++, HTML / CSS",6 months to 1 year,Weekly,4,,Laptop,Windows XP,,,,Female,18 to 24,VA,USA,
+2009,,Computer Science,Economics,C,"JavaScript, HTML / CSS, PHP, SQL",Less than 6 months,Weekly,4,,Laptop,Windows Vista,,,,Male,18 to 24,MS,USA,
+2009,,Computer Science,,Java,"C++, JavaScript, HTML / CSS, PHP, SQL",Over 3 years,Daily,4,,Desktop,Windows XP, Windows Vista, Linux,,,,MA,USA,
+2009,DCE,Information Technology,N/A,Ruby,"Java, JavaScript, HTML / CSS, PHP, Ruby, SQL",Over 3 years,Weekly,3,,Laptop,Windows XP,,,,Male,25 to 44,MA,USA,
+2009,,Software Engineering,,Java,"JavaScript, HTML / CSS, SQL",Over 3 years,Two or more times per Month,4,,Laptop,Windows Vista, Linux / Unix,,,Male,25 to 44,MN,USA,
+2009,,N/A,Computer Science,C,"JavaScript, HTML / CSS, PHP, SQL",Less than 6 months,Weekly,3,,Laptop,Windows XP,,,,Female,18 to 24,CA,USA,
+2009,,Engineering Sciences,,C,"C++, Java, LISP",Over 3 years,Less than Once per Month,3,,Laptop,Windows Vista,,,,,,TX,USA,
+2009,,Information Management Systems,,Java,"C, C++, Java, JavaScript, HTML / CSS, Perl, Ruby, SQL",Over 3 years,Daily,5,,Laptop,Windows XP,,,,Male,25 to 44,MA,USA,
+2009,,Economics,Computer Science,C,"C++, Java, HTML / CSS, LISP, PHP, Python, SQL",1 to 3 years,Two or more times per Month,5,,Laptop,Windows Vista, Linux / Unix,,,Male,18 to 24,TX,USA,
+2009,,Economics,Computer Science,PHP,"C, C++",6 months to 1 year,Once per Month,3,,Laptop,Windows Vista,,,,Male,18 to 24,CT,USA,
+2009,,Computer Science,Engineering,PHP,"C, Java, JavaScript, HTML / CSS, SQL",1 to 3 years,Daily,5,,Laptop,Windows Vista, Mac OS,,,Male,18 to 24,MA,USA,
+2009,,Psychology,,HTML / CSS,"BASIC, C, C++, Java, JavaScript, HTML / CSS, PHP, SQL",1 to 3 years,Once per Month,4,,Laptop,Windows XP,,,,Female,18 to 24,MI,USA,
+2009,,Psychology,Computer Science,Ruby,"C, C++, JavaScript, HTML / CSS, LISP, PHP, Ruby",1 to 3 years,Two or more times per Month,3,,"Desktop, Laptop",Windows XP, Linux / Unix,,,Male,18 to 24,OH,USA,
+2009,,N/A,N/A,VB / VBScript,"Java, HTML / CSS, SQL",1 to 3 years,Less than Once per Month,3,,Laptop,Windows XP, Mac OS,,,Male,45 to 64,MA,USA,
+2009,,N/A,N/A,PHP,"BASIC, C, C++, Java, JavaScript, HTML / CSS, PHP, SQL, VB / VBScript",Over 3 years,Daily,4,,"Desktop, Laptop",Windows XP, Windows Vista, Linux,,Male,25 to 44,MA,USA,
+2009,,Computer Science,Economics,C,"C, C++, Java, HTML / CSS, LISP, PHP, SQL",1 to 3 years,Two or more times per Month,4,,Laptop,Windows Vista,,,,Male,18 to 24,NY,USA,
+2009,,Computer Science,,Python,VB / VBScript,1 to 3 years,Weekly,4,,"Desktop, Laptop",Mac OS, Linux / Unix,,,Female,25 to 44,KS,USA,
+2009,,Physics,Earth and Planetary Science,C,"HTML / CSS, LISP, PHP",6 months to 1 year,Two or more times per Month,3,,Laptop,Windows XP,,,,,,NJ,USA,
+2009,,N/A,,C,"BASIC, C, Java, JavaScript, HTML / CSS, LISP, Perl, PHP, SQL",Over 3 years,Less than Once per Month,3,,Laptop,Mac OS,,,,Female,,MA,USA,
+2009,,Information Technology Management,Software engineering,PHP,"C#, Java, JavaScript, HTML / CSS, PHP, Ruby, SQL",1 to 3 years,Two or more times per Month,4,,Desktop,Windows XP,,,,Female,25 to 44,WA,USA,
+2009,,Computer Science,,Java,"C, C++, HTML / CSS, LISP, SQL, VB / VBScript",Over 3 years,Weekly,5,,Laptop,Windows Vista,,,,Male,18 to 24,MA,USA,
+2009,,Computer Science,,Python,"C, Java, Perl",Over 3 years,Two or more times per Month,4,,Laptop,Mac OS, Linux / Unix,,,Male,25 to 44,MA,USA,
+2009,,Economics,Computer Science,PHP,"C, JavaScript, HTML / CSS, SQL",Less than 6 months,Once per Month,3,,Laptop,Mac OS,,,,Male,18 to 24,PA,USA,
+2010,,Computer Science,N/A,Java,"C, C++, C#, Java, JavaScript, HTML / CSS, LISP, PHP, SQL",Over 3 years,Weekly,5,,Laptop,Windows Vista,,,,Male,18 to 24,NY,USA,
+2010,,N/A,N/A,C#,"C, JavaScript, HTML / CSS, PHP, Python",Less than 6 months,Daily,4,,"Desktop, Laptop",Windows 7,,,,Male,18 to 24,CA,USA,
+2010,,Masters of Architecture,N/A,Java,"Java, JavaScript, HTML / CSS, PHP, VB / VBScript, ActionScript 3/4, MEL",1 to 3 years,Two or more times per month,4,,Laptop,Windows XP,,,,Male,25 to 44,NM,USA,
+2010,,Social Studies,N/A,JavaScript,"C, JavaScript, HTML / CSS, PHP, SQL",Less than 6 months,Weekly,3,,Laptop,Mac OS,,,,Male,18 to 24,CA,USA,
+2010,,Engineering Sciences,VES,C,"HTML / CSS, PHP",6 months to 1 year,Less than once per month,1,,Laptop,Windows 7,,,,Female,18 to 24,NY,USA,
+2010,,Computer Science,Economics,PHP,"C, C++, HTML / CSS, PHP",1 to 3 years,Two or more times per month,3,,Laptop,Mac OS,,,,Female,18 to 24,FL,USA,
+2010,,Mechanical Engineering,N/A,C,C,1 to 3 years,Two or more times per month,3,,Laptop,Mac OS,,,,Male,18 to 24,,China,
+2010,,Computer Science,N/A,PHP,"C, JavaScript, HTML / CSS, SQL",Less than 6 months,Daily,3,,Laptop,Windows 7,,,,Male,18 to 24,FL,USA,
+2010,,Computer Science,Mathematics,Ruby,"BASIC, C, C++, C#, Java, JavaScript, HTML / CSS, LISP, Perl, PHP, Ruby, SQL, VB / VBScript",Over 3 years,Daily,5,,"Desktop, Laptop",Windows 7,,,,Male,25 to 44,MA,USA,
+2010,,Organismic and Evolutionary Biology,Computer Science,C,"C, HTML / CSS, PHP, SQL",Less than 6 months,Less than once per month,2,,Laptop,Windows Vista,,,,Male,18 to 24,FL,USA,
+2010,,History of Science,N/A,C,"HTML / CSS, PHP",6 months to 1 year,Once per month,3,,Laptop,Mac OS,,,,Female,,DC,USA,
+2010,,ALM Information Technology,N/A,Java,"C, C++, Java, JavaScript, HTML / CSS, Perl, PHP, Python, SQL, VB / VBScript",Over 3 years,Less than once per month,5,,"Desktop, Laptop",Windows XP,,,,Male,25 to 44,VA,USA,
+2010,,ALM Information Technology,N/A,C++,C,Over 3 years,Less than once per month,3,,Laptop,Mac OS,,,,Male,25 to 44,MA,USA,
+2010,,Sustainable Design,N/A,BASIC,processing,Less than 6 months,Once per month,1,,Laptop,Windows Vista,,,,Female,25 to 44,MA,USA,
+2010,,Visual and Environmental Sciences,Computer Science,Python,"C, C++, C#, Java, JavaScript, HTML / CSS, Python, SQL, VB / VBScript, ActionScript",Over 3 years,Weekly,3,,"Desktop, Laptop",Windows 7,,,,Male,18 to 24,IL,USA,
+2010,,Biomedical Engineering,Computer Science,C,"JavaScript, HTML / CSS, PHP, SQL",Less than 6 months,Less than once per month,1,,Laptop,Windows XP,,,,Male,18 to 24,FL,USA,
+2010,,Computer Science,Neurobiology,C,"HTML / CSS, PHP, SQL",Less than 6 months,Less than once per month,3,,Laptop,Windows 7,,,,Male,18 to 24,NY,USA,
+2010,,Computer Science,N/A,Java,"C, JavaScript, HTML / CSS, PHP, SQL",1 to 3 years,Weekly,3,,Laptop,Mac OS,,,,Female,25 to 44,MA,USA,
+2010,,Economics,Computer Science,Python,"C, C#, HTML / CSS, PHP, Python, SQL",1 to 3 years,Two or more times per month,4,,Laptop,Windows 7,,,,Male,18 to 24,OR,USA,
+2010,,HAA,Computer Science,C,"Java, JavaScript, HTML / CSS, PHP, SQL",Less than 6 months,Two or more times per month,1,,"Desktop, Laptop",Windows 7,,,,Male,18 to 24,OH,USA,
+2010,,Psychology,Computer Science,Ruby,"C, C++, Java, JavaScript, HTML / CSS, LISP, Perl, PHP, SQL",Over 3 years,Daily,5,,"Desktop, Laptop",Windows XP,,,,Male,18 to 24,VA,USA,
+2010,,Economics,Computer Science,C,"C, HTML / CSS",Less than 6 months,Weekly,2,,Laptop,Windows XP,,,,Male,18 to 24,MA,USA,
+2010,,Undecided,N/A,PHP,"BASIC, C, C++, Java, HTML / CSS, Perl, PHP, SQL",Over 3 years,Two or more times per month,4,,Laptop,Mac OS,,,,Female,18 to 24,KY,USA,
+2010,,Computer Science,N/A,C,"C, C++, HTML / CSS",Over 3 years,Two or more times per month,5,,"Desktop, Laptop",Windows 7,,,,Male,18 to 24,NY,USA,
+2010,,Design and Technology,Bachelors in Architecture,C,Python,1 to 3 years,Weekly,3,,Laptop,Windows Vista,,,,Male,,AP,India,
+2010,,Applied Mathematics Computer Science,N/A,C++,"HTML / CSS, PHP, SQL",Less than 6 months,Weekly,2,,Laptop,Mac OS,,,,Female,18 to 24,FL,USA,
+2010,,Economics,Computer Science,JavaScript,"C, JavaScript, HTML / CSS, PHP",6 months to 1 year,Less than once per month,3,,Laptop,Windows XP,,,,Male,18 to 24,,Japan,
+2010,,Digital Media Sciences,N/A,JavaScript,"JavaScript, HTML / CSS, PHP, SQL, LSL (videogame language)",1 to 3 years,Daily,4,,"Desktop, Laptop",Windows 7,,,,Female,25 to 44,MA,USA,
+2010,,VES,Computer Science,C,"C, HTML / CSS, PHP, SQL",Less than 6 months,Once per month,2,,Laptop,Mac OS,,,,Male,18 to 24,CA,USA,
+2010,,Computer Science,N/A,Java,"C, C++, JavaScript, HTML / CSS, Perl, PHP, Python, SQL",Over 3 years,Weekly,4,,Laptop,Windows XP,,,,Male,25 to 44,MA,USA,
+2010,,ALM Information Technology,N/A,C++,"BASIC, C, C++, Java, JavaScript, HTML / CSS, LISP, Perl",Over 3 years,Daily,5,,"Desktop, Laptop",Windows XP,,,,Male,45 to 64,ME,USA,
+2010,,ALM Information Technology,N/A,HTML / CSS,"Java, JavaScript, SQL",Less than 6 months,Less than once per month,2,,Laptop,Windows Vista,,,,Female,25 to 44,MA,USA,
+2010,,Computer Science,N/A,C++,"C, HTML / CSS, LISP, Python, VB / VBScript, Scheme, OpenGL, ML",Over 3 years,Weekly,4,,Laptop,Windows Vista,,,,Female,18 to 24,MA,USA,
+2010,,CS,N/A,Java,"Java, HTML / CSS, SQL",Less than 6 months,Less than once per month,2,,"Desktop, Laptop",Windows XP,,,,Male,25 to 44,MA,USA,
+2010,,Chemical & Physical Biology,Computer Science,Python,"C, JavaScript, HTML / CSS, PHP, Python, SQL",1 to 3 years,Once per month,4,,Laptop,Windows XP,,,,Male,18 to 24,MA,USA,
+2010,,ALM Information Technology,N/A,HTML / CSS,"HTML / CSS, PHP, SQL, ColdFusion",1 to 3 years,Weekly,3,,Laptop,Mac OS,,,,Female,18 to 24,CA,USA,
+2010,,Economics,Computer Science,C,"C++, HTML / CSS, Python",1 to 3 years,Less than once per month,2,,Laptop,Mac OS,,,,Female,18 to 24,AL,USA,
+2010,,ALM Information Technology,N/A,Java,"C, C#, JavaScript, HTML / CSS, SQL, VB / VBScript",Over 3 years,Daily,5,,Desktop,Windows Vista,,,,Female,25 to 44,,Germany,
+2010,,Computer Science,Astrophysics,C,PHP,Less than 6 months,Weekly,3,,Laptop,Mac OS,,,,Male,18 to 24,CA,USA,
+2010,,Computer Science,N/A,C#,"C#, HTML / CSS, SQL, VB / VBScript",Over 3 years,Less than once per month,3,,Laptop,Windows 7,,,,Female,25 to 44,AZ,USA,
+2010,,Economics,Computer Science,C,"C, HTML / CSS, PHP",Less than 6 months,Two or more times per month,2,,Laptop,Mac OS,,,,Male,18 to 24,FL,USA,
+2010,,Sustainable Design,none,BASIC,Processing,Less than 6 months,Less than once per month,1,,Laptop,Windows XP,,,,Female,25 to 44,,Philippines,
+2010,,Computer Science,N/A,C,"C, C++, Java, JavaScript, HTML / CSS, LISP, PHP, Python, SQL, VB / VBScript",1 to 3 years,Daily,5,,Laptop,Windows 7,,,,Male,18 to 24,NY,USA,
+2010,,Sociology,Computer Science,C,PHP,Less than 6 months,Weekly,3,,"Desktop, Laptop",Mac OS,,,,Male,18 to 24,MA,USA,
+2010,,Chemical and Physical Biology,N/A,C,"C++, JavaScript, HTML / CSS",Less than 6 months,Once per month,3,,Laptop,Windows Vista,,,,Female,18 to 24,PA,USA,
+2010,,linguistics,Computer Science,C,"C, HTML / CSS, PHP",Less than 6 months,Two or more times per month,1,,Laptop,Mac OS,,,,Female,18 to 24,MA,USA,
+2010,,ALM Information Technology,NA,PHP,"JavaScript, PHP, VB / VBScript",Less than 6 months,Less than once per month,3,,Laptop,Windows XP,,,,Male,,HI,USA,
+2010,,Linguistics,"Mind, Brain, and Behavior",HTML / CSS,"C, JavaScript, HTML / CSS, PHP, SQL",Less than 6 months,Two or more times per month,2,,Laptop,Mac OS,,,,Female,18 to 24,FL,USA,
+2010,,ALM Information Technology,Information Management Systems,Java,"C#, Java, HTML / CSS, PHP, SQL",6 months to 1 year,Weekly,4,,"Desktop, Laptop",Windows XP,,,,Male,25 to 44,BC,Canada,
+2010,,Economics,Computer Science,C,"C, C++, HTML / CSS, PHP",Less than 6 months,Less than once per month,3,,Laptop,Mac OS,,,,Female,18 to 24,MI,USA,
+2010,,Mathematics,N/A,C,"JavaScript, HTML / CSS",Less than 6 months,Once per month,3,,Laptop,Mac OS,,,,Female,18 to 24,MA,USA,
+2010,,Biomedical Engineering,Computer Science,C,"JavaScript, HTML / CSS, PHP",Over 3 years,Two or more times per month,3,,Laptop,Windows 7,,,,Female,18 to 24,CA,USA,
+2010,,Government,Computer Science,C,"JavaScript, HTML / CSS, PHP",1 to 3 years,Two or more times per month,4,,Laptop,Windows 7,,,,Female,18 to 24,CA,USA,
+2010,,Economics,N/A,HTML / CSS,Processing,Less than 6 months,Weekly,3,,Desktop,Mac OS,,,,Male,25 to 44,,The Netherlands,
+2010,,Undecided,N/A,C,HTML / CSS,Less than 6 months,Two or more times per month,1,,Laptop,Mac OS,,,,Female,18 to 24,CA,USA,
+2010,,Music,Computer Science,Java,"C++, C#, JavaScript, HTML / CSS, PHP, SQL, VB / VBScript, Blaise",Over 3 years,Daily,5,,Laptop,Windows Vista,,,,Male,25 to 44,MA,USA,
+2010,,Psychology,Computer Science,Ruby,"BASIC, C, Java, HTML / CSS, PHP, Ruby, SQL, Verilog",6 months to 1 year,Two or more times per month,4,,Laptop,Windows 7,,,,Male,18 to 24,CA,USA,
+2010,,March I,N/A,VB / VBScript,No others,1 to 3 years,Weekly,3,,"Desktop, Laptop",Windows XP,,,,Female,25 to 44,CT,USA,
+2010,,Software Engineering,N/A,Java,"BASIC, C, C++, Java, JavaScript, Perl, PHP, SQL",Over 3 years,Weekly,5,,"Desktop, Laptop",Windows XP,,,,Male,,NY,USA,
+2010,,Sociology,Computer Science,HTML / CSS,"C, C++, C#, Java, JavaScript, PHP, Ruby",Over 3 years,Weekly,5,,Laptop,Windows XP,,,,Male,18 to 24,TX,USA,
+2010,,Information Technology Management,N/A,C#,"BASIC, C, C++, C#, Java, JavaScript, HTML / CSS, Perl, PHP, SQL, VB / VBScript, Unix shell script",Less than 6 months,Daily,5,,"Desktop, Laptop",Windows XP,,,,Male,25 to 44,NH,USA,
+2010,,Physics,Mathematical Sciences,C,Objective C,1 to 3 years,Weekly,4,,"Desktop, Laptop",Windows 7,,,,Male,18 to 24,VA,USA,
+2010,,Physics,Computer Science,C,"C, C#, Java, HTML / CSS",Over 3 years,Less than once per month,4,,Laptop,Windows XP,,,,Male,18 to 24,TX,USA,
+2010,,Comptuer Science,N/A,C,"C, C++, C#, Java, HTML / CSS, LISP, Perl, Python, SQL, VB / VBScript",Over 3 years,Weekly,4,,"Desktop, Laptop",Windows XP,,,,Male,18 to 24,TX,USA,
+2010,,Psychology,Computer Science,Java,"Java, HTML / CSS",1 to 3 years,Less than once per month,2,,Laptop,Windows 7,,,,Female,18 to 24,MI,USA,
+2010,,Applied Physics,Business,C,matlab,Less than 6 months,Less than once per month,2,,Laptop,Windows 7,,,,Female,25 to 44,,China,
+2010,,Organismic and Evolutionary Biology,History of Science,C,"HTML / CSS, PHP, SQL, FBML",6 months to 1 year,Once per month,2,,Laptop,Windows Vista,,,,Female,18 to 24,WA,USA,
+2010,,Computer Science,Music,Python,"C, C++, LISP, Python, Scheme",1 to 3 years,Weekly,4,,Laptop,Windows XP,,,,Male,18 to 24,VA,USA,
+2010,,ALM Information Technology,Information Management Systems,Java,"JavaScript, HTML / CSS, SQL",Over 3 years,Daily,5,,"Desktop, Laptop",Windows XP,,,,Male,25 to 44,MA,USA,
+2010,,ALM,Software Engineering,C++,"C, C++, C#, Java, JavaScript, HTML / CSS, PHP, Python, Ruby, SQL",Over 3 years,Daily,5,,"Desktop, Laptop",Windows XP,,,,Male,25 to 44,ON,Canada,
+2010,,Social Studies,Computer Science,PHP,"C, JavaScript, HTML / CSS, PHP, SQL",Less than 6 months,Less than once per month,3,,Laptop,Windows Vista,,,,Male,18 to 24,IL,USA,
+2010,,Bioengineering,Computer Science,C,"C, C++, Java, HTML / CSS, LISP, MATLAB",Over 3 years,Two or more times per month,4,,Laptop,Windows XP,,,,Female,18 to 24,CA,USA,
+2010,,ALM Information Technology,N/A,VB / VBScript,Java,Over 3 years,Once per month,4,,Laptop,Windows Vista,,,,Male,25 to 44,BC,Canada,
+2010,,Chemistry,N/A,C,"JavaScript, HTML / CSS, PHP",Less than 6 months,Two or more times per month,2,,Laptop,Mac OS,,,,Male,18 to 24,MN,USA,
+2010,,Psychology,Computer Science,C,HTML / CSS,6 months to 1 year,Two or more times per month,3,,Laptop,Mac OS,,,,Female,18 to 24,KY,USA,
+2010,,Computer Science,N/A,Java,"Java, JavaScript, HTML / CSS, PHP, SQL",Over 3 years,Less than once per month,3,,Laptop,Windows XP,,,,Male,45 to 64,MA,USA,
+2010,,Computer Science,N/A,C,"C, C++, Java, JavaScript, HTML / CSS, PHP, Ruby, SQL, VB / VBScript, Scheme, Objective-C",Over 3 years,Daily,5,,"Desktop, Laptop",Windows 7,,,,Male,18 to 24,,Lebanon,
+2010,,Economics,Computer Science,C,"C++, LISP, Objective-C (actually my best language)",1 to 3 years,Less than once per month,3,,Laptop,Mac OS,,,,Male,18 to 24,CA,USA,
+2010,,Computer Science,Neurobiology,C,"C++, JavaScript, HTML / CSS, Actionscript 3.0",Over 3 years,Daily,4,,Laptop,Mac OS,,,,Male,18 to 24,CA,USA,
+2010,,Computer Science,N/A,C,"C++, Pascal",1 to 3 years,Once per month,4,,"Desktop, Laptop",Mac OS,,,,Male,18 to 24,,Spain,
+2010,,VES,Computer Science,C,"BASIC, C++, HTML / CSS, Ruby, Scheme, Verilog",Over 3 years,Two or more times per month,3,,Laptop,Windows 7,,,,Male,18 to 24,MD,USA,
+2010,,ALM Information Technology,N/A,HTML / CSS,"BASIC, C, C++, HTML / CSS, Some ruby",Over 3 years,Two or more times per month,3,,Laptop,Mac OS,,,,Male,25 to 44,IL,USA,
+2010,,Economics,Computer Science,C,"BASIC, C, C++, HTML / CSS, PHP, SQL",Over 3 years,Less than once per month,4,,Laptop,Mac OS,,,,Female,18 to 24,IL,USA,
+2010,,Neurobiology,Computer Science,C,"JavaScript, HTML / CSS, PHP, SQL",1 to 3 years,Daily,5,,Laptop,Mac OS,,,,Male,18 to 24,MN,USA,
+2010,,Computer Science,History,Java,"Java, JavaScript, HTML / CSS, Python, SQL",Over 3 years,Weekly,5,,"Desktop, Laptop",Windows 7,,,,Male,25 to 44,MA,USA,
+2010,,Digital Media Arts and Sciences,N/A,HTML / CSS,JavaScript,Less than 6 months,Less than once per month,1,,Desktop,Windows 7,,,,Male,25 to 44,MA,USA,
+2010,,"ALM Information Technology, Information Management Systems",N/A,PHP,"BASIC, C, C++, Java, JavaScript, HTML / CSS, PHP, SQL, VB / VBScript, AppleScript, Pascal",Over 3 years,Daily,5,,"Desktop, Laptop",Windows XP,,,,Male,25 to 44,,Slovenia,
+2010,,Astronomy,Computer Science,C,"BASIC, C, C++, C#, Java, JavaScript, HTML / CSS, PHP, Python, SQL, VB / VBScript",Over 3 years,Daily,5,,"Desktop, Laptop",Windows Vista,,,,Male,25 to 44,MA,USA,
+2010,,Computer Science,N/A,C++,"C, C++, HTML / CSS, LISP, PHP, Python, SQL, VB / VBScript",1 to 3 years,Weekly,4,,Laptop,Mac OS,,,,Male,18 to 24,,Brazil,
+2010,,Economics,Computer Science,C,"C, JavaScript, HTML / CSS, Python",1 to 3 years,Two or more times per month,3,,Laptop,Windows 7,,,,Female,18 to 24,CA,USA,
+2010,,Digital Media,N/A,HTML / CSS,HTML / CSS,Less than 6 months,Less than once per month,1,,Laptop,Windows 7,,,,Male,18 to 24,MA,USA,
+2010,,Computer Science,N/A,C,"C++, PHP, Python, SQL",Over 3 years,Two or more times per month,4,,Desktop,Windows XP,,,,Male,18 to 24,BC,Canada,
+2010,,Computer Science,Management,Java,"C#, HTML / CSS, Python, SQL",Over 3 years,Once per month,5,,"Desktop, Laptop",Mac OS,,,,Male,25 to 44,NO,Norway,
+2010,,Information Technology,N/A,Java,"C, Java, JavaScript, HTML / CSS, SQL",Over 3 years,Daily,5,,"Desktop, Laptop",Windows XP,,,,Male,45 to 64,MA,USA,
+2010,,Chemistry and Physics,Economics,C,C,Less than 6 months,Weekly,2,,Laptop,Windows Vista,,,,Male,18 to 24,CA,USA,
+2010,,Computer Science,N/A,C,"C, JavaScript, HTML / CSS, PHP, Python, SQL, Ocaml",6 months to 1 year,Daily,4,,Laptop,Windows Vista,,,,Female,18 to 24,MN,USA,
+2010,,Computer Science,N/A,C,"C, C++, PHP, SQL",Over 3 years,Daily,5,,Laptop,Windows XP,,,,Male,18 to 24,TX,USA,
+2010,,Computer Science,Government,PHP,"C, C++, Java, JavaScript, HTML / CSS, Python, SQL",Over 3 years,Weekly,5,,"Desktop, Laptop",Windows XP,,,,Male,18 to 24,NY,USA,
+2010,,Ph.D. in Biochemistry,N/A,Java,HTML / CSS,Over 3 years,Two or more times per month,4,,"Desktop, Laptop",Windows XP,,,,Male,25 to 44,MA,USA,
+2010,,Economics,Computer Science,C,"C, Java, PHP, OCAML (cs51)",Less than 6 months,Weekly,4,,Laptop,Windows Vista,,,,Male,18 to 24,CA,USA,
+2010,,"ALM Information Technology, Digital Media Arts & Sciences","ALM in IT, Digital Media Arts & Sciences",HTML / CSS,"JavaScript, HTML / CSS, Flash Actionscript",1 to 3 years,Less than once per month,2,,Laptop,Windows XP,,,,Male,25 to 44,MA,USA,
+2010,,Computer Science,N/A,C,C,1 to 3 years,Once per month,3,,Laptop,Mac OS,,,,Male,18 to 24,MD,USA,
+2010,,Literature,Computer Science,C,Python,6 months to 1 year,Less than once per month,1,,Laptop,Mac OS,,,,Female,18 to 24,CA,USA,
+2010,,History,MBB,C,"C, JavaScript, HTML / CSS, Python",6 months to 1 year,Less than once per month,2,,"Desktop, Laptop",Windows 7,,,,Male,18 to 24,MA,USA,
+2010,,Mechanical Engineering,N/A,C,HTML / CSS,Less than 6 months,Less than once per month,3,,Laptop,Windows Vista,,,,Male,18 to 24,MA,USA,
+2010,,Computer Science,N/A,C,"C, C++, JavaScript, HTML / CSS, PHP, Python, SQL",1 to 3 years,Weekly,4,,"Desktop, Laptop",Windows XP,,,,Male,18 to 24,AL,Canada,
+2010,,ALM Biotech,N/A,HTML / CSS,"C, JavaScript, PHP, SQL",Over 3 years,Once per month,2,,Laptop,Windows XP,,,,Female,45 to 64,MA,USA,
+2010,,Computer Science,N/A,C,"JavaScript, HTML / CSS, SQL, VB / VBScript",6 months to 1 year,Less than once per month,3,,Laptop,Windows Vista,,,,Male,18 to 24,MA,USA,
+2010,,Computer Science,N/A,C,"C, Java, JavaScript, HTML / CSS, PHP, SQL, Actionscript",1 to 3 years,Weekly,4,,Laptop,Windows Vista,,,,Male,18 to 24,NY,USA,
+2010,,Engineering Sciences,N/A,C,"C, JavaScript, HTML / CSS, PHP, SQL",Less than 6 months,Weekly,3,,Laptop,Mac OS,,,,Female,18 to 24,MA,USA,
+2010,,Master in Information Technology with Mathematics and Computing,N/A,Java,"C, JavaScript, HTML / CSS, Python, SQL",Over 3 years,Daily,5,,"Desktop, Laptop",Windows XP,,,,Male,25 to 44,MA,USA,
+2010,,Computer Science,Economics,C,C,1 to 3 years,Less than once per month,2,,Laptop,Windows XP,,,,Male,18 to 24,NY,USA,
+2010,,Information Sciences,N/A,C#,"C, C#, HTML / CSS, prolog",Over 3 years,Weekly,4,,"Desktop, Laptop",Windows XP,,,,,25 to 44,,Australia,
+2010,,Social Studies,International Relations,HTML / CSS,"JavaScript, HTML / CSS",6 months to 1 year,Less than once per month,2,,Laptop,Windows 7,,,,Male,25 to 44,MD,USA,
+2011,Harvard College,Computer Science,N/A,C,"C, JavaScript, HTML / CSS, LISP, PHP, Python, SQL",Over 3 years,Two or more times per month,4,,Laptop,Windows 7,,,,Male,18 to 24,CA,USA,
+2011,DCE,Computer Science,Journalism,PHP,"C, C++, Java, JavaScript, HTML / CSS, PHP, SQL, Objective-C",Over 3 years,Daily,5,,Laptop,Mac OS,,,,Male,25 to 44,CA,USA,
+2011,DCE,ALM Software Engineering,"Yale ALB Ethics, Politics, Economics",C,"BASIC, C, C++, Java, JavaScript, HTML / CSS, PHP, SQL, VB / VBScript, Objective-C",Over 3 years,Weekly,4,,Laptop,Mac OS,,,,Male,18 to 24,MN,USA,
+2011,Harvard College,Economics,Computer Science,C,"C, JavaScript, HTML / CSS, PHP, SQL",Less than 6 months,Weekly,3,,Laptop,Windows 7,,,,Female,18 to 24,,Madagascar,
+2011,Harvard College,Electrical and Computer Engineering,N/A,C++,"C, C#, HTML / CSS, LISP, Perl, PHP",1 to 3 years,Daily,4,,Desktop,Windows 7,,,,Male,18 to 24,,Lebanon,
+2011,Harvard College,Computer Science,Chemistry,C,"JavaScript, HTML / CSS, PHP, Ruby, SQL",6 months to 1 year,Daily,4,,"Desktop, Laptop",Windows 7, Linux / Unix,,,Male,18 to 24,IN,USA,
+2011,Harvard College,Computer Science,N/A,Python,"C, C++, C#, Java, JavaScript, HTML / CSS, LISP, PHP, Python, SQL",Over 3 years,Two or more times per month,5,,Laptop,Mac OS,,,,Male,18 to 24,NE,USA,
+2011,Harvard College,Applied Mathematics,N/A,C,"C, Java, JavaScript, HTML / CSS, PHP, SQL",Less than 6 months,Two or more times per month,1,,Laptop,Mac OS,,,,Female,18 to 24,,Philippines,
+2011,Harvard College,ALM Information Technology / Digital Media,N/A,PHP,"BASIC, C, JavaScript, HTML / CSS, PHP, SQL, Scheme",Less than 6 months,Weekly,4,,"Desktop, Laptop",Windows XP, Mac OS,,,Female,25 to 44,MA,USA,
+2011,Harvard College,Masters in Design Studies,N/A,C#,"C, HTML / CSS",Less than 6 months,Weekly,3,,"Desktop, Laptop",Windows Vista,,,,Male,25 to 44,CA,USA,
+2011,DCE,IT,Applied Mathematics,C++,"BASIC, C, C++, C#, Java, JavaScript, HTML / CSS, Python, SQL, Oracle, F#, pascal",Over 3 years,Daily,5,,Desktop,Windows Vista,,,,Male,25 to 44,MA,USA,
+2011,Harvard College,Computer Science,OEB?,Java,"BASIC, C, Java, JavaScript, HTML / CSS, PHP, SQL",1 to 3 years,Weekly,4,,Laptop,Windows 7,,,,Male,18 to 24,IN,USA,
+2011,Harvard College,Computer Science,N/A,C,"C, Java, JavaScript, HTML / CSS, PHP, Python, SQL",1 to 3 years,Daily,5,,Laptop,Windows 7,,,,Male,18 to 24,NJ,USA,
+2011,Harvard College,Government,Computer Science,C,"C, C#, JavaScript, HTML / CSS, LISP, PHP, SQL",6 months to 1 year,Less than once per month,3,,Laptop,Mac OS,,,,Female,18 to 24,NY,USA,
+2011,Harvard College,SM Computer Science,N/A,C#,"C, C++, Java, JavaScript, HTML / CSS, SQL, VB / VBScript",Over 3 years,Weekly,5,,Laptop,Mac OS,,,,Male,25 to 44,MA,USA,
+2011,Harvard College,Computer Science,N/A,Python,"BASIC, C, JavaScript, HTML / CSS, LISP, PHP, Python, Ruby, SQL",Over 3 years,Daily,5,,"Desktop, Laptop",Linux,,,,Male,18 to 24,MA,USA,
+2011,DCE,Information Management Systems,N/A,Python,"C, C++, Java, JavaScript, HTML / CSS, PHP, Python, SQL",Over 3 years,Daily,4,,"Desktop, Laptop",Windows XP, Mac OS,,,Male,45 to 64,MA,USA,
+2011,DCE,Extension,Extension,C,"C, Java, JavaScript, HTML / CSS, PHP, SQL",Less than 6 months,Once per month,1,,Laptop,Mac OS,,,,Male,18 to 24,WI,USA,
+2011,Harvard College,Mathematics,Computer Science,Java,"C, Java",Over 3 years,Once per month,4,,Laptop,Windows 7,,,,Male,18 to 24,PA,USA,
+2011,DCE,Information Technology Management,None,SQL,"C, C++, JavaScript, HTML / CSS, Perl, PHP, SQL, PL/SQL",Over 3 years,Daily,5,,"Desktop, Laptop",Mac OS, Linux / Unix,,,Male,25 to 44,FL,USA,
+2011,Harvard College,Economics,Computer Science,C,"JavaScript, HTML / CSS, PHP, SQL",Less than 6 months,Weekly,3,,Laptop,Windows XP, Mac OS,,,Male,18 to 24,NY,USA,
+2011,Harvard College,Computer Science,N/A,Python,"C, C#, Java, JavaScript, HTML / CSS, PHP, Python, Ruby, SQL",1 to 3 years,Daily,4,,"Desktop, Laptop",Windows 7, Mac OS,,,Male,18 to 24,CA,USA,
+2011,Harvard College,Computer Science,N/A,HTML / CSS,"C, JavaScript, HTML / CSS, PHP, SQL",1 to 3 years,Once per month,4,,Laptop,Windows 7, Mac OS,,,Male,18 to 24,NY,USA,
+2011,Harvard College,Economics,Computer Science,PHP,"C, Java, HTML / CSS, PHP, SQL",6 months to 1 year,Two or more times per month,2,,"Desktop, Laptop",Windows XP, Mac OS,,,Female,18 to 24,"Baton Rouge, LA",USA,
+2011,Harvard College,Master of Design Studies in Technology,N/A,C,C,Less than 6 months,Less than once per month,2,,Laptop,Windows 7,,,,Male,25 to 44,NJ,USA,
+2011,DCE,Biotechnology,Bioinformatics,PHP,"Java, HTML / CSS, PHP, SQL",6 months to 1 year,Weekly,4,,"Desktop, Laptop",Windows 7, Mac OS,,,Male,25 to 44,MA,USA,
+2011,Harvard College,Psychology,Economics,JavaScript,"C, JavaScript, HTML / CSS, PHP, SQL",1 to 3 years,Weekly,3,,Laptop,Windows 7, Mac OS,,,Male,18 to 24,NY,USA,
+2011,Harvard College,computer science,N/A,Java,"C, JavaScript, HTML / CSS",1 to 3 years,Weekly,4,,Laptop,Mac OS,,,,Female,18 to 24,CA,USA,
+2011,DCE,ALM Information Technology  Software Engineering,N/A,Java,"C++, Python, VB / VBScript, Ocaml",Over 3 years,Weekly,5,,"Desktop, Laptop",Windows XP, Windows 7, Linux,,Male,25 to 44,ON,Canada,
+2011,DCE,Single course,N/A,VB / VBScript,Python,1 to 3 years,Less than once per month,3,,Laptop,Mac OS,,,,Male,25 to 44,MA,USA,
+2011,Harvard College,Computer Science,N/A,PHP,"C, C++, Java, JavaScript, HTML / CSS, PHP, SQL, VB / VBScript, Objective-C",Over 3 years,Daily,4,,Laptop,Windows 7, Mac OS,,,Male,,NY,USA,
+2011,Harvard College,History,Computer Science,JavaScript,"C, Java, JavaScript, HTML / CSS, PHP",6 months to 1 year,Weekly,4,,Laptop,Mac OS,,,,Male,18 to 24,PA,USA,
+2011,Harvard College,Computer Science,N/A,C++,"C, C#",Over 3 years,Weekly,5,,"Desktop, Laptop",Windows XP, Windows Vista,,,Male,25 to 44,CA,USA,
+2011,DCE,Computer Science,N/A,PHP,"Java, JavaScript, HTML / CSS, PHP, SQL",Over 3 years,Weekly,5,,Laptop,Windows XP, Mac OS,,,Male,18 to 24,MA,USA,
+2011,DCE,Information Technology Management,N/A,PHP,"HTML / CSS, SQL, VB / VBScript",Over 3 years,Once per month,4,,"Desktop, Laptop",Windows Vista, Windows 7,,,Male,25 to 44,TN,USA,
+2011,Harvard College,Harvard Kennedy School,International development,HTML / CSS,Stata,Less than 6 months,Two or more times per month,1,,Laptop,Mac OS,,,,Male,25 to 44,MA,USA,
+2011,Harvard College,mcb phd,Engineering,C,"C, Java, LISP, matlab, mathematica",Over 3 years,Less than once per month,3,,"Desktop, Laptop",Mac OS,,,,Male,25 to 44,CA,USA,
+2011,Harvard College,Biomedical Engineering (Engineering Sciences SB),N/A,PHP,"C, C++, JavaScript, HTML / CSS, PHP, Ruby, SQL",1 to 3 years,Less than once per month,4,,Laptop,Mac OS,,,,Male,18 to 24,,Israel,
+2011,Harvard College,Government,N/A,C,"C, HTML / CSS, PHP, SQL",6 months to 1 year,Less than once per month,3,,Laptop,Mac OS,,,,Male,18 to 24,NY,USA,
+2011,Harvard College,Computer Science,N/A,BASIC,n/a,Less than 6 months,Less than once per month,1,,Laptop,Mac OS,,,,Male,18 to 24,CA,USA,
+2011,Harvard College,Economics,Computer Science,HTML / CSS,"C, PHP, SQL",6 months to 1 year,Once per month,3,,Laptop,Mac OS,,,,Male,18 to 24,,Kenya,
+2011,DCE,"MA, Digital Media Arts & Instructional Design",N/A,HTML / CSS,"JavaScript, PHP, SQL",Over 3 years,Daily,5,,Laptop,Mac OS,,,,Male,18 to 24,DC,USA,
+2011,Harvard College,Physics,Computer Science,C++,"C#, Java, HTML / CSS, LISP, PHP, SQL, SML",Over 3 years,Weekly,5,,Laptop,Windows Vista, Windows 7,,,Male,18 to 24,CA,USA,
+2011,DCE,Computer Science,N/A,HTML / CSS,"C, C++, Java, JavaScript",1 to 3 years,Weekly,3,,"Desktop, Laptop",Windows Vista, Mac OS,,,Female,Under 17,CO,USA,
+2011,Harvard College,Applied Mathematics,Statistics,C,"C, Java, HTML / CSS",Less than 6 months,Weekly,2,,Laptop,Windows 7,,,,Male,18 to 24,OH,USA,
+2011,DCE,ALM Digital Media,N/A,HTML / CSS,Java,Less than 6 months,Less than once per month,1,,"Desktop, Laptop",Windows XP, Windows 7,,,Female,45 to 64,MA,USA,
+2011,Harvard College,Archaeology,OEB,C,"C, Java, JavaScript, HTML / CSS, PHP, SQL, VB / VBScript",Over 3 years,Once per month,4,,Laptop,Windows 7, Linux / Unix,,,,,DC,USA,
+2011,Harvard College,Applied Mathematics,Earth and Planetary Sciences,Java,"BASIC, C, Java",6 months to 1 year,Two or more times per month,3,,Laptop,Windows Vista,,,,Male,18 to 24,MA,USA,
+2011,Harvard College,Computer Science,N/A,C++,"C, C++, Java, JavaScript, HTML / CSS, LISP, Perl, PHP, Python, Ruby, SQL, sh, Processing",Over 3 years,Weekly,5,,Laptop,Linux,,,,Male,18 to 24,DC,USA,
+2011,Harvard College,Computer Science,English,Java,"C, C++, JavaScript, PHP, Python, SQL",Over 3 years,Daily,5,,Laptop,Windows XP, Windows Vista,,,Male,18 to 24,MA,USA,
+2011,Harvard College,Economics,Environmental Science and Public Policy,C,"C, JavaScript, HTML / CSS, PHP, Python, SQL",6 months to 1 year,Less than once per month,3,,"Desktop, Laptop",Windows XP, Windows 7,,,Male,18 to 24,MA,USA,
+2011,DCE,not in a degree program (yet),N/A,Perl,"Java, AppleScript",Over 3 years,Weekly,4,,"Desktop, Laptop",Windows XP, Mac OS,,,Male,25 to 44,MA,USA,
+2011,Harvard College,Chemistry,VES: Studio,HTML / CSS,HTML / CSS,Less than 6 months,Less than once per month,2,,Laptop,Mac OS,,,,Male,18 to 24,DC,USA,
+2011,DCE,Computer Science,N/A,Java,"HTML / CSS, Python",Less than 6 months,Less than once per month,2,,"Desktop, Laptop",Windows XP, Windows 7, Mac OS,,Male,25 to 44,MA,USA,
+2011,Harvard College,History and Literature,Music,Python,"C, Java, JavaScript, HTML / CSS",Over 3 years,Once per month,4,,"Desktop, Laptop",Mac OS,,,,Male,18 to 24,MA,USA,
+2011,DCE,IT Digital Media,N/A,HTML / CSS,"C, JavaScript, HTML / CSS, PHP, Ruby",6 months to 1 year,Daily,4,,Laptop,Mac OS,,,,Female,25 to 44,CA,USA,
+2011,DCE,Digital Media,N/A,JavaScript,"C, C++, Java, JavaScript, HTML / CSS, Ruby, SQL",Over 3 years,Daily,5,,Laptop,Windows XP, Windows 7,,,Male,25 to 44,MA,USA,
+2011,Harvard College,Applied Mathematics,Computer Science,C,"C, Java, JavaScript, HTML / CSS, PHP, SQL",1 to 3 years,Two or more times per month,3,,Laptop,Mac OS,,,,Female,18 to 24,NJ,USA,
+2011,DCE,N/A,N/A,Perl,"JavaScript, HTML / CSS, Perl, Python, SQL",1 to 3 years,Two or more times per month,3,,Laptop,Linux,,,,Male,25 to 44,MA,USA,
+2011,Harvard College,Computer Science,Government,C,"HTML / CSS, PHP, SQL",Less than 6 months,Two or more times per month,2,,Laptop,Mac OS,,,,Female,18 to 24,,UK,
+2011,Harvard College,Economics,Computer Science,HTML / CSS,"C, JavaScript, HTML / CSS, PHP, Python, SQL",Less than 6 months,Two or more times per month,2,,Laptop,Mac OS,,,,,,MN,USA,
+2011,Harvard College,Government,Computer Science,C,"JavaScript, HTML / CSS, PHP",1 to 3 years,Weekly,4,,Laptop,Windows XP,,,,Male,18 to 24,CA,USA,
+2011,Harvard College,Computer Science,N/A,Java,"Java, HTML / CSS, Python",Less than 6 months,Daily,2,,Laptop,Mac OS,,,,Male,25 to 44,N/A,USA,
+2011,Harvard College,Applied Math Computer Science,N/A,C,"HTML / CSS, PHP",1 to 3 years,Less than once per month,2,,Laptop,Windows Vista,,,,Female,18 to 24,CA,USA,
+2011,DCE,mis,N/A,JavaScript,"JavaScript, HTML / CSS, SQL",1 to 3 years,Weekly,3,,Laptop,Windows Vista,,,,,,VA,USA,
+2011,Harvard College,Chemistry,Economics,C,"JavaScript, HTML / CSS, PHP",Less than 6 months,Weekly,3,,Laptop,Windows 7,,,,Male,18 to 24,,Hong Kong,
+2011,Harvard College,Computer Science,Mathematics,Java,"C, C#, Java, JavaScript, HTML / CSS, Perl, PHP, SQL",Over 3 years,Daily,5,,Laptop,Mac OS,,,,Male,18 to 24,MI,USA,
+2011,Harvard College,Computer Science,N/A,HTML / CSS,"C, C++, Java, JavaScript, HTML / CSS, PHP, Python, SQL, PLTScheme",Over 3 years,Daily,5,,"Desktop, Laptop",Windows XP, Windows 7, Mac OS, Linux,Female,18 to 24,MI,USA,
+2011,DCE,Computer Science,N/A,BASIC,"BASIC, C, C++, Java, JavaScript, HTML / CSS, Perl, PHP, VB / VBScript, x86 assembly",Over 3 years,Daily,5,,"Desktop, Laptop",Windows XP, Windows 7, Mac OS, Linux,Male,25 to 44,MA,USA,
+2011,Harvard College,Neurobiology,N/A,C,"C, JavaScript, HTML / CSS, PHP, SQL",Less than 6 months,Less than once per month,2,,Laptop,Mac OS,,,,Female,18 to 24,,China,
+2011,Harvard College,Anthropology,N/A,HTML / CSS,"C, PHP",Less than 6 months,Once per month,1,,Laptop,Mac OS,,,,Female,18 to 24,NY,USA,
+2011,Harvard College,East Asian Studies,Computer Science,Java,"C, Java, HTML / CSS",6 months to 1 year,Two or more times per month,2,,Laptop,Mac OS,,,,Male,18 to 24,MA,USA,
+2011,Harvard College,Statistics,Applied Mathematics,C++,"HTML / CSS, LISP, Python, SQL",Over 3 years,Daily,4,,"Desktop, Laptop",Windows XP, Windows 7,,,Female,25 to 44,,Ukraine,
+2011,Harvard College,Computer Science,Mind Brain Behavior,C,"C, Java, JavaScript, HTML / CSS, PHP, Ocaml",1 to 3 years,Weekly,5,,Laptop,Windows 7, Linux / Unix,,,Male,18 to 24,GA,USA,
+2011,Harvard College,Computer Science,Government,JavaScript,"BASIC, C, C++, C#, Java, JavaScript, HTML / CSS, PHP, Python, Ruby, SQL",Over 3 years,Daily,5,,Laptop,Windows XP, Windows 7, Mac OS, Linux,Male,18 to 24,MA,USA,
+2011,Harvard College,Molecular and Cellular Biology,N/A,C,"JavaScript, HTML / CSS",Less than 6 months,Less than once per month,2,,Laptop,Windows Vista,,,,Female,18 to 24,MD,USA,
+2011,Harvard College,Biomedical Engineering (SB),Computer Science,C,"HTML / CSS, PHP",Less than 6 months,Less than once per month,2,,Laptop,Windows XP, Mac OS,,,Male,18 to 24,FL,USA,
+2011,Harvard College,Computer Science,Visual and Environmental Sciences,C,"C, C#, Java, JavaScript, HTML / CSS, PHP, Python, SQL, Scheme",1 to 3 years,Weekly,4,,Laptop,Mac OS,,,,Female,18 to 24,,Argentina,
+2011,Harvard College,Economics,Computer Science,HTML / CSS,JavaScript,Less than 6 months,Less than once per month,1,,Laptop,Mac OS,,,,Male,18 to 24,,Kenya,
+2011,DCE,Information Technology,Information Management,Java,"JavaScript, HTML / CSS, PHP, Python, SQL, VB / VBScript",Over 3 years,Weekly,4,,Laptop,Windows XP, Windows 7, Mac OS, Linux,Male,45 to 64,OH,USA,
+2011,Harvard College,Economics,N/A,C,"JavaScript, HTML / CSS, PHP, SQL",Less than 6 months,Less than once per month,1,,Laptop,Mac OS,,,,Female,18 to 24,,Brazil,
+2011,Harvard College,OEB,N/A,C,"HTML / CSS, PHP, SQL",Less than 6 months,Less than once per month,3,,Laptop,Mac OS,,,,Male,18 to 24,MA,USA,
+2011,Harvard College,Computer Science,Economics,PHP,"C, JavaScript, HTML / CSS, SQL",Less than 6 months,Two or more times per month,2,,Laptop,Mac OS,,,,Male,18 to 24,"Montreal, Canada.",Canada,
+2011,DCE,Biochemistry,Applied Mathematics,Java,Perl,6 months to 1 year,Once per month,3,,Desktop,Mac OS,,,,Male,25 to 44,NH,USA,
+2011,Harvard College,Earth and Planetary Sciences,N/A,BASIC,"R, Matlab, Fortran, IDL",Over 3 years,Daily,5,,"Desktop, Laptop",Mac OS, Linux / Unix,,,Male,25 to 44,MA,USA,
+2011,DCE,Professional Development,Programming Experience,VB / VBScript,C,Over 3 years,Two or more times per month,3,,Desktop,Windows Vista,,,,Male,25 to 44,MA,USA,
+2011,Harvard College,Computer Science,Applied Mathematics,Java,"C, Java, HTML / CSS, PHP, SQL",1 to 3 years,Weekly,4,,Laptop,Windows 7,,,,Male,18 to 24,CA,USA,
+2011,Harvard College,Biological Chemistry and Molecular Pharmacology (Ph.D.),Biochemistry,Java,"C, JavaScript, HTML / CSS",Over 3 years,Less than once per month,4,,"Desktop, Laptop",Windows XP, Windows 7,,,Male,25 to 44,MA,USA,
+2011,DCE,Masters in Information Technology - Software Engineering,N/A,Perl,"C, Java, JavaScript, HTML / CSS, Perl, Python, SQL, BASH, Shell Scripting",Over 3 years,Daily,5,,"Desktop, Laptop",Windows XP, Windows Vista, Linux,,Male,25 to 44,MA,USA,
+2011,Harvard College,Computer Science,N/A,HTML / CSS,"C, JavaScript, HTML / CSS, PHP, SQL",Less than 6 months,Two or more times per month,2,,Laptop,Windows 7,,,,Female,18 to 24,MN,USA,
+2011,Harvard College,Computer Science,N/A,Python,"C, C++, JavaScript, HTML / CSS, LISP, PHP, Python, SQL",Over 3 years,Weekly,5,,Laptop,Windows 7, Linux / Unix,,,Male,18 to 24,,Czech Republic,
+2011,Harvard College,Classics,Computer Science,C,"Java, PHP",6 months to 1 year,Once per month,3,,Laptop,Windows XP,,,,Male,18 to 24,MA,USA,
+2011,Harvard College,Computer Science,Mathematics,C,"Java, HTML / CSS, PHP, SQL, OCaml",1 to 3 years,Weekly,3,,Laptop,Windows 7,,,,Female,18 to 24,PA,USA,
+2011,Harvard College,Computer Science,Mathematics,JavaScript,"C, Java, HTML / CSS, PHP, SQL",1 to 3 years,Daily,4,,Laptop,Windows 7,,,,Male,18 to 24,TX,USA,
+2011,Harvard College,Neurobiology,Computer Science,C,"C, HTML / CSS",6 months to 1 year,Less than once per month,3,,Laptop,Mac OS,,,,Female,18 to 24,CA,USA,
+2011,Harvard College,Dental Medicine,"BA Urban Planning, BA Sociology",C,C,Less than 6 months,Weekly,2,,Laptop,Mac OS,,,,Male,25 to 44,IL,USA,
+2011,Harvard College,Biochemical Sciences,Computer Science,JavaScript,"C, HTML / CSS, Perl, PHP, Python, SQL, VXML, LaTeX, MatLAB, Mathematica, LabVIEW",Over 3 years,Daily,5,,"Desktop, Laptop",Windows 7, Mac OS, Linux / Unix,,Male,18 to 24,NY,USA,
+2011,Harvard College,Physics,N/A,C++,"C, C++, Java, HTML / CSS, PHP, Python, SQL",1 to 3 years,Weekly,3,,Laptop,Mac OS,,,,Female,25 to 44,MA,USA,
+2011,Harvard College,History,Computer Science,C,"Java, SQL",Over 3 years,Two or more times per month,2,,Laptop,Mac OS,,,,Female,18 to 24,WI,USA,
+2011,Harvard College,Chemistry,Computer Science,PHP,"BASIC, C, C++, C#, Java, HTML / CSS, SQL",1 to 3 years,Once per month,3,,Laptop,Mac OS,,,,Male,18 to 24,NC,USA,
+2011,Harvard College,Computer Science,N/A,C,"Java, JavaScript, HTML / CSS, PHP",Less than 6 months,Once per month,3,,Laptop,Mac OS,,,,Female,18 to 24,KS,USA,
+2011,Harvard College,Computer Science,N/A,HTML / CSS,"C, C++, Java, JavaScript, HTML / CSS, PHP, Python, SQL",Over 3 years,Weekly,5,,"Desktop, Laptop",Windows 7, Mac OS, Linux / Unix,,Female,18 to 24,MI,USA,
+2011,Harvard College,Organismic and Evolutionary Biology,Computer Science,C,"JavaScript, HTML / CSS, PHP, SQL",Less than 6 months,Once per month,1,,Laptop,Mac OS,,,,Male,18 to 24,MD,USA,
+2011,Harvard College,Engineering Science,Earth and Planetary Science,C,"JavaScript, HTML / CSS, PHP",Less than 6 months,Weekly,2,,Laptop,Windows Vista,,,,Female,18 to 24,CO,USA,
+2011,Harvard College,Computer Science,Molecular and Cellular Biology,Java,"C, C#, Java, Perl, R",Over 3 years,Weekly,4,,Laptop,Windows Vista,,,,Male,18 to 24,MD,USA,
+2011,Harvard College,MPA International Development,N/A,PHP,"HTML / CSS, PHP, SQL",1 to 3 years,Two or more times per month,3,,Laptop,Windows XP, Mac OS,,,Male,25 to 44,,Norway,
+2011,DCE,CS,UI,PHP,"BASIC, C, C++, Java, JavaScript, HTML / CSS, Perl, PHP, Python, SQL, VB / VBScript, Processing",Over 3 years,Daily,5,,"Desktop, Laptop",Windows XP, Windows Vista, Windows 7, Linux,Male,45 to 64,MA,USA,
+2011,Harvard College,Computer Science,N/A,PHP,"C, JavaScript, HTML / CSS, PHP, Ruby, SQL",Less than 6 months,Daily,4,,Laptop,Mac OS,,,,Female,18 to 24,MT,USA,
+2011,DCE,N/A,N/A,SQL,Java,Over 3 years,Less than once per month,4,,Laptop,Windows Vista,,,,Male,25 to 44,PA,USA,
+2011,Harvard College,History,Computer Science,Java,"C, Java, VB / VBScript",Over 3 years,Weekly,4,,Laptop,Windows 7, Linux / Unix,,,Male,18 to 24,NY,USA,
+2011,Harvard College,Computer Science,Psychology,C,"C, Java, JavaScript, HTML / CSS, PHP, SQL",6 months to 1 year,Weekly,3,,Laptop,Mac OS,,,,Female,18 to 24,CA,USA,
+2011,DCE,Digital media arts and instructional design:,N/A,JavaScript,"C, X3D/vRML",1 to 3 years,Once per month,2,,"Desktop, Laptop",Windows 7, Mac OS, Linux / Unix,,Male,25 to 44,CA,USA,
+2011,DCE,Commercial Engineering,Masters in Marketing,BASIC,BASIC,Less than 6 months,Less than once per month,2,,"Desktop, Laptop",Windows XP, Mac OS,,,Female,25 to 44,,Ecuador,
+2011,Harvard College,Mathematics,Computer Science,Python,"C, C++, SQL",1 to 3 years,Two or more times per month,4,,Laptop,Windows 7,,,,Male,18 to 24,CA,USA,
+2011,Harvard College,English,Computer Science,PHP,"C, JavaScript, HTML / CSS, SQL",1 to 3 years,Weekly,3,,Laptop,Mac OS,,,,Male,18 to 24,MI,USA,
+2011,Harvard College,Sociology,Computer Science,PHP,"C, JavaScript, HTML / CSS, PHP",6 months to 1 year,Once per month,3,,Laptop,Mac OS,,,,Male,18 to 24,FL,USA,
+2011,Harvard College,Applied Mathematics with Computer Science,Computer Science,C,"JavaScript, HTML / CSS, PHP, SQL",6 months to 1 year,Two or more times per month,3,,Laptop,Windows 7,,,,Female,18 to 24,NY,USA,
+2011,Harvard College,Social Studies,Computer Science,PHP,"C, Java, JavaScript, HTML / CSS, PHP, SQL, VB / VBScript",Over 3 years,Weekly,4,,Laptop,Mac OS,,,,Male,18 to 24,NM,USA,
+2011,Harvard College,Computer Science,N/A,JavaScript,"C, Java, JavaScript, HTML / CSS, PHP, Python, SQL",1 to 3 years,Weekly,4,,Laptop,Windows 7,,,,Male,18 to 24,TN,USA,
+2011,Harvard College,Chemistry,N/A,Java,"C, HTML / CSS, PHP, SQL, OcamL",1 to 3 years,Two or more times per month,4,,Laptop,Windows Vista, Mac OS,,,Male,18 to 24,FL,USA,
+2011,DCE,M.S. Applied Statistics and Epidemiology,N/A,SQL,SAS,Over 3 years,Daily,3,,Laptop,Windows XP,,,,Female,25 to 44,CA,USA,
+2011,DCE,Environmental Engineering,N/A,HTML / CSS,HTML / CSS,6 months to 1 year,Daily,2,,Laptop,Mac OS,,,,Male,18 to 24,MA,USA,
+2011,DCE,Information Technology,Digital Media,HTML / CSS,"BASIC, Java, JavaScript, HTML / CSS",1 to 3 years,Once per month,2,,"Desktop, Laptop",Windows XP, Windows 7, Mac OS,,Male,45 to 64,NJ,USA,
+2011,Harvard College,Government,Economics,C,"JavaScript, HTML / CSS, PHP",Less than 6 months,Weekly,4,,Laptop,Mac OS,,,,Female,18 to 24,CA,USA,
+2011,DCE,Electrical Engineering,N/A,C++,"C, SQL, VB / VBScript",Less than 6 months,Less than once per month,3,,Laptop,Mac OS,,,,Female,25 to 44,CA,USA,
+2011,Harvard College,Computer Science,MBB,JavaScript,"C, Java, JavaScript, HTML / CSS, PHP, SQL",1 to 3 years,Weekly,4,,Laptop,Windows 7,,,,Female,18 to 24,NJ,USA,
+2011,Harvard College,Psychology,Economics,PHP,"C, JavaScript, HTML / CSS, PHP, SQL",Less than 6 months,Weekly,3,,Desktop,Windows XP, Windows Vista,,,Female,18 to 24,CA,USA,
+2011,Harvard College,Economics,Computer Science,C,"Java, HTML / CSS, PHP, SQL",6 months to 1 year,Two or more times per month,3,,Laptop,Mac OS,,,,Male,18 to 24,DC,USA,
+2011,DCE,Astronomy,N/A,HTML / CSS,"C, JavaScript, Perl, PHP, SQL, IDL",Over 3 years,Daily,4,,"Desktop, Laptop",Mac OS, Linux / Unix,,,Male,18 to 24,MA,USA,
+2011,Harvard College,Computer Science,Economics,C,"C, JavaScript, HTML / CSS, PHP, SQL",Less than 6 months,Two or more times per month,3,,Laptop,Mac OS,,,,Male,18 to 24,NJ,USA,
+2011,Harvard College,Computer Science,N/A,Python,"C, JavaScript, HTML / CSS, PHP, SQL",1 to 3 years,Weekly,4,,Laptop,Mac OS,,,,Male,18 to 24,CA,USA,
+2011,Harvard College,Social Studies,Computer Science,PHP,"C, JavaScript, HTML / CSS, PHP, SQL",Less than 6 months,Two or more times per month,2,,Laptop,Mac OS,,,,Female,18 to 24,,Israel,
+2011,Harvard College,Mathematics,Computer Science,C,"Java, JavaScript, HTML / CSS, VB / VBScript",6 months to 1 year,Weekly,4,,Laptop,Windows Vista,,,,Female,,AL,USA,
+2011,DCE,Multimedia,N/A,HTML / CSS,"JavaScript, HTML / CSS",Over 3 years,Less than once per month,2,,"Desktop, Laptop",Windows XP, Mac OS, Linux,,Female,25 to 44,CA,USA,
+2011,Harvard College,Computer Science,N/A,C,Java,Over 3 years,Weekly,3,,Laptop,Windows XP,,,,,,CA,USA,
+2011,Harvard College,Government,Statistics,C,"Java, HTML / CSS, PHP, SQL",6 months to 1 year,Less than once per month,3,,Laptop,Windows 7,,,,Male,18 to 24,,Singapore,
+2011,Harvard College,Applied Mathematics,N/A,C,"JavaScript, PHP, SQL",1 to 3 years,Two or more times per month,3,,Laptop,Windows Vista,,,,Female,18 to 24,NY,USA,
+2011,DCE,ALM Information Technology Information Management Systems,N/A,Java,"C++, JavaScript, HTML / CSS, PHP, SQL",Over 3 years,Once per month,5,,Laptop,Windows 7,,,,Male,25 to 44,ON,Canada,
+2011,Harvard College,Engineering Sciences,N/A,C,"Java, HTML / CSS, PHP, SQL",6 months to 1 year,Less than once per month,3,,"Desktop, Laptop",Windows Vista, Windows 7,,,Male,18 to 24,MA,USA,
+2011,Harvard College,Computer Science,Mathematics,C,"C, Java, JavaScript, HTML / CSS, PHP, SQL",1 to 3 years,Weekly,4,,Laptop,Mac OS,,,,Male,18 to 24,NY,USA,
+2011,Harvard College,Computer Science,N/A,Java,"C, C++, JavaScript, Python, Matlab",Over 3 years,Weekly,4,,Laptop,Mac OS,,,,Female,25 to 44,MA,USA,
+2011,DCE,Natural Science,Master in GIS,Python,"JavaScript, HTML / CSS, PHP, SQL",1 to 3 years,Two or more times per month,2,,"Desktop, Laptop",Windows XP,,,,Male,25 to 44,MA,USA,
+2011,Harvard College,Neurobiology,N/A,JavaScript,"C, HTML / CSS, PHP",Less than 6 months,Weekly,3,,Laptop,Windows 7,,,,Female,18 to 24,MA,USA,
+2011,Harvard College,Economics,Computer Science,C,"C, JavaScript, HTML / CSS, PHP, Python",Less than 6 months,Two or more times per month,2,,Laptop,Mac OS,,,,Female,18 to 24,CA,USA,
+2011,Harvard College,History of Science,Economics,HTML / CSS,"C, HTML / CSS",6 months to 1 year,Weekly,3,,Laptop,Windows 7,,,,Female,18 to 24,FL,USA,
+2011,DCE,Information Technology - Computation & Mathematics,Engineering Science,Java,"BASIC, HTML / CSS",Less than 6 months,Once per month,3,,Laptop,Mac OS,,,,Female,25 to 44,ON,Canada,
+2011,Harvard College,M.DesS,N/A,C,"C#, HTML / CSS, PHP, Python, SQL, Processing",Less than 6 months,Weekly,3,,"Desktop, Laptop",Windows Vista,,,,Male,25 to 44,CA,USA,
+2011,Harvard College,Information management systems,N/A,C++,"Java, HTML / CSS, VB / VBScript",Over 3 years,Less than once per month,3,,"Desktop, Laptop",Windows XP, Windows 7, Mac OS, Linux,Male,25 to 44,MA,USA,
+2011,DCE,"Masters in Agriculture, Food, and Environment",Chemical Engineering,BASIC,I've been learning Processing,Less than 6 months,Weekly,3,,Laptop,Windows 7, Mac OS,,,Female,25 to 44,MA,USA,
+2011,DCE,Business,Computer Science,C,"C, Arduino - bastardized C",Less than 6 months,Two or more times per month,2,,"Desktop, Laptop",Mac OS,,,,Male,18 to 24,AL,USA,
+2011,DCE,Information Technology,Digital Media,HTML / CSS,"JavaScript, PHP",6 months to 1 year,Weekly,3,,Laptop,Windows 7, Mac OS,,,Male,25 to 44,MA,USA,
+2012,DCE,Computer Science,N/A,JavaScript,C#,6 months to 1 year,Weekly,3,,"Desktop, Laptop",Windows 7,,,,Female,25 to 44,WA,USA,
+2012,DCE,Mechanical Engineering,Computer Science,Python,"C, C++, Java, HTML / CSS, PHP, Python, SQL",Over 3 years,Weekly,5,,"Desktop, Laptop",Windows 7, Mac OS, Linux / Unix,,Male,25 to 44,RI,USA,
+2012,Harvard College,MAUD,Architecture,HTML / CSS,scripting in Flash,Less than 6 months,Less than once per month,2,,Laptop,Windows 7, Mac OS,,,Male,25 to 44,IL,USA,
+2012,DCE,Software Engineering,N/A,HTML / CSS,"C#, JavaScript, HTML / CSS, SQL",6 months to 1 year,Less than once per month,2,,Laptop,Mac OS,,,,Female,25 to 44,NY,USA,
+2012,Harvard College,Architecture and Computational Design,Urban data visualization.,Java,"C#, Java, HTML / CSS, some Python",1 to 3 years,Weekly,4,,"Desktop, Laptop",Windows 7, Mac OS,,,Female,25 to 44,,Spain,
+2012,DCE,Master of Information Technology,N/A,PHP,HTML / CSS,6 months to 1 year,Once per month,2,,Desktop,Windows 7,,,,Male,25 to 44,MA,USA,
+2012,Harvard College,Computer Science,N/A,PHP,"C, Java, JavaScript, HTML / CSS, Perl, PHP, SQL",Over 3 years,Weekly,5,,"Desktop, Laptop",Windows 7, Mac OS, Linux / Unix,,Male,25 to 44,MA,USA,
+2012,Harvard College,Computer Science,Economics,C,"C, C++, C#, Java, JavaScript, HTML / CSS, PHP, Python, SQL",1 to 3 years,Weekly,4,,"Desktop, Laptop",Windows XP, Windows 7, Mac OS, Linux,Male,18 to 24,WA,USA,
+2012,Harvard College,Neurobiology,economics,JavaScript,C,Less than 6 months,Less than once per month,2,,Laptop,Mac OS,,,,Male,18 to 24,CA,USA,
+2012,Harvard College,Neurobiology,Secondary in CS,C,"C, JavaScript, HTML / CSS, PHP, SQL",Less than 6 months,Less than once per month,2,,Laptop,Windows 7,,,,Female,18 to 24,,China,
+2012,Harvard College,Anthropology,Computer Science,C,"C, JavaScript, HTML / CSS, PHP, SQL",Less than 6 months,Less than once per month,1,,Laptop,Mac OS,,,,Female,18 to 24,MA,USA,
+2012,Harvard College,Applied Mathematics - Computer Science,Economics,C,"C, C++, Java, JavaScript, HTML / CSS, PHP, SQL",6 months to 1 year,Daily,4,,Laptop,Mac OS,,,,Male,18 to 24,IN,USA,
+2012,Harvard College,Neurobiology,N/A,C,"JavaScript, HTML / CSS, PHP, SQL",Less than 6 months,Weekly,3,,Laptop,Mac OS,,,,Male,18 to 24,MA,USA,
+2012,Harvard College,Economics,Computer Science / Psychology,C,"Java, JavaScript",6 months to 1 year,Less than once per month,2,,Laptop,Windows 7, Mac OS,,,Male,18 to 24,NY,USA,
+2012,Harvard College,Government,Computer Science,HTML / CSS,"C++, JavaScript, PHP, SQL",6 months to 1 year,Less than once per month,3,,Laptop,Mac OS,,,,Female,18 to 24,CA,USA,
+2012,Harvard College,Computer Science,Statistics,C,"C, C++, C#, Java, JavaScript, HTML / CSS, PHP, Python, OCaml",1 to 3 years,Weekly,5,,Laptop,Mac OS,,,,Female,18 to 24,VT,USA,
+2012,Harvard College,Applied Mathematics,Computer Science,C,"PHP, SQL, MATLAB, Mathematica",6 months to 1 year,Weekly,3,,Laptop,Mac OS,,,,Male,18 to 24,GA,USA,
+2012,DCE,Information Technology,Information management systems,HTML / CSS,"C, C++, Java, JavaScript, HTML / CSS, SQL",1 to 3 years,Weekly,4,,"Desktop, Laptop",Windows 7,,,,Male,18 to 24,,India,
+2012,Harvard College,Computer Science - Mathematics,Near Eastern Languages and Civilizations,C,"C, Java, HTML / CSS, PHP, Python, SQL",1 to 3 years,Daily,5,,Laptop,Windows 7,,,,Female,18 to 24,MA,USA,
+2012,Harvard College,Statistics,Economics,C,"Python, R",6 months to 1 year,Less than once per month,2,,Laptop,Windows 7, Mac OS,,,Female,18 to 24,ON,Canada,
+2012,Harvard College,Computer Science,N/A,HTML / CSS,"C, JavaScript, HTML / CSS, PHP, Python, SQL",6 months to 1 year,Weekly,3,,Laptop,Windows 7,,,,Female,18 to 24,GA,USA,
+2012,Harvard College,Computer Science,Astrophysics,C,"HTML / CSS, PHP, SQL",6 months to 1 year,Two or more times per month,4,,Laptop,Windows XP,,,,Female,18 to 24,,Pakistan.,
+2012,Harvard College,Psychology,Computer Science,Python,"C, JavaScript, HTML / CSS, PHP, Python, SQL, VB / VBScript",1 to 3 years,Daily,3,,Laptop,Windows 7,,,,Female,18 to 24,NJ,USA,
+2012,Harvard College,Computer Science,Don't know yet,C,"C, Java, HTML / CSS, PHP, Python, SQL",Less than 6 months,Weekly,4,,Laptop,Mac OS,,,,Male,18 to 24,PA,USA,
+2012,DCE,Web Development,Computer Science,PHP,"JavaScript, HTML / CSS, PHP, SQL, ColdFusion",1 to 3 years,Daily,3,,"Desktop, Laptop",Windows Vista, Windows 7, Mac OS,,Male,25 to 44,GA,USA,
+2012,DCE,N/A,N/A,Perl,"BASIC, JavaScript, HTML / CSS, PHP, SQL",Over 3 years,Daily,5,,"Desktop, Laptop",Windows XP, Windows 7, Mac OS, Linux,Male,25 to 44,MA,USA,
+2012,DCE,N/A,(Distant student),Python,Java,Less than 6 months,Less than once per month,1,,Laptop,Mac OS,,,,Female,18 to 24,MA,USA,
+2012,Harvard College,Statistics,Computer Science,C,"C, JavaScript, HTML / CSS, PHP, SQL, R",6 months to 1 year,Weekly,4,,Laptop,Mac OS,,,,Male,25 to 44,,Israel,
+2012,Harvard College,Chemistry,Computer Science,C,"C, JavaScript, HTML / CSS, PHP",Less than 6 months,Less than once per month,2,,Laptop,Mac OS,,,,Male,18 to 24,NJ,USA,
+2012,Harvard College,Computer Science,Economics,C,"BASIC, C, C++, Java, HTML / CSS, Perl, PHP, Python, Ruby, SQL",Over 3 years,Weekly,5,,Laptop,Linux,,,,Male,25 to 44,NH,USA,
+2012,DCE,Sociology,N/A,HTML / CSS,PHP,Over 3 years,Less than once per month,2,,Laptop,Mac OS,,,,Female,25 to 44,IL,USA,
+2012,Harvard College,Statistics,N/A,C++,"C++, LISP, R",Over 3 years,Weekly,4,,Laptop,Mac OS,,,,Female,25 to 44,,Mexico,
+2012,Harvard College,N/A,N/A,Java,"HTML / CSS, Perl, SQL",1 to 3 years,Weekly,4,,"Desktop, Laptop",Mac OS,,,,Male,45 to 64,MA,USA,
+2012,DCE,Computer Engineering,Marketing (MBA),Java,"C++, PHP",1 to 3 years,Two or more times per month,4,,Laptop,Windows Vista, Mac OS,,,Male,25 to 44,,United Arab Emirates,
+2012,Harvard College,Computer science,Economics,Java,"Java, HTML / CSS, PHP, Python, SQL",1 to 3 years,Weekly,5,,Laptop,Windows 7, Mac OS,,,Male,18 to 24,,Norway,
+2012,DCE,Software Engineering,N/A,Python,"Java, SQL, VB / VBScript",Over 3 years,Once per month,4,,Laptop,Linux,,,,Male,25 to 44,ON,Canada,
+2012,DCE,Information Technology,Information Management Systems,Java,"BASIC, C, C++, Java, JavaScript, HTML / CSS, PHP, Python, Ruby, SQL, VB / VBScript",Over 3 years,Daily,5,,"Desktop, Laptop",Windows XP, Windows 7,,,Male,25 to 44,MA,USA,
+2012,DCE,Kennedy School - Masters in Public Policy,N/A,Java,HTML / CSS,6 months to 1 year,Less than once per month,3,,Laptop,Mac OS,,,,Male,25 to 44,NH,USA,
+2012,DCE,N/A,N/A,PHP,"C, Java, JavaScript, HTML / CSS, PHP, SQL",1 to 3 years,Two or more times per month,3,,"Desktop, Laptop",Windows XP, Windows Vista, Windows 7,,Female,,NB,Canada,
+2012,Harvard College,Physics,computer science,C++,"BASIC, C, C++, C#, Java, MATLAB, Ocaml",Over 3 years,Weekly,4,,Desktop,Windows 7,,,,Male,18 to 24,UT,USA,
+2012,Harvard College,Computer Science,Economics,Java,"HTML / CSS, Python, SQL, Matlab",1 to 3 years,Weekly,4,,Laptop,Mac OS,,,,Male,18 to 24,,Norway,
+2012,DCE,Machine Learning,Computer Science,Java,"Java, HTML / CSS, MATLAB",1 to 3 years,Once per month,4,,Laptop,Windows 7,,,,Female,25 to 44,CA,USA,
+2012,DCE,Biochemistry,Applied Mathematics,Java,Perl,1 to 3 years,Once per month,3,,"Desktop, Laptop",Mac OS,,,,Male,25 to 44,VA,USA,
+2012,Harvard College,Computer Science,Economics,C,"C, C#, Java, JavaScript, HTML / CSS, PHP, SQL, ocaml",6 months to 1 year,Daily,5,,Laptop,Windows 7, Mac OS,,,Female,18 to 24,WI,USA,
+2012,DCE,Undergrad: Chinese,Mathematics,BASIC,"BASIC, C, C++, C#, Java, JavaScript, HTML / CSS, Perl, PHP, Python, Ruby, SQL, VB / VBScript",Over 3 years,Daily,5,,"Desktop, Laptop",Windows 7, Mac OS, Linux / Unix,,Male,25 to 44,CA,USA,
+2012,DCE,Certificate in Applied Sciences,Software Engineering,HTML / CSS,"Java, JavaScript, HTML / CSS, PHP, SQL",Over 3 years,Less than once per month,3,,Laptop,Mac OS,,,,Female,25 to 44,MA,USA,
+2012,Harvard College,COMPSCI,Chinese Language Citation,Python,"C, C++, Java, JavaScript, HTML / CSS, PHP, Python, SQL, Actionscript",Over 3 years,Weekly,5,,Laptop,Mac OS,,,,Female,18 to 24,NY,USA,
+2012,DCE,Digital arts and design,N/A,HTML / CSS,"C, JavaScript, HTML / CSS, PHP",Less than 6 months,Weekly,2,,Laptop,Windows Vista,,,,Female,25 to 44,NY,USA,
+2012,Harvard College,Computer Science,Psychology,Java,C,6 months to 1 year,Once per month,2,,Laptop,Windows 7,,,,Male,18 to 24,New York,USA,
+2012,Harvard College,Architecture,N/A,Python,"JavaScript, HTML / CSS, PHP, Python, SQL",Over 3 years,Daily,5,,"Desktop, Laptop",Windows 7, Linux / Unix,,,Male,25 to 44,TX,USA,
+2012,DCE,"Master of Liberal Arts, Information Technology",N/A,HTML / CSS,"C, JavaScript, PHP",1 to 3 years,Weekly,3,,Laptop,Windows XP,,,,Male,25 to 44,MA,USA,
+2012,Harvard College,MDesS,"Art, Design & the Public Domain",BASIC,Processing,Less than 6 months,Once per month,2,,Laptop,Windows 7,,,,Female,25 to 44,,India,
+2012,Harvard College,Computer Science,Economics,C,"BASIC, Java, JavaScript, HTML / CSS, PHP",1 to 3 years,Once per month,3,,Laptop,Windows 7,,,,Female,18 to 24,CA,USA,
+2012,Harvard College,Sciences,N/A,BASIC,"C++, C#, Java, JavaScript, HTML / CSS, Perl",Over 3 years,Once per month,5,,Laptop,Windows 7, Mac OS, Linux / Unix,,Male,25 to 44,MA,USA,
+2012,Harvard College,Computer Science,Mathematics,C,"C, Java, JavaScript, HTML / CSS, PHP, VB / VBScript",Over 3 years,Weekly,5,,Laptop,Windows 7,,,,Male,18 to 24,NJ,USA,
+2012,Harvard College,Computer Science,N/A,Ruby,"BASIC, C, Java, HTML / CSS, Perl, PHP, Python, Ruby",Over 3 years,Weekly,5,,Laptop,Mac OS,,,,Female,18 to 24,KY,USA,
+2012,Harvard College,G2 Earth and Planetary Sciences,Geophysics - my specific area,BASIC,"BASIC, C, HTML / CSS, Python",1 to 3 years,Daily,4,,Laptop,Mac OS,,,,Female,18 to 24,NC,USA,
+2012,Harvard College,Economics,Computer Science,C,"HTML / CSS, PHP, SQL",6 months to 1 year,Less than once per month,3,,Laptop,Windows 7,,,,Male,18 to 24,CA,USA,
+2012,Harvard College,Economics,N/A,C,"C++, HTML / CSS, PHP",1 to 3 years,Once per month,3,,Laptop,Windows 7,,,,Male,18 to 24,CA,USA,
+2012,Harvard College,Computer Science,N/A,C++,"C, C++, Java, JavaScript, HTML / CSS, PHP",1 to 3 years,Weekly,5,,"Desktop, Laptop",Windows 7,,,,Male,18 to 24,MA,USA,
+2012,Harvard College,N/A,N/A,Java,"C, C++, Java, JavaScript, HTML / CSS, Perl, PHP, SQL",Over 3 years,Weekly,4,,Desktop,Windows XP,,,,Male,18 to 24,MA,USA,
+2012,DCE,N/A,N/A,BASIC,Fortran,6 months to 1 year,Less than once per month,3,,Laptop,Windows 7,,,,Female,45 to 64,MA,USA,
+2012,Harvard College,Statistics,Computer Science,C,R,Over 3 years,Daily,4,,Laptop,Mac OS, Linux / Unix,,,Male,25 to 44,Australia,,
+2012,Harvard College,Software Engineering,N/A,BASIC,LISP,1 to 3 years,Less than once per month,4,,"Desktop, Laptop",Windows 7,,,,Female,,,Puerto Rico,
+2012,Harvard College,SB Engineering Sciences (Environmental),Computer Science,Java,"C, JavaScript, HTML / CSS, PHP, SQL, VB / VBScript, OCaml",6 months to 1 year,Two or more times per month,4,,Laptop,Mac OS,,,,Female,18 to 24,BC,Canada,
+2012,Harvard College,Computer Science,N/A,C,"C, C++, Java, JavaScript, HTML / CSS, PHP, SQL",1 to 3 years,Weekly,5,,Laptop,Windows 7, Mac OS,,,Male,18 to 24,TX,USA,
+2012,DCE,Information Technology - Management Information Systems,N/A,C#,"C, C++, C#, Java, JavaScript, HTML / CSS, PHP, SQL, VB / VBScript",Over 3 years,Daily,5,,Laptop,Windows 7,,,,Male,25 to 44,MA,USA,
+2012,Harvard College,Economics,Computer Science,HTML / CSS,"C, Java, JavaScript, HTML / CSS, PHP, SQL",1 to 3 years,Less than once per month,3,,Laptop,Windows 7,,,,Male,18 to 24,MA,USA,
+2012,Harvard College,Neurobiology,Systems Neuroscience,C#,"C, C++, LISP, Matlab",Over 3 years,Daily,5,,"Desktop, Laptop",Windows 7,,,,Male,25 to 44,CA,USA,
+2012,Harvard College,Statistics,Computer Science,C,"C, C++, JavaScript, HTML / CSS, PHP",Less than 6 months,Daily,3,,Laptop,Mac OS,,,,Male,18 to 24,MN,USA,
+2012,Harvard College,Economics,N/A,C,"C, HTML / CSS, PHP, SQL",Less than 6 months,Less than once per month,1,,Laptop,Windows 7,,,,Male,18 to 24,MA,USA,
+2012,Harvard College,Statistics,N/A,C,"Java, JavaScript, HTML / CSS, PHP, SQL",1 to 3 years,Once per month,2,,Laptop,Windows 7,,,,Male,18 to 24,FL,USA,
+2012,Harvard College,Government,Computer Science,C,"Java, PHP, SQL",Less than 6 months,Less than once per month,2,,Laptop,Windows 7,,,,Female,18 to 24,,Hong Kong S.A.R.,
+2012,Harvard College,N/A,N/A,C,"C, Java, HTML / CSS, PHP, SQL, STATA, Sas",1 to 3 years,Weekly,4,,Laptop,Windows XP,,,,,,MA,USA,
+2012,Harvard College,Economics,Computer Science,C,"C, JavaScript, HTML / CSS, PHP, SQL",Less than 6 months,Once per month,3,,Laptop,Windows 7, Mac OS,,,Male,18 to 24,,Korea,
+2012,Harvard College,Sociology,N/A,C,"Java, HTML / CSS, PHP, SQL",1 to 3 years,Less than once per month,3,,Laptop,Windows 7, Mac OS,,,Female,18 to 24,ON,Canada,
+2012,Harvard College,Computer Science,Physics & Mathematics,C#,"C, C#, JavaScript, HTML / CSS, VB / VBScript",Over 3 years,Daily,5,,"Desktop, Laptop",Windows 7, Mac OS,,,Male,25 to 44,MA,USA,
+2012,DCE,Finance,Design,JavaScript,"HTML / CSS, VB / VBScript",Less than 6 months,Weekly,2,,"Desktop, Laptop",Windows 7, Mac OS,,,Male,18 to 24,CA,USA,
+2012,Harvard College,MCB,Computer Science,C,"C, JavaScript, HTML / CSS, Python, SQL",1 to 3 years,Weekly,4,,Laptop,Mac OS,,,,Male,18 to 24,BC,Canada,
+2012,DCE,Multimedia,viz,SQL,"BASIC, Java, HTML / CSS, SQL, VB / VBScript, fortran",Less than 6 months,Less than once per month,3,,Laptop,Mac OS,,,,Female,45 to 64,MA,USA,
+2012,Harvard College,Neurobiology,Molecular Biology,C++,matlab/labview,1 to 3 years,Two or more times per month,2,,"Desktop, Laptop",Windows 7,,,,Female,25 to 44,,Germany,
+2012,Harvard College,Architectural Design,N/A,Java,HTML / CSS,Less than 6 months,Two or more times per month,4,,Laptop,Windows 7,,,,Male,18 to 24,VA,USA,
+2012,Harvard College,Computer Science,N/A,JavaScript,"C, C++, HTML / CSS",6 months to 1 year,Weekly,4,,Laptop,Windows 7,,,,,,MA,USA,
+2012,Harvard College,"Mind, Brain, & Education (HGSE)",N/A,Java,"C, MATLAB",1 to 3 years,Less than once per month,2,,Laptop,Mac OS,,,,Male,18 to 24,NM,USA,
+2012,DCE,Certificate in Applied Science,N/A,Ruby,"Java, JavaScript, HTML / CSS, PHP, Ruby, SQL",1 to 3 years,Daily,4,,Laptop,Mac OS,,,,Female,25 to 44,MA,USA,
+2012,Harvard College,Applied Data Analysis,N/A,HTML / CSS,"JavaScript, HTML / CSS, SQL",6 months to 1 year,Two or more times per month,3,,Laptop,Windows 7,,,,Male,18 to 24,MA,USA,
+2012,Harvard College,Computer Science,Mathematical Sciences,C,"C, JavaScript, HTML / CSS, PHP, VB / VBScript",Less than 6 months,Two or more times per month,3,,Laptop,Windows 7, Mac OS,,,Male,18 to 24,,Kenya,
+2012,Harvard College,Mathematics,Computer Science,BASIC,C,6 months to 1 year,Weekly,3,,Laptop,Windows Vista,,,,Male,18 to 24,NY,USA,
+2012,Harvard College,Visual and Environmental Studies,Computer Science,HTML / CSS,"C, HTML / CSS, PHP",6 months to 1 year,Once per month,3,,Laptop,Mac OS,,,,Male,18 to 24,NJ,USA,
+2012,Harvard College,Economics,Computer Science,C,"Java, HTML / CSS",Over 3 years,Less than once per month,3,,Laptop,Mac OS,,,,Male,18 to 24,PA,USA,
+2012,Harvard College,Neurobiology,Computer Science,PHP,"C, Java, JavaScript, HTML / CSS, PHP, SQL",6 months to 1 year,Weekly,4,,Laptop,Mac OS,,,,Female,18 to 24,TX,USA,
+2012,Harvard College,Computer Science,N/A,Java,"C, Java, JavaScript, HTML / CSS, PHP, Ruby, SQL",Over 3 years,Daily,5,,Laptop,Linux,,,,Male,18 to 24,VI,USA,
+2012,Harvard College,OEB,Computer Science,C,"JavaScript, HTML / CSS, PHP, SQL",Less than 6 months,Weekly,2,,Laptop,Mac OS,,,,Female,18 to 24,MA,USA,
+2012,DCE,Psychology,N/A,JavaScript,"HTML / CSS, PHP",6 months to 1 year,Daily,3,,"Desktop, Laptop",Windows 7, Mac OS, Linux / Unix,,Male,18 to 24,MA,USA,
+2012,DCE,Information Systems Management,Software Engineering,C#,"C#, Java, JavaScript, HTML / CSS, PHP, Ruby, SQL, VB / VBScript",Over 3 years,Weekly,4,,Laptop,Windows 7, Mac OS,,,Male,25 to 44,MA,USA,
+2012,DCE,Electrical Engineering,N/A,C#,"HTML / CSS, Perl",Over 3 years,Daily,4,,Laptop,Windows 7,,,,Female,25 to 44,MA,USA,
+2012,Harvard College,Computer Science,N/A,Java,"C, Java, JavaScript, HTML / CSS",Over 3 years,Weekly,4,,"Desktop, Laptop",Windows 7,,,,Male,18 to 24,CA,USA,
+2012,DCE,Mathematics,N/A,Java,"C, Java",Over 3 years,Less than once per month,3,,"Desktop, Laptop",Windows XP, Mac OS,,,Male,25 to 44,BC,Canada,
+2012,Harvard College,Computer Science,N/A,Python,"C, Java, JavaScript, HTML / CSS, PHP, Python, SQL",1 to 3 years,Daily,5,,Laptop,Windows 7, Linux / Unix,,,Male,18 to 24,NY,USA,
+2012,Harvard College,Law & Society,Economics,PHP,"C, JavaScript, HTML / CSS, PHP, SQL",1 to 3 years,Daily,4,,"Desktop, Laptop",Windows XP, Mac OS,,,Male,25 to 44,MA,USA,
+2012,Harvard College,Applied Mathematics,Government,C,"C, HTML / CSS, PHP, SQL",6 months to 1 year,Two or more times per month,2,,Laptop,Windows 7, Mac OS,,,Male,18 to 24,,Australia,
+2012,Harvard College,Computer Science,N/A,Ruby,"C, Java, JavaScript, HTML / CSS, PHP, Python, Ruby",1 to 3 years,Weekly,4,,Laptop,Windows 7,,,,Male,18 to 24,MO,USA,
+2012,DCE,N/A,N/A,Java,"JavaScript, HTML / CSS, Perl",1 to 3 years,Weekly,5,,Laptop,Windows 7, Mac OS,,,,,MA,USA,
+2012,Harvard College,Physics and Mathematics,Computer Science,BASIC,C,1 to 3 years,Daily,4,,Laptop,Windows 7,,,,Male,18 to 24,CT,USA,
+2012,DCE,N/A,N/A,Perl,"C, Java, PHP, SQL",Over 3 years,Weekly,4,,"Desktop, Laptop",Linux,,,,Female,25 to 44,MA,USA,
+2012,Harvard College,Statistics,Computer Science,Python,"C, Java, Perl",1 to 3 years,Weekly,4,,Laptop,Windows XP, Mac OS,,,Male,18 to 24,MN,USA,
+2012,Harvard College,Sociology,Computer Science,PHP,"C, JavaScript, HTML / CSS, PHP, SQL",6 months to 1 year,Two or more times per month,4,,Desktop,Mac OS,,,,Male,18 to 24,DE,USA,
+2012,DCE,N/A,N/A,C,"HTML / CSS, PHP",Less than 6 months,Two or more times per month,2,,Laptop,Mac OS,,,,Male,25 to 44,MA,USA,
+2012,Harvard College,Information Technology,Information management systems,Java,"BASIC, Java, JavaScript, HTML / CSS",Less than 6 months,Once per month,3,,"Desktop, Laptop",Windows XP, Windows 7, Mac OS,,Male,25 to 44,MA,USA,
+2012,Harvard College,Statistics,N/A,BASIC,R (I don't know BASIC),Less than 6 months,Two or more times per month,2,,Laptop,Windows 7,,,,Female,18 to 24,,South Korea,
+2012,Harvard College,Earth and Planetary Sciences,N/A,Python,"C, Matlab",Over 3 years,Daily,5,,Laptop,Mac OS,,,,Female,25 to 44,CA,USA,
+2012,Harvard College,Applied Mathematics,Computer Science,C++,"C++, Java, JavaScript, HTML / CSS, PHP, SQL",1 to 3 years,Less than once per month,3,,Laptop,Windows 7,,,,Male,18 to 24,NY,USA,
+2012,Harvard College,Applied Mathematics,Computer Science,HTML / CSS,"C, HTML / CSS, PHP",1 to 3 years,Once per month,3,,Laptop,Mac OS,,,,Male,18 to 24,VI,USA,
+2012,Harvard College,Statistics,N/A,C,"C#, Python, R",Over 3 years,Weekly,4,,Laptop,Mac OS,,,,Male,25 to 44,TX,USA,
+2012,DCE,Information Technology,N/A,C++,"Java, JavaScript, HTML / CSS, VB / VBScript",1 to 3 years,Less than once per month,2,,Laptop,Mac OS,,,,Female,,IL,USA,
+2012,DCE,Information Technology,N/A,C++,"BASIC, software testing languages (e.g. 4test)",Over 3 years,Less than once per month,3,,"Desktop, Laptop",Windows Vista,,,,Male,25 to 44,MA,USA,
+2012,Harvard College,Sociology,N/A,C,"HTML / CSS, PHP",6 months to 1 year,Less than once per month,3,,Laptop,Windows Vista,,,,Female,18 to 24,NY,USA,
+2012,Harvard College,Architecture,East Asian Studies,VB / VBScript,HTML / CSS,Less than 6 months,Once per month,3,,"Desktop, Laptop",Windows Vista, Windows 7, Mac OS,,Male,18 to 24,NE,USA,
+2012,DCE,Architecture,N/A,C#,"C#, Grasshopper",Less than 6 months,Two or more times per month,1,,"Desktop, Laptop",Windows XP, Windows 7, Mac OS,,Female,18 to 24,BC,Canada,
+2012,Harvard College,N/A,N/A,BASIC,BASIC,Over 3 years,Less than once per month,1,,Laptop,Windows 7,,,,Male,25 to 44,,Bangladesh,
+2012,DCE,Information Management Systems,N/A,Java,"Java, HTML / CSS, Perl, PHP, Python, SQL",Over 3 years,Two or more times per month,4,,"Desktop, Laptop",Windows Vista, Windows 7, Linux,,Male,18 to 24,CA,USA,
+2012,DCE,Business,Information Technology,SQL,"C, JavaScript, HTML / CSS, VB / VBScript",Over 3 years,Daily,4,,Laptop,Windows XP, Windows 7,,,Female,25 to 44,MA,USA,
+2012,DCE,Digital arts and design,N/A,BASIC,"C, HTML / CSS",1 to 3 years,Less than once per month,2,,"Desktop, Laptop",Mac OS,,,,Male,45 to 64,QC,Canada,
+2012,Harvard College,Physics,Computer Science,C,"C++, Java, JavaScript, HTML / CSS, PHP, Ruby, SQL",1 to 3 years,Less than once per month,4,,Laptop,Windows 7, Linux / Unix,,,Female,18 to 24,,Singapore,
+2012,Harvard College,Architecture,Sustainable Design,Python,none,Less than 6 months,Less than once per month,1,,Laptop,Windows 7,,,,Male,25 to 44,,Spain,
+2012,Harvard College,Economics,Psychology,PHP,"C, JavaScript, HTML / CSS, SQL",1 to 3 years,Less than once per month,2,,Laptop,Windows 7,,,,Female,18 to 24,NY,USA,
+2012,Harvard College,Government,Economy,C,none,Less than 6 months,Less than once per month,1,,Laptop,Windows 7,,,,Male,18 to 24,CA,USA,
+2012,DCE,Digital arts and design,N/A,HTML / CSS,"C++, JavaScript, HTML / CSS, Perl, SQL",6 months to 1 year,Once per month,3,,Laptop,Windows 7,,,,Male,25 to 44,NH,USA,
+2012,Harvard College,Economics,Computer Science,Java,"C, C++, Java",6 months to 1 year,Two or more times per month,2,,Laptop,Mac OS,,,,Female,18 to 24,CA,USA,
+2012,DCE,ALM Information Technology Information Management Systems,N/A,Perl,"C, C#, Java, JavaScript, HTML / CSS, LISP, Ruby, SQL, VB / VBScript",Over 3 years,Weekly,3,,Laptop,Windows 7, Linux / Unix,,,Male,25 to 44,MA,USA,
+2012,DCE,Economics,Statistics,SQL,"BASIC, VB / VBScript",Less than 6 months,Less than once per month,1,,Laptop,Windows 7, Mac OS,,,Female,25 to 44,MA,USA,
+2012,Harvard College,MPA/ID,N/A,Python,None,1 to 3 years,Weekly,2,,Laptop,Windows 7,,,,Male,25 to 44,RI,USA,
+2012,Harvard College,Linguistics,N/A,VB / VBScript,"C, HTML / CSS, Scheme, OCaml",1 to 3 years,Once per month,2,,Laptop,Windows XP, Mac OS, Linux,,Male,18 to 24,OH,USA,
+2012,Harvard College,Special Concetration: Geospatial and Quantitative History,N/A,PHP,"C, JavaScript, PHP, SQL",Less than 6 months,Weekly,3,,Laptop,Mac OS,,,,Male,18 to 24,IL,USA,
+2012,DCE,Computer Science,Biology,PHP,"C, C++, Java, JavaScript, HTML / CSS, LISP, Perl, PHP, Python, Ruby, SQL, VB / VBScript, Take your pick ;)",Over 3 years,Daily,5,,Laptop,Windows Vista, Linux / Unix,,,Male,25 to 44,MA,USA,
+2012,Harvard College,Digital arts and design,N/A,BASIC,"C++, JavaScript, HTML / CSS",Less than 6 months,Once per month,3,,Laptop,Windows 7,,,,Male,25 to 44,NH,USA,
+2012,Harvard College,"Mind, Brain, and Education",N/A,HTML / CSS,"JavaScript, HTML / CSS",Less than 6 months,Once per month,2,,Laptop,Windows Vista,,,,Female,18 to 24,MA,USA,
+2012,Harvard College,Computer Science,"Mind, Brain, Behavior",Python,C,1 to 3 years,Two or more times per month,4,,Laptop,Mac OS,,,,Female,18 to 24,NC,USA,
+2012,DCE,ALM Information Technology,Information management systems,Perl,"BASIC, Java, JavaScript, HTML / CSS, PHP, Python, SQL, Unix shell scripting",6 months to 1 year,Weekly,2,,"Desktop, Laptop",Windows 7, Mac OS, Linux / Unix,,Male,25 to 44,IL,USA,
+2012,Harvard College,History of Art and Architecture,Computer Science,C,"Java, JavaScript, HTML / CSS, PHP, SQL",6 months to 1 year,Once per month,3,,Laptop,Windows Vista,,,,Female,18 to 24,CA,USA,
+2012,Harvard College,Engineering Sciences,Computer Science,C,"C, C++, Java, JavaScript, HTML / CSS, PHP",6 months to 1 year,Less than once per month,3,,Laptop,Mac OS,,,,Male,18 to 24,TX,USA,
+2012,DCE,Computer Science,N/A,C#,"BASIC, C, C++, C#, Java, JavaScript, HTML / CSS, Perl, PHP, Python, SQL, VB / VBScript",Over 3 years,Daily,5,,Laptop,Windows XP,,,,Male,25 to 44,NJ,USA,
+2012,DCE,Information Technology,N/A,SQL,"BASIC, Java, JavaScript, HTML / CSS, SQL, VB / VBScript",Over 3 years,Less than once per month,2,,Laptop,Windows 7,,,,Male,25 to 44,TN,USA,
+2012,Harvard College,Economics,Computer Science,Python,"C, JavaScript, HTML / CSS, PHP",Less than 6 months,Weekly,3,,Laptop,Mac OS,,,,Male,18 to 24,PA,USA,
+2013,DCE,Information Technology,None,Java,"Java, JavaScript, HTML / CSS, Perl, Python, Ruby, SQL",1 to 3 years,Two or more times per month,3,3,Laptop,Windows 7, Windows 8, Mac OS, Linux / Unix,Male,25 to 44,,,"Lexington, KY"
+2013,DCE,Industrial Management,Accounting,PHP,"BASIC, Java, HTML / CSS, PHP, SQL, VB / VBScript, VBA",Over 3 years,Less than once per month,4,4,"Desktop, Laptop",Windows 7, Mac OS,,,Male,45 to 64,,,"Riyadh, Saudi Arabia"
+2013,DCE,ALM in IT,-,Ruby,"C, C++, C#, Java, JavaScript, HTML / CSS, PHP, Python, Ruby, SQL",Over 3 years,Weekly,5,4,"Desktop, Laptop",Windows Vista, Mac OS, Linux / Unix,,Male,25 to 44,,,"I am at home in Zurich, Switzerland. So for the group reflections it would be great to find a group of other European students so the time delay is not too bad."
+2013,Harvard College,Computer Science,Undecided,C,"C, Java, JavaScript, HTML / CSS, PHP, SQL",1 to 3 years,Daily,4,1,Laptop,Mac OS,,,,Male,18 to 24,,,"North Babylon, New York, United States"
+2013,DCE,NA,NA,Python,"C, HTML / CSS, PHP, Python, SQL",6 months to 1 year,Weekly,3,1,"Desktop, Laptop",Windows 7, Mac OS, Linux / Unix,,Male,25 to 44,,,"Marblehead, MA"
+2013,DCE,"Computer science, though not currently a degree candidate",NA,C,"C, JavaScript, HTML / CSS, PHP, SQL, Objective C and ActionScript are my primary languages currently",1 to 3 years,Daily,4,2,Laptop,Mac OS, Linux / Unix,,,Male,25 to 44,,,"Beverly, MA"
+2013,DCE,Mathematics and Computation,none,Java,"C#, JavaScript, HTML / CSS, Ruby, SQL",Over 3 years,Daily,5,4,"Desktop, Laptop",Windows XP, Mac OS,,,Female,25 to 44,,,"Cambridge, MA"
+2013,DCE,Data Visualization? Not sure what is being asked.,N/A?,JavaScript,"C, C++, Java, JavaScript, HTML / CSS, Python",Over 3 years,Daily,5,2,"Desktop, Laptop",Windows 7, Mac OS, Linux / Unix,,Male,25 to 44,,,"Mountain View, CA, US"
+2013,DCE,Digital Media,NA,PHP,"Java, JavaScript, HTML / CSS, SQL",Over 3 years,Daily,5,1,Laptop,Mac OS,,,,Female,25 to 44,,,"North Grafton, MA, USA"
+2013,DCE,Computer Science,none,Java,"BASIC, C, JavaScript, HTML / CSS, Perl, PHP, objective c",Over 3 years,Two or more times per month,5,1,"Desktop, Laptop",Mac OS,,,,,,,,"Woburn, MA, US"
+2013,Harvard College,Engineering Sciences,n/a,Python,"C, C++",1 to 3 years,Once per month,3,5,Laptop,Mac OS,,,,Male,18 to 24,,,"Kendall Park, NJ, USA"
+2013,DCE,Technology Management,Computer Science,C#,"C++, Java, JavaScript, HTML / CSS, Ruby, SQL, VB / VBScript",Over 3 years,Daily,5,4,"Desktop, Laptop",Windows 7, Mac OS, Linux / Unix,,Male,25 to 44,,,"Westport, CT, USA"
+2013,Harvard College,Chemical and Physical Biology,Computer Science,JavaScript,"C, C++, HTML / CSS, PHP",1 to 3 years,Daily,4,3,Laptop,Windows 8,,,,Male,18 to 24,,,"St. Louis, MO"
+2013,Harvard College,none,none,Java,"BASIC, C, C#, Java, JavaScript, HTML / CSS, LISP, Perl, Python, Ruby, SQL",Over 3 years,Daily,5,3,"Desktop, Laptop",Mac OS, Linux / Unix,,,Male,45 to 64,,,"Waltham, MA, USA"
+2013,DCE,Information Technology,Digital Media Arts and Instructional Design,JavaScript,"C, C++, Java, JavaScript, HTML / CSS, PHP, SQL",Over 3 years,Daily,5,5,Laptop,Mac OS,,,,Male,25 to 44,,,"Weston, MA"
+2013,DCE,ALM in IT,N/A,SQL,"C, C++, Java, JavaScript, HTML / CSS, PHP, Python",1 to 3 years,Daily,3,3,Laptop,Windows XP, Mac OS,,,Female,25 to 44,,,"New York, NY, USA"
+2013,DCE,"ALM, software engineering",none,PHP,"C, Java, JavaScript, HTML / CSS, SQL",Over 3 years,Two or more times per month,4,4,"Desktop, Laptop",Windows 7, Mac OS, Linux / Unix,,Male,45 to 64,,,"Lunenburg, Mass, USA"
+2013,DCE,Biotechnology,Bioinformatics,Python,"Java, Perl, R",Over 3 years,Daily,3,2,"Desktop, Laptop",Mac OS, Linux / Unix,,,Male,25 to 44,,,"Somerville, MA"
+2013,DCE,Visual Arts (ALM),none,PHP,"JavaScript, HTML / CSS, PHP, SQL, VB / VBScript",Over 3 years,Daily,4,4,"Desktop, Laptop",Windows XP, Windows 7, Mac OS,,Male,18 to 24,,,"Boston, MA"
+2013,Harvard College,Chemistry & Physics,Computer Science,HTML / CSS,"C, HTML / CSS, PHP, SQL",Less than 6 months,Less than once per month,1,2,Laptop,Windows 8,,,,Male,18 to 24,,,"Santa Cruz, California
+USA"
+2013,DCE,Computer Science,None,Java,"HTML / CSS, SQL, VB / VBScript",1 to 3 years,Less than once per month,2,1,"Desktop, Laptop",Windows XP, Windows 7, Mac OS,,Female,25 to 44,,,"Quincy, MA"
+2013,Harvard College,Computer science,N/a,Python,"C, Java, JavaScript, HTML / CSS, PHP, Python",1 to 3 years,Daily,4,3,Laptop,Mac OS, Linux / Unix,,,Male,18 to 24,,,"Denver, Colorado, USA"
+2013,Harvard College,Computer Science,None,C,"C, HTML / CSS",Less than 6 months,Less than once per month,2,2,Laptop,Mac OS,,,,Female,18 to 24,,,"Homer, Alaska, United States"
+2013,Harvard College,Statistics,n/a,Java,"Java, HTML / CSS, Python, VB / VBScript, R, Matlab",Over 3 years,Less than once per month,5,3,Laptop,Mac OS,,,,Female,25 to 44,,,"on-campus, but I'm from New Jersey."
+2013,DCE,IT,NONE,SQL,"Java, SQL",1 to 3 years,Daily,4,3,Laptop,Windows 8,,,,Male,18 to 24,,,"Belmont, MA, US"
+2013,Harvard College,Computer Science,n/a,Java,"C, C++, Java, JavaScript, HTML / CSS, PHP, Python, SQL",1 to 3 years,Weekly,5,3,Laptop,Windows 7, Windows 8,,,Male,Over 65,,,"Walnut, CA"
+2013,Harvard College,Computer Science,N/A,C,"C++, C#, Java, HTML / CSS, Perl, PHP, Python, SQL, VB / VBScript",1 to 3 years,Weekly,4,2,"Desktop, Laptop",Windows 8,,,,,18 to 24,,,"Tampa, FL, USA"
+2013,Harvard College,English,Computer Science,C,"C, HTML / CSS, PHP, SQL",Less than 6 months,Less than once per month,2,3,Laptop,Mac OS,,,,Female,18 to 24,,,"San Antonio, TX, USA"
+2013,Harvard College,History of Science,VES,HTML / CSS,"C, PHP, SQL",6 months to 1 year,Two or more times per month,2,5,Laptop,Windows Vista, Mac OS,,,Male,18 to 24,,,"Short Hills, NJ, USA"
+2013,DCE,Computer Science,Strong background in stats,Java,"C, Java",Over 3 years,Two or more times per month,4,5,"Desktop, Laptop",Mac OS,,,,Female,45 to 64,,,"Boulder, Colorado, USA"
+2013,Harvard College,Computer Science,Economics,C,"JavaScript, HTML / CSS, PHP, Python, SQL",1 to 3 years,Daily,4,2,Laptop,Mac OS,,,,Female,18 to 24,,,"Toronto, Ontario, Canada"
+2013,Harvard College,Mechanical Engineering,Computer Science,C,"HTML / CSS, PHP, SQL",Less than 6 months,Less than once per month,1,1,Laptop,Windows 7, Mac OS,,,Female,18 to 24,,,"Norwell, Massachusetts, United States"
+2013,Harvard College,History,East Asian Studies,Python,"C, Java, JavaScript, HTML / CSS, Python",1 to 3 years,Weekly,3,2,"Desktop, Laptop",Windows 7, Linux / Unix,,,Male,18 to 24,,,"Blackfoot, Idaho, USA"
+2013,Harvard College,Applied Math,Computer Science,C,"JavaScript, HTML / CSS, PHP",1 to 3 years,Weekly,2,3,Laptop,Windows 8,,,,Male,18 to 24,,,"Wayne, Pennsylvania, United States"
+2013,DCE,Master in Design Studies,Technology,C#,"Python, VB / VBScript",Less than 6 months,Weekly,3,5,Laptop,Windows 7, Mac OS,,,Female,25 to 44,,,"Malaga, Spain"
+2013,Harvard College,Social Studies,Computer Science,C,"C, HTML / CSS, PHP",6 months to 1 year,Less than once per month,2,1,Laptop,Mac OS,,,,Female,18 to 24,,,"Sylvania, OH"
+2013,DCE,Electronic Engineer,Planning to start the ALM IT,Java,"BASIC, C, C++, C#, Java, JavaScript, HTML / CSS, PHP, SQL",Over 3 years,Less than once per month,4,3,Laptop,Windows 7,,,,Male,25 to 44,,,"Buenos Aires, Argentina"
+2013,Harvard College,Computer Science,None,Python,"C, C++, Java, JavaScript, HTML / CSS, PHP, Python",1 to 3 years,Weekly,5,3,Desktop,Windows 8, Mac OS, Linux / Unix,,Male,18 to 24,,,"Bronx, NY, USA"
+2013,Harvard College,Mathematics,CSCI,JavaScript,"Java, JavaScript, HTML / CSS, PHP, SQL",1 to 3 years,Daily,4,3,"Desktop, Laptop",Windows 8, Mac OS, Linux / Unix,,Male,25 to 44,,,I currently live in Chicago Illinois United States.
+2013,Harvard College,Computer Science,Economics,Java,"C, JavaScript, HTML / CSS, PHP, SQL",1 to 3 years,Weekly,4,3,Laptop,Windows 7, Linux / Unix,,,Male,18 to 24,,,"San Jose, CA, USA"
+2013,Harvard College,Computer Science,None,C,"C, C#, Java, PHP, Python, SQL, Ocaml",Over 3 years,Weekly,5,3,"Desktop, Laptop",Windows 7, Windows 8, Linux / Unix,,Female,18 to 24,,,"Westborough, MA, USA"
+2013,Harvard College,Computer Science,MBB,Python,"C, Java, JavaScript, HTML / CSS, PHP, Python, SQL",Over 3 years,Weekly,4,4,Laptop,Windows 8, Mac OS,,,Female,18 to 24,,,"Orlando, FL"
+2013,Harvard College,Social Studies,Computer Science,Java,"C, C++, Java, JavaScript, HTML / CSS, PHP, Python, SQL",1 to 3 years,Weekly,5,3,Desktop,Windows 8,,,,Male,18 to 24,,,"Rochester Hills, MI, USA"
+2013,Harvard College,Computer Science,Psychology,C,"C, Java, JavaScript, HTML / CSS, PHP, Python, SQL",1 to 3 years,Daily,5,1,"Desktop, Laptop",Windows 7, Mac OS, Linux / Unix,,Male,18 to 24,,,"Edwards, CO, USA"
+2013,Harvard College,Computer Science,none,C,"C, Java, JavaScript, HTML / CSS, PHP, SQL",1 to 3 years,Weekly,4,2,Laptop,Mac OS,,,,Female,18 to 24,,,"Port Lavaca, TX"
+2013,DCE,ALM Information Management Systems,N/A,C++,"C++, Java, JavaScript, HTML / CSS, PHP, SQL",Over 3 years,Less than once per month,4,3,"Desktop, Laptop",Windows XP, Windows Vista, Mac OS,,Male,25 to 44,,,"Melrose, MA, US"
+2013,DCE,Math,IT,Java,"JavaScript, HTML / CSS, PHP",Over 3 years,Once per month,3,4,"Desktop, Laptop",Windows 7,,,,Male,25 to 44,,,"I am 20 minutes driving from Harvard.  I live in Allston Massachusetts, which is the next town from Harvard across the Charles River."
+2013,DCE,Information Technology,na,PHP,"C#, Java, JavaScript, HTML / CSS, PHP, SQL",1 to 3 years,Once per month,3,3,Laptop,Windows 7,,,,Male,25 to 44,,,"Orem, UT USA"
+2013,Harvard College,Design & Technology,NA,HTML / CSS,"C#, JavaScript, HTML / CSS, PHP, Ruby",6 months to 1 year,Weekly,3,5,Laptop,Windows 7, Mac OS,,,Female,25 to 44,,,Singapore
+2013,Harvard College,computer science,n/a,JavaScript,"C, HTML / CSS, PHP, SQL",6 months to 1 year,Two or more times per month,3,4,Laptop,Mac OS,,,,Male,18 to 24,,,"Stamford, CT, USA"
+2013,Harvard College,"Mechanical Engineering, Bachelor of Science",Computer Science,PHP,"JavaScript, HTML / CSS, PHP, SQL",1 to 3 years,Weekly,3,1,Laptop,Mac OS,,,,Male,18 to 24,,,"Indian Head Park, Illinois, USA"
+2013,Harvard College,Computer Science,None,Python,"C, JavaScript, HTML / CSS, Python, SQL",6 months to 1 year,Once per month,3,3,Laptop,Mac OS,,,,Male,18 to 24,,,"Mountain View, California, USA"
+2013,Harvard College,Economics,Government,C,PHP,Less than 6 months,Two or more times per month,3,3,Laptop,Windows 8,,,,Male,18 to 24,,,"Redwood City, CA. United States"
+2013,DCE,M.A. Information Technology,Information Management Systems,Python,"C, Java, Python, SQL, VB / VBScript, SAS,R",Over 3 years,Daily,5,1,Laptop,Mac OS,,,,Male,25 to 44,,,"Watertown, MA"
+2013,Harvard College,Statistics,Computer Science,C,HTML / CSS,Less than 6 months,Two or more times per month,2,1,Laptop,Windows 7,,,,Female,18 to 24,,,"I'm not a distance education student, but I'm from Twin Lakes, WI, USA."
+2013,DCE,ALM-IT,Digital Media and Instructional Design,Java,HTML / CSS,Less than 6 months,Less than once per month,1,1,Desktop,Windows 7,,,,Male,25 to 44,,,"Columbus, Ohio USA"
+2013,DCE,Information Technology,none,C#,"C#, JavaScript, HTML / CSS, PHP, SQL",Over 3 years,Weekly,3,2,"Desktop, Laptop",Windows 7, Linux / Unix,,,Male,25 to 44,,,"Washington, D.C. - United States"
+2013,Harvard College,Computer Science,N/A,PHP,"C, JavaScript, HTML / CSS, PHP, Python, SQL",1 to 3 years,Weekly,4,2,Desktop,Mac OS,,,,Male,18 to 24,,,"Atlanta, Georgia"
+2013,DCE,Information Management Systems,n/a,PHP,"JavaScript, HTML / CSS, PHP",1 to 3 years,Less than once per month,4,3,Laptop,Windows 7,,,,Male,18 to 24,,,"Portsmouth, NH, USA"
+2013,Harvard College,Instructional Design,none,VB / VBScript,"HTML / CSS, PHP, Python, SQL, VB / VBScript",1 to 3 years,Weekly,3,5,"Desktop, Laptop",Windows XP, Windows 7, Mac OS,,Male,25 to 44,,,"New York, NY"
+2013,Harvard College,None- Taking through Extension school for fun!,None,Python,JavaScript,6 months to 1 year,Less than once per month,1,1,"Desktop, Laptop",Windows XP, Mac OS,,,Female,25 to 44,,,"Live in Somerville, MA and work in the Longwood Medical area"
+2013,DCE,ALM in IT,none,C#,"C#, Java, JavaScript, HTML / CSS, PHP, SQL",Over 3 years,Daily,5,5,Laptop,Mac OS,,,,Male,25 to 44,,,"Brockton, MA, USA"
+2013,Harvard College,Economics,Computer Science,C,"C, LISP, PHP, SQL",1 to 3 years,Less than once per month,3,2,Laptop,Mac OS,,,,Male,18 to 24,,,"New York, NY, USA"
+2013,Harvard College,VES,Computer Science,C++,"C, C++, JavaScript, HTML / CSS, PHP, SQL",1 to 3 years,Two or more times per month,3,4,"Desktop, Laptop",Mac OS,,,,Male,18 to 24,,,"Orinda, CA USA"
+2013,DCE,Computer Science,none,HTML / CSS,Java,6 months to 1 year,Less than once per month,2,1,Laptop,Mac OS,,,,Male,25 to 44,,,"Turner, Maine"
+2013,Harvard College,Psychology,Computer Science,JavaScript,"C, HTML / CSS, PHP, SQL",1 to 3 years,Two or more times per month,3,5,Laptop,Mac OS,,,,Male,18 to 24,,,"Wellsboro, PA"
+2013,DCE,ALM in Information Technology,(none),JavaScript,"C, Java, HTML / CSS, Cache' ObjectScript",Over 3 years,Daily,5,2,Laptop,Windows 7, Mac OS,,,Female,45 to 64,,,"Newton MA, USA"
+2013,Harvard College,Urban Planning and Design,Environmental Planning,VB / VBScript,"HTML / CSS, VB / VBScript",6 months to 1 year,Once per month,2,5,"Desktop, Laptop",Windows 7, Mac OS,,,Male,25 to 44,,,"Wilton, CT USA"
+2013,Harvard College,Computer Science,Chemistry (Possibly),C,"C, Java, JavaScript, HTML / CSS, PHP, VB / VBScript, OCaml, and Objective-C",Over 3 years,Daily,5,2,Laptop,Windows 7, Mac OS, Linux / Unix,,Male,18 to 24,,,"Farmington Hills, MI, U.S.A"
+2013,Harvard College,neurobiology,computer science,C,"C, JavaScript, HTML / CSS, PHP, Python",1 to 3 years,Less than once per month,3,2,Laptop,Windows 7,,,,Female,18 to 24,,,"Boston, MA, USA"
+2013,Harvard College,Physics and Mathematics,Computer Science,PHP,"C, Java, JavaScript, HTML / CSS, PHP, SQL",1 to 3 years,Less than once per month,4,2,Laptop,Windows 7,,,,Male,18 to 24,,,"I have a lot, and I can't decide. Either:
+1) Chandigarh, India
+2) Vevey, Switzerland
+3) Manila, The Philippines
+4) Jakarta, Indonesia
+
+I grew up all over the place. This question always confuses me."
+2013,Harvard College,Economics,Computer Science,C,"JavaScript, Ruby",6 months to 1 year,Two or more times per month,3,1,Laptop,Mac OS,,,,Male,18 to 24,,,Israel!
+2013,Harvard College,CS,N/A,Java,"C, HTML / CSS",6 months to 1 year,Weekly,3,2,Laptop,Windows 7, Mac OS,,,Male,18 to 24,,,"Los Angeles, CA"
+2013,Harvard College,Economics,Computer Science,Python,"C, JavaScript, HTML / CSS, Python, SQL",Over 3 years,Daily,5,3,Laptop,Windows 8, Mac OS, Linux / Unix,,Male,18 to 24,,,"Mohegan Lake, NY USA"
+2013,Harvard College,Human Evolutionary Biology,Computer Science (Hopefully),C,"HTML / CSS, PHP, SQL",Less than 6 months,Less than once per month,1,3,Laptop,Mac OS,,,,Male,18 to 24,,,"Dallas, Texas"
+2013,Harvard College,MCB,n/a,PHP,"C, JavaScript, HTML / CSS, PHP, SQL",1 to 3 years,Weekly,4,3,Laptop,Windows 7,,,,Male,18 to 24,,,"Ann Arbor, MI - USA"
+2013,Harvard College,MDesS Technology,none,C#,VB / VBScript,Less than 6 months,Weekly,2,5,"Desktop, Laptop",Windows 8, Mac OS,,,Male,18 to 24,,,"Diamond Bar, California, USA"
+2013,DCE,CS,None,Java,"HTML / CSS, Python, Ruby",1 to 3 years,Weekly,4,3,"Desktop, Laptop",Windows XP, Mac OS,,,Male,25 to 44,,,"Otley, West Yorkshire, United Kingdom"
+2013,DCE,Information Technology,"Japanese (B.A.), Philosophy (M.A.)",HTML / CSS,"BASIC, C, PHP, AS3",6 months to 1 year,Two or more times per month,3,4,Laptop,Windows 7,,,,Male,25 to 44,,,"Cambridge, MA USA"
+2013,Harvard College,Neurobiology,Computer Science,Python,"C, JavaScript, HTML / CSS, PHP, Python",Over 3 years,Daily,5,3,Laptop,Mac OS,,,,Male,18 to 24,,,"Baltimore, MD USA"
+2013,DCE,Digital media arts and instructional design,none,HTML / CSS,"Java, JavaScript, PHP",6 months to 1 year,Weekly,2,4,"Desktop, Laptop",Windows 7, Mac OS,,,Female,18 to 24,,,"Watertown, MA USA"
+2013,DCE,Computer Science,N/,C,"BASIC, C, C++, JavaScript, HTML / CSS, PHP, SQL",Over 3 years,Weekly,4,3,"Desktop, Laptop",Windows 7, Windows 8, Mac OS, Linux / Unix,,,,,"Los Angeles, California, USA"
+2013,Harvard College,Statistics (PhD),-,C++,R,Over 3 years,Weekly,3,1,Laptop,Mac OS,,,,Female,25 to 44,,,"Mexico City, DF, Mexico"
+2013,DCE,interactive media and computer science,mechatronics,C++,"C, C#, HTML / CSS, Python",Over 3 years,Daily,4,4,"Desktop, Laptop",Windows 7, Mac OS,,,Male,25 to 44,,,"Starnberg, Bavaria, Germany"
+2013,Harvard College,Media Arts and Sciences,--,Python,"Java, JavaScript, HTML / CSS, SQL",1 to 3 years,Weekly,5,3,Laptop,Mac OS,,,,Female,,,,I am an MIT student that is looking into cross-registering for this class.
+2013,Harvard College,Computer science,Statistics (?),Python,"C, C++, Java, HTML / CSS, Perl, PHP, Python, SQL",1 to 3 years,Weekly,4,3,"Desktop, Laptop",Mac OS, Linux / Unix,,,Female,18 to 24,,,"Athens, GA"
+2013,Harvard College,doctoral candidate in Human Development and Education,n/a,HTML / CSS,"C#, HTML / CSS, SQL",1 to 3 years,Less than once per month,2,1,Laptop,Mac OS,,,,Female,25 to 44,,,"Cambridge, MA, USA"
+2013,Harvard College,Computer Science,Visual & Environmental Studies,C,"JavaScript, HTML / CSS, PHP, SQL",1 to 3 years,Once per month,3,4,Laptop,Mac OS,,,,Female,18 to 24,,,"South San Francisco, California, USA"
+2013,Harvard College,Psychology,Computer Science,JavaScript,"C, C++, Java, JavaScript, HTML / CSS, SQL",1 to 3 years,Less than once per month,2,1,Laptop,Mac OS,,,,Female,18 to 24,,,"San Antonio, TX, USA"
+2013,DCE,BS in Political Science,none,Python,"C#, Perl, SQL, A little Processing/D3",1 to 3 years,Weekly,3,3,Laptop,Mac OS,,,,Male,25 to 44,,,"I live in the Back Bay in Boston and I work full-time in Somerville, MA."
+2013,Harvard College,Economics,Computer Science,Python,"C, JavaScript, HTML / CSS, PHP, Python, SQL",6 months to 1 year,Two or more times per month,3,3,Laptop,Mac OS,,,,Male,18 to 24,,,"Seoul, Korea"
+2013,Harvard College,Neurobiology,CS or Gov,PHP,"C, JavaScript, HTML / CSS, PHP, SQL",Less than 6 months,Weekly,3,3,Laptop,Mac OS,,,,Male,18 to 24,,,"Menlo Park, California, USA"
+2013,DCE,computer science,economics,Ruby,"C, JavaScript, HTML / CSS, PHP, Ruby, SQL",6 months to 1 year,Daily,2,1,"Desktop, Laptop",Mac OS,,,,Male,18 to 24,,,I live in Cambridge
+2013,Harvard College,Computer Science,Astrophysics,C,Ocaml,1 to 3 years,Weekly,3,2,Laptop,Mac OS,,,,Female,18 to 24,,,"San Francisco, CA 94118"
+2013,Harvard College,Computer Science,none,JavaScript,"C, HTML / CSS, Ruby",1 to 3 years,Weekly,3,3,Laptop,Windows 7, Mac OS,,,Male,18 to 24,,,Rhode Island
+2013,Harvard College,OEB,N/A,C,"HTML / CSS, PHP",Less than 6 months,Less than once per month,3,4,Laptop,Windows 7,,,,Male,18 to 24,,,"Philadelphia, PA / Long Valley, NJ"
+2013,Harvard College,Computer Science,Economics,C,"C, JavaScript, HTML / CSS, PHP, Python, SQL",Less than 6 months,Weekly,3,1,Laptop,Mac OS,,,,Male,18 to 24,,,"Seoul, Korea"
+2013,DCE,MS IT: Mathematics and computing,none,Java,"HTML / CSS, Perl, PHP, Python, SQL, R",1 to 3 years,Weekly,5,4,Laptop,Windows 7, Windows 8, Linux / Unix,,Male,25 to 44,,,"Tucson, Arizona, USA"
+2013,Harvard College,Engineering Sciences SB,Economics,BASIC,"C, C++",Less than 6 months,Less than once per month,2,4,Laptop,Windows 7,,,,Female,18 to 24,,,"Ulaanbaatar, Mongolia"
+2013,Harvard College,Chemical and Physical Biology,Computer Science,PHP,"C, JavaScript, HTML / CSS, PHP, SQL",6 months to 1 year,Daily,4,2,Laptop,Mac OS,,,,Male,18 to 24,,,"Brookfield, WI, USA"
+2013,Harvard College,Economics,Computer Science,PHP,"C, HTML / CSS, PHP",Less than 6 months,Two or more times per month,1,1,Laptop,Mac OS,,,,Female,18 to 24,,,"Windsor, CA, USA"
+2013,Harvard College,Economics,Computer Science,C,"HTML / CSS, PHP, SQL",Less than 6 months,Daily,2,4,Laptop,Mac OS,,,,Male,18 to 24,,,"Pawtucket, RI"
+2013,Harvard College,Applied Math,Computer Science,C,"JavaScript, HTML / CSS, PHP, Python",1 to 3 years,Daily,3,4,Laptop,Windows 8, Mac OS,,,Male,18 to 24,,,"San Jose, CA"
+2013,Harvard College,Applied Mathematics,Computer Science,Java,"C, Java, JavaScript, HTML / CSS, PHP, SQL, VB / VBScript",Over 3 years,Weekly,5,1,Laptop,Windows 7,,,,Male,18 to 24,,,"Los Angeles, CA"
+2013,Harvard College,Neurobiology,Computer Science,C,"JavaScript, HTML / CSS, PHP",1 to 3 years,Two or more times per month,3,3,Laptop,Mac OS, Linux / Unix,,,Male,18 to 24,,,"Allston, Massachusetts, United States"
+2013,Harvard College,"Fellow, WCFIA",None,Java,"BASIC, VB / VBScript",Less than 6 months,Less than once per month,2,1,Laptop,Windows 7, Mac OS,,,Male,25 to 44,,,"Virginia Beach, VA"
+2013,Harvard College,Architecture M.Arch1,na,JavaScript,HTML / CSS,Less than 6 months,Less than once per month,2,5,"Desktop, Laptop",Windows 7,,,,Female,25 to 44,,,I live here in Somerville/Cambridge. My parents are in Macedonia.
+2013,DCE,MAS,none,HTML / CSS,"C, Java, JavaScript, HTML / CSS, PHP",Over 3 years,Less than once per month,4,3,Laptop,Windows XP,,,,Female,25 to 44,,,"Wellesley, MA, USA"
+2013,Harvard College,Computer Science,Mathematics,Ruby,"C, Java, JavaScript, HTML / CSS, PHP, Python, Ruby, SQL, OCaml",1 to 3 years,Daily,5,2,Laptop,Windows 7, Linux / Unix,,,Male,18 to 24,,,"Chicago, Illinois"
+2013,Harvard College,MDesS,Technology,C#,C#,6 months to 1 year,Two or more times per month,3,5,"Desktop, Laptop",Windows 7, Windows 8, Mac OS,,Male,18 to 24,,,"Annandale, NJ, USA"
+2013,Harvard College,Computer Science,n/a,C,"C, Python, OCaml, Objective - C",1 to 3 years,Daily,4,1,Laptop,Mac OS,,,,Male,18 to 24,,,"wilmington, nc"
+2013,Harvard College,History of Art and Architecture,Computer Science,C,"C, JavaScript, HTML / CSS, PHP, SQL, OCaml",1 to 3 years,Less than once per month,2,3,Laptop,Mac OS,,,,Female,18 to 24,,,"Yonkers, NY, USA"
+2013,Harvard College,computer science,none,PHP,"Python, SQL",1 to 3 years,Daily,4,2,Laptop,Mac OS,,,,Male,18 to 24,,,"Saint-Bruno, Quebec, Canada"
+2013,DCE,humanities,n/a,BASIC,"C, C++, Java, JavaScript, Python, SQL",Over 3 years,Daily,3,2,Laptop,Mac OS,,,,Male,25 to 44,,,"somerville, ma"
+2013,DCE,n/a,n/a,Java,"C, C++, Java, JavaScript, HTML / CSS, Perl, SQL",Over 3 years,Daily,4,2,Laptop,Windows XP,,,,,,,,"Newton, MA USA"
+2013,Harvard College,MDesS Technology,--,C#,"C#, Python",Less than 6 months,Weekly,3,5,Laptop,Windows 8, Mac OS,,,Female,25 to 44,,,"Philadelphia, PA, USA"
+2013,Harvard College,Computer Science,None,Ruby,"C, C++, Java, JavaScript, HTML / CSS, PHP, Python, Ruby, SQL, many, many others",Over 3 years,Daily,5,3,Laptop,Mac OS, Linux / Unix,,,Male,18 to 24,,,"Andover, MA"
+2013,Harvard College,"Technology and Policy, MIT",none,Python,"Java, SQL",1 to 3 years,Weekly,5,4,"Desktop, Laptop",Linux,,,,Male,25 to 44,,,"Boston, MIT.
+
+Originally: Mauritius"
+2013,Harvard College,Molecular and Cellular Biology,Economics,C,"JavaScript, HTML / CSS, Python",6 months to 1 year,Less than once per month,2,3,Laptop,Mac OS,,,,Female,18 to 24,,,"Sunnyvale, California, USA!"
+2013,Harvard College,Computer Science,N/A,Java,"C, Java, HTML / CSS, Perl, Python, SQL",Over 3 years,Two or more times per month,4,1,Laptop,Mac OS,,,,Female,18 to 24,,,"New York City, NY, USA"
+2013,Harvard College,Neurobiology,Computer Science,C,"HTML / CSS, SQL",Less than 6 months,Less than once per month,1,2,Laptop,Mac OS,,,,Male,18 to 24,,,"Atlantic City, New Jersey, USA"
+2013,Harvard College,Physics,Computer Science,C,"HTML / CSS, PHP, SQL",Less than 6 months,Once per month,3,3,Laptop,Windows 7,,,,Male,18 to 24,,,"3769 Castlegate Drive, Atlanta, GA, Fulton Country"
+2013,DCE,full-time professional taking CS courses thru the extension school,trying to figure out if I want to pursue a formal CS program,JavaScript,"C, JavaScript, HTML / CSS, PHP, SQL, R",Less than 6 months,Daily,3,3,Laptop,Windows 7, Linux / Unix,,,Male,25 to 44,,,"I live in Los Angeles, California."
+2013,DCE,Digital Media Arts and Instructional Design,n/a,PHP,"C, Java, JavaScript, HTML / CSS, PHP",Over 3 years,Weekly,3,3,Laptop,Mac OS,,,,Female,25 to 44,,,"Boston, MA"
+2013,Harvard College,Classics,Computer Science,JavaScript,"C, JavaScript, HTML / CSS, PHP, SQL",Less than 6 months,Weekly,2,3,Laptop,Windows 7,,,,Male,18 to 24,,,"Brunswick, Maine"
+2013,Harvard College,Economics,N/A,C,"C, HTML / CSS, PHP, SQL",Less than 6 months,Once per month,1,1,Laptop,Mac OS,,,,Male,18 to 24,,,"Cresskill, NJ 07626
+United States"
+2013,DCE,ALM IT,None,Ruby,"C, C++, Java, JavaScript, HTML / CSS, Ruby",Over 3 years,Weekly,5,3,"Desktop, Laptop",Windows 7, Mac OS,,,Male,25 to 44,,,"Medford, MA"
+2013,DCE,MDesS,Energy and Environments,BASIC,"C, C++",Less than 6 months,Daily,3,5,"Desktop, Laptop",Windows 7, Mac OS,,,Male,25 to 44,,,"New Delhi, INDIA"
+2013,Harvard College,NA,NA,Java,"HTML / CSS, R",6 months to 1 year,Weekly,3,3,"Desktop, Laptop",Windows XP, Mac OS,,,Male,25 to 44,,,"91 Perkins Street #10, 
+Somerville, MA, 02145"
+2013,DCE,"IT, Software Engineering",None,Java,"JavaScript, HTML / CSS, PHP",1 to 3 years,Weekly,4,4,Laptop,Windows 7,,,,Female,25 to 44,,,"Columbus, Ohio, USA"
+2013,DCE,Computer Science,none,Java,"JavaScript, HTML / CSS",1 to 3 years,Weekly,4,4,Laptop,Windows 7, Mac OS,,,Female,25 to 44,,,"Somerville, MA USA"
+2013,Harvard College,Computer Science,Economics,BASIC,"C, Java, Python",6 months to 1 year,Weekly,2,3,Laptop,Mac OS,,,,Male,18 to 24,,,"Prague, Czech Republic"
+2013,DCE,ongoing personal education,n/a,Java,"C, C++, C#, Java, Perl",Over 3 years,Weekly,4,3,"Desktop, Laptop",Mac OS,,,,Male,25 to 44,,,"Waltham, MA, USA"
+2013,DCE,Computer Science/HCI,none,Java,"C, C++",Over 3 years,Weekly,4,5,"Desktop, Laptop",Mac OS,,,,Female,45 to 64,,,"Boulder, Colorado"
+2013,DCE,Sustainability and Environmental Management,Ecological management,Python,"Some R, if that counts.",Less than 6 months,Less than once per month,3,3,"Desktop, Laptop",Windows XP,,,,,,,,"Cambridge, MA"
+2013,Harvard College,Psychology,N/A,C,HTML / CSS,Less than 6 months,Less than once per month,1,3,Laptop,Mac OS,,,,Female,18 to 24,,,"Braintree, MA, USA"
+2013,DCE,Sustainability and Environmental Management,Ecological management,Python,"R, if that counts",Less than 6 months,Less than once per month,3,3,"Desktop, Laptop",Windows XP,,,,,,,,"Cambridge, MA"
+2013,Harvard College,visual environmental studies,maybe computer science,C,"HTML / CSS, PHP",Less than 6 months,Two or more times per month,1,5,Laptop,Mac OS,,,,Male,18 to 24,,,"Palos Verdes, CA USA"
+2013,Harvard College,Economics,Computer Science,C,"C, C++, JavaScript, HTML / CSS, PHP, Python",1 to 3 years,Once per month,3,2,"Desktop, Laptop",Windows 7, Mac OS, Linux / Unix,,Male,18 to 24,,,"Lexington, MA, USA"
+2013,Harvard College,Psychology,n/a,C,"HTML / CSS, PHP, SQL",Less than 6 months,Less than once per month,2,1,Laptop,Mac OS,,,,Female,18 to 24,,,"Arlington, TX, USA"
+2013,Harvard College,Computer Science,Economics,C,"JavaScript, PHP",1 to 3 years,Weekly,4,2,Laptop,Mac OS,,,,Male,18 to 24,,,"Wayland, MA, USA"
+2013,DCE,Software Engineering,none,JavaScript,"C, HTML / CSS, PHP",1 to 3 years,Weekly,4,3,"Desktop, Laptop",Windows 7, Linux / Unix,,,Male,25 to 44,,,"Santa Ana, CA"
+2013,Harvard College,Economics,Global Health and Health Policy,Java,"C, Java, JavaScript, HTML / CSS, PHP, Python",6 months to 1 year,Less than once per month,2,2,Laptop,Mac OS,,,,Female,18 to 24,,,"Baton Rouge, Louisiana, USA"
+2013,Harvard College,English,Computer Science,C,"C, JavaScript, HTML / CSS, PHP, Python, SQL",6 months to 1 year,Weekly,4,3,Laptop,Mac OS, Linux / Unix,,,Male,18 to 24,,,"Winthrop House.
+
+I live in New York City at other times."
+2013,DCE,ALM in IT (Digital Media),none,Java,"C++, Java, JavaScript, HTML / CSS, PHP, SQL, VB / VBScript",Over 3 years,Daily,5,3,"Desktop, Laptop",Windows XP, Windows 7,,,Male,25 to 44,,,"Alexandria, Virginia, USA."
+2013,Harvard College,Applied Math,Economics,Java,"C, JavaScript, HTML / CSS, PHP",6 months to 1 year,Less than once per month,2,3,Laptop,Windows 8,,,,Male,18 to 24,,,"Annandale, VA, USA"
+2013,Harvard College,CS,None,C,"BASIC, C, C++, Java, JavaScript, HTML / CSS, Python, Ruby, SQL, VB / VBScript",Over 3 years,Daily,5,3,"Desktop, Laptop",Windows 7, Linux / Unix,,,Male,18 to 24,,,"Bedford Hills, NY, USA"
+2013,Harvard College,Engineering Sciences (SB),None,C,"HTML / CSS, PHP, Processing",6 months to 1 year,Two or more times per month,3,3,Laptop,Windows 7,,,,Male,18 to 24,,,"West Bloomfield, MI"
+2013,Harvard College,Mathematics,Computer Science,Python,"C, C++, JavaScript, HTML / CSS, PHP, Python, Ruby, VB / VBScript",Over 3 years,Once per month,4,1,Laptop,Mac OS,,,,Male,18 to 24,,,"Enniskillen, County Fermanagh, Northern Ireland"
+2013,Harvard College,Economics,Computer Science,PHP,C,Less than 6 months,Weekly,2,1,Laptop,Mac OS,,,,Female,18 to 24,,,"Syracuse, NY"
+2013,Harvard College,Engineering Sciences,None,JavaScript,"C, HTML / CSS, PHP, SQL",Less than 6 months,Two or more times per month,2,3,Laptop,Mac OS,,,,Male,18 to 24,,,"Salinas, CA 93907, USA"
+2013,Harvard College,Computer Science,none,C,"C++, Java, JavaScript, HTML / CSS, PHP",1 to 3 years,Daily,4,5,Laptop,Mac OS,,,,Female,18 to 24,,,"Tucson, AZ, USA"
+2013,DCE,Bachelor of Science in Statistics,None,Python,"C++, SQL",1 to 3 years,Weekly,4,1,"Desktop, Laptop",Windows 7, Windows 8,,,Male,25 to 44,,,"Framingham, MA"
+2013,DCE,Computer Science,Bussines,Java,"Java, SQL",6 months to 1 year,Less than once per month,3,1,Laptop,Windows 7,,,,Male,25 to 44,,,"Lowell, ma, USA"
+2013,Harvard College,Applied Math,Computer Science,JavaScript,"C, Java, JavaScript, HTML / CSS, PHP, SQL",1 to 3 years,Weekly,4,4,Laptop,Mac OS,,,,Male,18 to 24,,,Harvard dorm
+2013,Harvard College,Economics,Computer Science,HTML / CSS,"C, Java, JavaScript, PHP",1 to 3 years,Less than once per month,3,2,Laptop,Mac OS,,,,Female,18 to 24,,,"Tampa, Florida, USA"
+2013,Harvard College,Computer Science and Mathematics (Joint),Economics,Python,"C, JavaScript, HTML / CSS",1 to 3 years,Two or more times per month,3,2,Laptop,Mac OS,,,,Male,18 to 24,,,"I live on campus, but during breaks I'm located in West Roxbury, MA USA"
+2013,Harvard College,Engineering Sciences,Visual and Environmental Studies,C,HTML / CSS,Less than 6 months,Weekly,3,4,Laptop,Mac OS,,,,Female,18 to 24,,,"Silver Spring, MD, USA"
+2013,Harvard College,economics,computer science,C,"HTML / CSS, PHP, SQL",1 to 3 years,Weekly,3,3,Laptop,Mac OS,,,,Male,18 to 24,,,"Marietta, GA
+United States"
+2013,Harvard College,"Master in Design Studies, Technology Concentration",N/A,C#,"C#, JavaScript, HTML / CSS",Less than 6 months,Weekly,2,5,Laptop,Windows 7,,,,Female,18 to 24,,,"Beijing, China"
+2013,Harvard College,"Engineering Sciences, S.B.",none,C,"C, JavaScript, PHP, SQL",6 months to 1 year,Two or more times per month,2,3,Laptop,Windows 7, Mac OS,,,Male,18 to 24,,,"Washington, DC, USA"
+2013,Harvard College,Social Anthropology,Computer Science,BASIC,C++,Less than 6 months,Less than once per month,1,4,Laptop,Mac OS,,,,Female,18 to 24,,,"Milwaukee, Wisconsin, U.S."
+2013,Harvard College,Economics,Computer Science,C,"HTML / CSS, PHP, SQL",Less than 6 months,Two or more times per month,1,1,Laptop,Mac OS,,,,Male,18 to 24,,,"Bakersfield, CA US"
+2013,DCE,Computer Science,Cognitive Science,Python,"C, C++, C#, Python",Over 3 years,Weekly,5,3,"Desktop, Laptop",Windows 7, Linux / Unix,,,Male,Under 17,,,"I live in Orlando Fl, in the United States."
+2013,Harvard College,Computer Science,Philosophy,C,Matlab,1 to 3 years,Two or more times per month,3,3,Laptop,Mac OS,,,,Female,18 to 24,,,"Los Angeles, CA"
+2013,Harvard College,Statistics,Computer Science,Python,"C, HTML / CSS, PHP, Python, SQL",6 months to 1 year,Weekly,4,2,Laptop,Windows 7, Linux / Unix,,,Male,18 to 24,,,"Edina, MN. USA."
+2013,DCE,ALM in Biotechnology,none,Python,"C, JavaScript, HTML / CSS, PHP, SQL",6 months to 1 year,Weekly,2,1,Laptop,Windows 7, Linux / Unix,,,Male,25 to 44,,,"Somerville, MA, USA"
+2013,DCE,Computer Science,n/a,VB / VBScript,"C++, C#, Java, HTML / CSS",Over 3 years,Weekly,4,1,Laptop,Windows 7,,,,Male,25 to 44,,,"Hartsdale, New York, US (Near Manhattan)"
+2013,DCE,Computer Science,Math,SQL,"C#, Java",Over 3 years,Daily,5,2,Laptop,Mac OS,,,,Female,18 to 24,,,"Somerville, MA, 02143"
+2013,Harvard College,mathematics,none,C,"C, HTML / CSS, PHP",Less than 6 months,Less than once per month,3,4,Laptop,Mac OS,,,,Male,18 to 24,,,Atlanta
+2013,Harvard College,Computer Science,None,PHP,"C, Java, JavaScript, HTML / CSS, PHP",1 to 3 years,Two or more times per month,3,4,Laptop,Mac OS,,,,Male,18 to 24,,,"New York, NY"
+2013,DCE,Management,None,HTML / CSS,JavaScript,Less than 6 months,Less than once per month,1,1,Desktop,Windows XP,,,,Female,25 to 44,,,"Cambridge, MA"
+2013,Harvard College,Electrical Engineering,n/a,PHP,"C, Java, JavaScript",1 to 3 years,Weekly,4,3,Laptop,Mac OS,,,,Male,18 to 24,,,"Rockville, MD
+USA"
+2013,Harvard College,History of Science,Computer Science,C,"C, HTML / CSS, PHP, SQL",Less than 6 months,Two or more times per month,2,4,Laptop,Mac OS, Linux / Unix,,,Male,18 to 24,,,"Los Angeles, California, United States"
+2013,Harvard College,Electrical Engineering,N/A,PHP,"HTML / CSS, PHP, SQL",Less than 6 months,Two or more times per month,2,4,Laptop,Windows 7, Mac OS, Linux / Unix,,Male,18 to 24,,,"Temecula, CA , USA"
+2013,Harvard College,Computer Science and Statistics Joint Concentration,None,Python,"C, JavaScript, HTML / CSS, PHP, Python, SQL",1 to 3 years,Weekly,3,1,Laptop,Mac OS,,,,Male,18 to 24,,,"Boca Raton, Florida, United States"
+2013,DCE,Biology,N/A,LISP,"C, Java, JavaScript, HTML / CSS, PHP, Python, SQL, Know well: Lua, Objective-C; Familiar: Bash; Some experience: Erlang, Factor, Prolog, etc.",Over 3 years,Weekly,4,3,Laptop,Windows 7, Mac OS,,,Male,25 to 44,,,"Somerville, MA 02144"
+2013,Harvard College,Computer Science,None,C,"C, C++, Java, HTML / CSS, PHP, SQL",Over 3 years,Two or more times per month,4,2,Laptop,Windows 7,,,,Male,18 to 24,,,"Walpole, Massachusetts, USA"
+2013,Harvard College,Applied Math,n/a,C,"JavaScript, PHP, SQL",6 months to 1 year,Once per month,3,2,Laptop,Mac OS,,,,Female,18 to 24,,,"Mashpee, MA 02649"
+2013,Harvard College,Computer Science,none,C,"JavaScript, HTML / CSS",6 months to 1 year,Weekly,2,3,Laptop,Mac OS,,,,Female,18 to 24,,,"Telford, Pennsylvania"
+2013,Harvard College,Engineering Sciences,-,C,"C, JavaScript, HTML / CSS, SQL",Less than 6 months,Two or more times per month,3,2,Laptop,Mac OS,,,,Female,18 to 24,,,"Palo Alto, CA, USA"
+2013,DCE,Computer Science,Mathematics,C,"BASIC, C, JavaScript, HTML / CSS",6 months to 1 year,Two or more times per month,3,4,Laptop,Mac OS,,,,Female,18 to 24,,,"Garden City, KS, USA"
+2013,Harvard College,economics,computer science,Python,C,Less than 6 months,Once per month,2,3,Laptop,Mac OS,,,,Male,18 to 24,,,New Jersey.
+2013,DCE,IT,Software Engineering,PHP,"C, C#, Java, JavaScript, HTML / CSS, Perl, PHP, Python, SQL, TI BASIC, m code for MATLAB, a handful of other things",Over 3 years,Daily,5,3,Laptop,Mac OS,,,,Female,18 to 24,,,"Somerville, MA USA"
+2013,Harvard College,Masters Public Policy,Business & Government Policy,Python,None,Less than 6 months,Less than once per month,1,3,Laptop,Mac OS,,,,Male,25 to 44,,,"Washington, D.C., USA"
+2013,Harvard College,computer science,none,Ruby,"C, C#, Java, HTML / CSS, PHP, Python, Ruby",Over 3 years,Weekly,5,3,Laptop,Windows 8, Mac OS, Linux / Unix,,Female,18 to 24,,,"Bowling Green, KY, USA"
+2013,Harvard College,History of Art and Architecture,Mind/Brain/Behavior,HTML / CSS,"C, JavaScript, HTML / CSS, PHP, SQL",Less than 6 months,Less than once per month,1,3,Laptop,Mac OS,,,,Female,18 to 24,,,"New York, USA"
+2013,DCE,Digital Media and Instructional Design,none,HTML / CSS,"JavaScript, PHP, SQL",Over 3 years,Weekly,2,3,Laptop,Windows 7,,,,Female,25 to 44,,,"Boston, MA US"
+2013,Harvard College,Computer Science,Linguistics,C,"C, JavaScript, HTML / CSS, PHP, Python, SQL",1 to 3 years,Weekly,3,2,Laptop,Mac OS,,,,Female,18 to 24,,,"Moraga, California, USA"
+2013,DCE,Urban Planning,Transportation,Python,SQL,Less than 6 months,Once per month,3,1,Laptop,Windows 7,,,,Male,18 to 24,,,"Cambridge, MA, USA"
+2013,Harvard College,CS,Psychology,C,"Java, HTML / CSS, Ruby",1 to 3 years,Two or more times per month,3,2,Laptop,Mac OS, Linux / Unix,,,Male,18 to 24,,,"White Plains, NY
+USA"
+2013,Harvard College,Computer Science,The Mathematical Sciences,C,"C++, Java, JavaScript, HTML / CSS, Python",1 to 3 years,Two or more times per month,5,3,Laptop,Windows 7,,,,Male,18 to 24,,,"Kisii, Kenya"
+2013,DCE,ALM in ISM,None,PHP,"C, C++, Java, JavaScript, HTML / CSS, PHP, Python, SQL",Over 3 years,Once per month,5,2,"Desktop, Laptop",Windows 8, Mac OS,,,Male,45 to 64,,,"Belmont, MA"
+2013,DCE,Software Engineering,-,Ruby,"Java, JavaScript, HTML / CSS, PHP, Python, Ruby, SQL",Over 3 years,Daily,5,5,Laptop,Mac OS,,,,Male,18 to 24,,,"Montreal, Qc, Canada"
+2013,Harvard College,Biomedical Engineering,Computer Science,PHP,"C, JavaScript, PHP, Python, SQL",1 to 3 years,Two or more times per month,3,2,Laptop,Mac OS,,,,Male,18 to 24,,,"Lorton, VA, USA"
+2013,Harvard College,Aeronautics & Astronautics,Systems Engineering,Java,"BASIC, C, HTML / CSS, Perl, VB / VBScript",1 to 3 years,Weekly,4,2,Laptop,Windows 7, Mac OS,,,Male,25 to 44,,,"Boston, MA"
+2013,DCE,"ALM - IT, Software Engineering",none so far,HTML / CSS,"JavaScript, PHP",Over 3 years,Once per month,4,4,"Desktop, Laptop",Windows 8, Mac OS,,,Male,25 to 44,,,"My home base is in Arlington, Virginia."
+2013,Harvard College,VES,computer science,C,"C, HTML / CSS, PHP, SQL",Less than 6 months,Once per month,1,4,Laptop,Mac OS, Linux / Unix,,,Male,18 to 24,,,"Rancho Palos Verdes, CA USA"
+2013,Harvard College,Electrical Engineering,Computer Science,JavaScript,"C, Java, JavaScript, HTML / CSS",Less than 6 months,Weekly,3,4,Laptop,Windows 8, Mac OS,,,Male,18 to 24,,,"Freeport, ME, USA"
+2013,Harvard College,Public Policy,Political and Economic Development,C++,None,Less than 6 months,Less than once per month,1,3,Laptop,Mac OS,,,,Female,25 to 44,,,"Mumbai, Maharashtra, India."
+2013,DCE,"Information Technology, Information management systems",None,Java,"HTML / CSS, Perl, SQL",1 to 3 years,Weekly,4,2,"Desktop, Laptop",Windows 7, Mac OS, Linux / Unix,,Male,25 to 44,,,"Somersworth, NH  United States"
+2013,DCE,Computer Science,none,Java,HTML / CSS,1 to 3 years,Once per month,3,5,Laptop,Mac OS,,,,Female,25 to 44,,,"Ashburnham, MA USA"
+2013,Harvard College,Computer Science,I like how this is a mandatory question :P,C,"Java, OCaml!",1 to 3 years,Two or more times per month,4,1,Laptop,Windows 7,,,,Female,18 to 24,,,"Chicago, IL USA"
+2013,DCE,Computer Information Management Systems,None,HTML / CSS,"JavaScript, HTML / CSS, SQL",Less than 6 months,Less than once per month,2,4,Laptop,Windows 7,,,,Male,25 to 44,,,"Plano, TX 75023, United States"
+2013,DCE,Computer Science,Media Arts,Python,"C++, Java, JavaScript, HTML / CSS, Perl, Python, SQL",Over 3 years,Daily,5,4,"Desktop, Laptop",Mac OS,,,,Male,,,,I currently live in San Francisco California.
+2013,Harvard College,Classics,Computer Science,C,"C, JavaScript, HTML / CSS, PHP, SQL",Less than 6 months,Weekly,4,4,Laptop,Mac OS,,,,Female,18 to 24,,,"It is in Boxborough, Massachusetts (USA). Zip code 01719."
+2013,DCE,Biology,Design,BASIC,HTML / CSS,Less than 6 months,Less than once per month,1,5,Laptop,Mac OS,,,,Female,25 to 44,,,"Boston, but I will be traveling extensively to Japan, Paris, and London this semester."
+2013,Harvard College,Engineering Sciences SB,None,BASIC,"HTML / CSS, Perl, Kornshell",1 to 3 years,Once per month,2,2,"Desktop, Laptop",Windows 7,,,,Male,18 to 24,,,"Hammonton, New Jersey. US"
+2013,Harvard College,Computer Science,Sociology,C,"C#, Java, JavaScript, HTML / CSS, PHP, Python, SQL",1 to 3 years,Weekly,3,4,Laptop,Mac OS,,,,Female,18 to 24,,,"Atlanta, GA"
